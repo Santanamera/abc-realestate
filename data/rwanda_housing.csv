@@ -1,0 +1,2001 @@
+district,property_type,bedrooms,bathrooms,size_sqm,year_built,has_garage,has_garden,has_swimming_pool,has_security,is_gated_community,distance_to_cbd_km,road_condition,price_usd
+Kicukiro,Bungalow,2,2,44,2004,0,1,0,1,0,3.1,Gravel,167000
+Huye,Townhouse,2,1,67,1993,0,0,0,0,0,9.5,Dirt,80800
+Nyarugenge,Townhouse,5,4,154,2016,0,0,1,0,0,7.1,Gravel,324700
+Nyarugenge,Standalone Villa,2,2,74,2012,0,0,0,0,0,1.8,Dirt,281800
+Gasabo,Standalone Villa,2,2,48,2018,1,0,1,1,0,28.0,Tarmac,295400
+Gasabo,Apartment,4,4,120,1998,0,0,0,1,0,4.5,Gravel,231600
+Gasabo,Townhouse,3,3,69,1996,0,1,0,0,0,6.7,Tarmac,226600
+Rubavu,Bungalow,4,4,130,1993,0,1,0,1,0,9.7,Tarmac,146400
+Nyarugenge,Townhouse,2,1,67,1994,0,0,0,0,0,7.6,Gravel,208700
+Nyarugenge,Apartment,3,3,97,1994,0,1,1,1,1,3.0,Dirt,252500
+Gasabo,Apartment,1,1,40,2000,1,0,0,1,1,12.8,Dirt,156600
+Huye,Apartment,2,2,66,2017,0,0,0,0,0,0.9,Tarmac,112000
+Musanze,Apartment,5,4,174,2005,1,1,0,1,0,6.7,Tarmac,222400
+Gasabo,Townhouse,2,2,55,2019,1,1,0,1,0,2.6,Gravel,243800
+Gasabo,Bungalow,3,2,92,1993,0,1,0,0,1,7.7,Gravel,232800
+Gasabo,Apartment,3,3,73,1991,0,0,0,1,1,2.0,Tarmac,218200
+Kicukiro,Apartment,3,2,76,1992,0,0,0,0,0,11.8,Tarmac,173100
+Kicukiro,Townhouse,4,3,121,2010,1,1,0,0,1,2.1,Gravel,266700
+Kicukiro,Apartment,1,1,46,1995,0,1,0,1,0,17.7,Gravel,135300
+Gasabo,Bungalow,3,3,86,2007,1,0,0,1,0,15.8,Tarmac,244900
+Nyarugenge,Apartment,5,5,146,1994,1,1,0,1,1,3.6,Gravel,287000
+Gasabo,Apartment,3,3,83,1998,1,1,0,0,1,3.9,Gravel,233900
+Gasabo,Apartment,5,4,141,2009,0,0,1,1,1,9.7,Dirt,233100
+Kicukiro,Apartment,2,1,64,2017,0,1,0,1,0,0.8,Gravel,186400
+Kicukiro,Standalone Villa,3,2,67,2015,1,1,0,1,0,0.7,Tarmac,304300
+Musanze,Apartment,2,1,79,2007,1,0,0,0,1,1.2,Dirt,128900
+Gasabo,Standalone Villa,4,4,110,2008,1,1,0,1,1,6.6,Tarmac,364100
+Kicukiro,Standalone Villa,5,5,160,1992,1,0,0,1,0,1.3,Dirt,287600
+Nyarugenge,Apartment,2,1,40,1998,1,0,0,0,0,2.6,Gravel,187500
+Gasabo,Apartment,3,3,100,2020,1,1,0,1,1,8.3,Dirt,214700
+Nyarugenge,Standalone Villa,2,1,70,2006,1,1,0,0,1,0.5,Tarmac,343500
+Gasabo,Townhouse,3,3,95,2012,0,1,1,0,1,1.6,Gravel,270400
+Gasabo,Bungalow,3,3,75,2023,1,1,1,1,1,21.3,Gravel,237800
+Huye,Apartment,5,4,153,1994,0,1,0,1,0,8.7,Gravel,139000
+Huye,Apartment,3,3,72,2004,0,1,0,0,0,2.9,Tarmac,113100
+Musanze,Apartment,3,2,86,1992,1,0,0,0,1,0.5,Tarmac,156700
+Kicukiro,Standalone Villa,2,1,75,2008,0,1,0,1,0,7.1,Gravel,232200
+Gasabo,Townhouse,2,1,71,2017,0,1,0,1,1,2.0,Tarmac,250200
+Nyarugenge,Townhouse,2,1,60,1992,0,0,0,1,1,25.8,Gravel,200400
+Kicukiro,Townhouse,2,2,45,1993,1,1,0,1,0,9.3,Tarmac,214500
+Gasabo,Apartment,4,3,129,2013,1,1,0,1,1,29.2,Dirt,195200
+Kicukiro,Standalone Villa,3,3,90,2020,0,1,0,0,1,15.1,Tarmac,283400
+Gasabo,Bungalow,3,3,55,2000,0,0,0,1,0,5.3,Tarmac,227900
+Rubavu,Apartment,2,1,71,1990,0,1,0,0,1,8.9,Tarmac,102200
+Gasabo,Standalone Villa,4,4,119,1998,0,0,1,1,0,13.4,Gravel,304700
+Nyarugenge,Bungalow,4,4,138,2006,0,0,0,1,1,6.9,Tarmac,289000
+Kicukiro,Townhouse,2,2,43,1990,1,1,1,1,0,0.5,Tarmac,238200
+Kicukiro,Townhouse,4,4,72,1992,0,1,0,1,1,5.1,Gravel,207500
+Kicukiro,Apartment,3,2,94,2015,0,0,0,1,0,1.1,Tarmac,211500
+Gasabo,Standalone Villa,2,2,64,2020,0,0,0,1,0,10.0,Dirt,246200
+Huye,Apartment,3,2,64,2015,0,1,0,1,0,9.1,Dirt,97100
+Musanze,Townhouse,3,2,75,2012,0,1,0,0,0,39.6,Tarmac,105700
+Huye,Apartment,2,1,101,2019,1,1,0,1,0,7.9,Dirt,118300
+Rubavu,Townhouse,5,5,145,1999,0,1,0,0,0,12.9,Gravel,151600
+Nyarugenge,Townhouse,4,3,130,1997,1,0,0,0,1,2.5,Tarmac,335900
+Rubavu,Standalone Villa,3,3,80,2014,1,0,0,0,1,3.3,Gravel,185300
+Gasabo,Apartment,3,2,58,2011,0,0,0,1,1,19.9,Gravel,191600
+Gasabo,Apartment,3,3,87,2004,0,0,0,1,1,11.3,Dirt,181900
+Gasabo,Townhouse,3,2,86,1999,1,0,1,1,1,8.5,Gravel,256600
+Kicukiro,Townhouse,3,2,84,2009,0,0,0,0,0,2.3,Tarmac,212900
+Kicukiro,Townhouse,2,2,58,2012,1,1,0,0,1,9.6,Gravel,224400
+Gasabo,Apartment,3,3,93,1990,1,0,1,1,1,17.4,Tarmac,266600
+Musanze,Standalone Villa,4,3,117,1991,0,1,0,0,0,2.1,Gravel,188600
+Kicukiro,Townhouse,3,3,71,2008,1,1,0,0,1,9.8,Gravel,230100
+Gasabo,Standalone Villa,2,1,67,2003,1,1,0,1,0,4.0,Tarmac,315800
+Kicukiro,Townhouse,4,4,90,1997,0,1,0,1,1,1.0,Tarmac,278500
+Gasabo,Townhouse,2,2,40,2001,1,1,0,1,1,11.5,Gravel,213000
+Musanze,Apartment,2,1,71,2015,0,0,0,0,1,1.5,Tarmac,150900
+Gasabo,Apartment,2,1,67,2016,0,0,0,1,0,2.3,Tarmac,202900
+Huye,Standalone Villa,3,2,89,2018,1,0,0,1,0,12.2,Gravel,156800
+Musanze,Apartment,4,4,99,2004,1,0,0,1,1,10.8,Dirt,142100
+Gasabo,Townhouse,3,2,79,1990,1,1,1,0,0,2.3,Gravel,272000
+Gasabo,Townhouse,2,2,56,2017,0,1,0,1,0,22.6,Tarmac,198800
+Musanze,Bungalow,4,3,96,1992,0,1,1,1,0,1.9,Gravel,185400
+Nyarugenge,Townhouse,4,3,108,2007,0,0,0,0,1,40.0,Tarmac,251000
+Nyarugenge,Apartment,4,4,129,2023,0,1,0,1,0,10.7,Gravel,235500
+Musanze,Apartment,2,2,81,2021,0,0,0,0,0,4.0,Gravel,130400
+Gasabo,Townhouse,3,3,83,2018,0,1,0,1,0,1.1,Dirt,216500
+Kicukiro,Apartment,5,4,161,2014,0,0,0,1,0,3.1,Dirt,231800
+Gasabo,Townhouse,4,4,91,2015,0,0,0,1,0,1.7,Tarmac,273600
+Rubavu,Townhouse,1,1,40,1997,0,0,0,1,1,7.8,Dirt,79400
+Nyarugenge,Apartment,2,2,47,2008,1,1,0,1,1,3.5,Dirt,203900
+Kicukiro,Apartment,3,2,94,2011,1,0,0,1,1,2.8,Gravel,257800
+Gasabo,Standalone Villa,5,4,146,2018,0,0,0,1,0,11.3,Tarmac,365900
+Kicukiro,Bungalow,3,3,109,2022,1,1,0,0,1,2.1,Gravel,239600
+Kicukiro,Apartment,3,3,76,1992,1,1,0,1,1,7.1,Tarmac,227200
+Nyarugenge,Bungalow,2,2,69,2008,1,0,0,1,0,1.7,Gravel,244800
+Nyarugenge,Standalone Villa,3,2,85,1999,0,1,0,1,0,10.0,Tarmac,316600
+Rubavu,Bungalow,4,3,117,2016,0,0,0,1,1,7.8,Gravel,163100
+Kicukiro,Apartment,3,3,87,2004,1,0,0,1,0,12.8,Dirt,181500
+Gasabo,Apartment,4,3,107,2000,0,0,0,1,1,0.6,Tarmac,257500
+Nyarugenge,Townhouse,5,5,149,2015,1,0,1,1,0,1.9,Gravel,354200
+Musanze,Bungalow,2,2,59,2013,1,1,0,1,1,1.3,Tarmac,164000
+Nyarugenge,Standalone Villa,3,2,93,2002,1,1,0,1,1,1.7,Gravel,357600
+Musanze,Townhouse,2,2,61,2021,0,0,1,1,0,0.9,Gravel,162100
+Kicukiro,Bungalow,4,4,131,1993,0,1,1,0,0,6.6,Tarmac,239100
+Kicukiro,Apartment,3,3,103,2002,0,1,1,0,0,7.2,Gravel,223700
+Kicukiro,Standalone Villa,3,3,74,1998,1,0,0,1,0,14.8,Dirt,238700
+Gasabo,Bungalow,4,4,133,2023,0,0,0,0,0,4.3,Tarmac,257700
+Gasabo,Standalone Villa,3,3,72,1996,1,1,0,1,1,6.1,Gravel,295900
+Gasabo,Apartment,5,4,158,1990,0,1,0,1,0,38.0,Gravel,205500
+Nyarugenge,Townhouse,3,3,99,2001,0,1,0,0,0,6.1,Tarmac,276500
+Kicukiro,Apartment,2,2,40,2010,0,1,0,1,0,6.8,Dirt,153900
+Kicukiro,Apartment,3,3,91,2000,0,0,1,1,0,40.0,Gravel,161600
+Rubavu,Bungalow,4,4,112,2003,1,1,0,1,0,40.0,Tarmac,125500
+Gasabo,Standalone Villa,3,2,78,2023,0,0,0,0,1,4.4,Tarmac,323700
+Kicukiro,Townhouse,4,3,140,2023,1,1,0,0,1,8.1,Tarmac,277700
+Musanze,Townhouse,5,5,140,2014,1,1,0,1,0,5.2,Gravel,187000
+Gasabo,Apartment,2,1,47,1993,1,0,0,0,0,10.2,Gravel,166800
+Gasabo,Apartment,5,5,151,2015,1,0,0,1,0,22.3,Gravel,247300
+Gasabo,Apartment,2,2,70,2005,0,1,1,1,0,3.0,Gravel,218600
+Gasabo,Apartment,2,2,57,1999,0,0,0,0,0,13.7,Tarmac,187900
+Rubavu,Townhouse,2,2,77,1991,1,1,0,1,1,8.5,Tarmac,133000
+Musanze,Townhouse,4,4,127,2008,0,1,0,1,0,2.6,Dirt,155900
+Nyarugenge,Standalone Villa,3,2,57,1995,0,1,0,0,0,12.8,Dirt,242400
+Rubavu,Apartment,2,2,52,2008,0,0,0,0,1,4.5,Tarmac,117600
+Musanze,Standalone Villa,3,2,81,1997,1,1,0,0,1,1.0,Gravel,211900
+Gasabo,Standalone Villa,3,3,97,2003,0,1,0,0,0,40.0,Tarmac,282500
+Rubavu,Standalone Villa,2,2,40,1999,0,1,0,1,1,4.4,Tarmac,170400
+Kicukiro,Apartment,4,3,158,1992,0,1,0,0,1,6.2,Gravel,206700
+Musanze,Townhouse,4,4,127,2018,1,1,1,0,0,13.2,Tarmac,198400
+Rubavu,Apartment,3,3,92,2004,0,1,0,1,0,25.9,Tarmac,72200
+Kicukiro,Standalone Villa,5,4,167,2012,1,0,0,1,0,16.5,Gravel,303200
+Gasabo,Townhouse,3,2,125,2012,1,1,0,0,1,6.0,Dirt,263300
+Gasabo,Apartment,5,4,163,2007,1,0,0,1,0,6.3,Dirt,248400
+Kicukiro,Standalone Villa,3,2,104,2008,0,0,0,0,1,2.6,Gravel,258200
+Musanze,Apartment,3,2,91,2017,1,0,0,1,1,5.0,Tarmac,179000
+Rubavu,Apartment,2,1,57,2015,0,1,1,1,0,23.5,Tarmac,121100
+Gasabo,Apartment,4,4,112,1999,0,1,0,1,0,10.4,Gravel,235400
+Kicukiro,Bungalow,3,3,77,1993,1,1,0,1,0,0.5,Dirt,206800
+Kicukiro,Standalone Villa,2,2,49,1991,1,0,0,1,0,1.0,Dirt,218800
+Gasabo,Bungalow,1,1,40,1992,1,0,0,1,1,20.6,Gravel,155800
+Gasabo,Standalone Villa,3,2,88,1996,1,0,0,1,0,15.1,Tarmac,310700
+Kicukiro,Standalone Villa,3,2,64,2005,0,1,1,0,0,5.3,Tarmac,303200
+Huye,Standalone Villa,4,4,122,2020,1,0,0,1,0,7.7,Tarmac,168800
+Kicukiro,Apartment,4,4,119,1999,0,0,0,1,0,2.7,Dirt,184700
+Kicukiro,Apartment,2,1,62,2008,1,0,1,1,0,12.6,Tarmac,195500
+Nyarugenge,Apartment,4,4,112,2017,0,1,0,1,0,7.4,Tarmac,273000
+Kicukiro,Standalone Villa,2,1,106,2006,0,1,1,1,0,9.5,Tarmac,295000
+Huye,Apartment,4,4,140,2017,0,1,0,1,0,3.8,Gravel,149400
+Huye,Apartment,4,4,101,2008,0,0,0,0,0,4.5,Gravel,120500
+Gasabo,Apartment,3,3,93,2012,0,0,0,0,1,1.9,Gravel,213000
+Kicukiro,Standalone Villa,4,4,110,2009,0,0,0,1,0,23.7,Gravel,262100
+Kicukiro,Townhouse,3,2,74,2002,0,0,0,1,0,23.4,Gravel,168000
+Gasabo,Bungalow,3,2,69,2002,1,0,0,1,0,13.6,Tarmac,230300
+Gasabo,Apartment,4,3,126,2000,0,0,0,1,0,21.9,Tarmac,198700
+Nyarugenge,Apartment,3,3,79,2004,0,0,0,1,1,8.8,Dirt,203200
+Kicukiro,Standalone Villa,3,3,104,2006,0,0,0,1,0,2.1,Tarmac,310300
+Gasabo,Bungalow,3,2,104,2017,0,0,0,0,1,11.4,Tarmac,238800
+Gasabo,Apartment,4,3,140,2008,1,1,0,1,0,3.1,Tarmac,261300
+Rubavu,Townhouse,3,3,77,1993,1,1,0,0,0,4.6,Tarmac,139500
+Gasabo,Standalone Villa,2,2,67,2011,0,1,0,1,1,2.6,Tarmac,309700
+Gasabo,Apartment,4,3,129,2011,1,0,0,0,0,4.4,Gravel,240400
+Kicukiro,Apartment,4,4,112,2023,1,0,0,0,1,9.1,Dirt,223200
+Huye,Apartment,2,2,48,2022,0,1,1,0,0,0.9,Gravel,129300
+Gasabo,Bungalow,2,2,84,2022,1,0,0,0,0,0.9,Tarmac,236700
+Nyarugenge,Standalone Villa,2,2,63,2001,0,1,0,1,1,9.2,Gravel,311900
+Musanze,Standalone Villa,3,2,99,1991,0,1,1,1,0,12.1,Gravel,169300
+Gasabo,Standalone Villa,3,2,77,2017,0,1,1,0,1,6.4,Dirt,298400
+Nyarugenge,Townhouse,4,4,101,1999,0,1,0,1,0,1.6,Tarmac,301200
+Kicukiro,Standalone Villa,3,3,81,2011,1,1,0,1,1,4.5,Tarmac,317800
+Nyarugenge,Apartment,3,3,88,2006,0,1,0,0,0,11.4,Gravel,208500
+Nyarugenge,Apartment,3,3,74,2015,0,0,0,0,1,9.3,Gravel,217900
+Kicukiro,Apartment,4,4,119,1992,0,0,1,0,1,0.9,Tarmac,246100
+Gasabo,Townhouse,3,2,64,1996,1,0,0,1,0,27.8,Tarmac,228000
+Musanze,Apartment,5,5,133,1997,1,0,0,0,0,2.0,Gravel,174000
+Kicukiro,Standalone Villa,3,3,100,2009,1,0,0,0,1,2.0,Tarmac,308600
+Gasabo,Apartment,2,2,69,2001,0,0,0,0,0,4.9,Tarmac,191200
+Gasabo,Bungalow,3,3,84,2006,1,1,0,1,0,3.2,Tarmac,240800
+Nyarugenge,Apartment,3,3,74,2017,0,0,0,1,1,33.1,Tarmac,207400
+Nyarugenge,Apartment,3,3,74,1999,0,0,0,0,1,0.6,Tarmac,261400
+Gasabo,Bungalow,2,1,54,2011,0,0,0,1,0,2.9,Tarmac,215700
+Kicukiro,Standalone Villa,2,2,69,2022,0,1,0,1,0,3.9,Tarmac,286100
+Gasabo,Bungalow,4,4,133,2011,1,0,0,0,0,5.4,Tarmac,274400
+Nyarugenge,Apartment,2,1,52,2002,1,1,0,0,0,0.5,Tarmac,253000
+Gasabo,Apartment,4,3,102,2016,1,1,0,1,0,0.7,Tarmac,261900
+Nyarugenge,Townhouse,2,2,64,2004,0,1,1,1,1,2.4,Tarmac,298300
+Kicukiro,Bungalow,3,2,77,2011,0,0,0,1,0,6.5,Tarmac,207900
+Huye,Apartment,3,3,82,2019,0,0,0,1,1,11.7,Tarmac,133000
+Gasabo,Bungalow,3,3,109,2023,1,1,0,0,1,9.3,Tarmac,265200
+Kicukiro,Standalone Villa,3,3,102,2023,1,0,0,0,1,6.7,Tarmac,303000
+Gasabo,Townhouse,2,1,62,2008,1,0,0,1,0,4.0,Gravel,225100
+Rubavu,Standalone Villa,1,1,40,1997,0,0,0,1,0,16.4,Tarmac,113400
+Rubavu,Apartment,3,3,93,2022,1,1,0,0,0,4.9,Dirt,137100
+Gasabo,Bungalow,3,3,105,2017,1,0,0,1,0,2.8,Tarmac,237300
+Nyarugenge,Bungalow,5,4,144,2014,1,1,0,1,0,7.9,Dirt,248800
+Musanze,Standalone Villa,4,4,140,2006,1,0,0,0,1,9.4,Tarmac,231600
+Nyarugenge,Apartment,4,4,139,2013,1,1,0,1,0,4.1,Gravel,268400
+Kicukiro,Apartment,4,3,144,2010,1,1,0,0,0,0.5,Tarmac,270700
+Gasabo,Standalone Villa,3,2,94,1991,1,0,0,1,0,0.8,Dirt,282100
+Gasabo,Apartment,2,1,68,2020,0,0,0,1,1,14.9,Tarmac,192100
+Rubavu,Standalone Villa,5,4,171,2022,0,0,0,0,1,0.5,Dirt,222500
+Rubavu,Apartment,3,3,96,2019,0,0,0,1,0,7.2,Gravel,141000
+Nyarugenge,Townhouse,3,2,82,2001,0,1,0,1,0,1.6,Gravel,251500
+Kicukiro,Apartment,2,1,53,2001,1,0,1,0,1,2.1,Dirt,194400
+Kicukiro,Standalone Villa,3,3,93,2013,0,1,0,0,0,2.6,Dirt,239200
+Nyarugenge,Standalone Villa,3,3,70,2013,0,0,0,0,1,0.5,Gravel,315600
+Rubavu,Townhouse,4,4,117,2000,0,0,0,1,0,1.6,Tarmac,179900
+Rubavu,Standalone Villa,3,3,106,2002,1,1,0,0,0,8.4,Tarmac,152900
+Musanze,Apartment,3,2,57,2016,0,1,0,1,0,5.5,Tarmac,126100
+Nyarugenge,Townhouse,5,4,173,1997,0,0,1,0,1,12.8,Tarmac,333700
+Gasabo,Townhouse,2,2,76,1999,0,1,0,0,0,0.5,Tarmac,241600
+Gasabo,Townhouse,3,3,83,1997,0,0,0,1,0,17.6,Gravel,196300
+Rubavu,Bungalow,1,1,40,2009,1,1,0,1,0,40.0,Gravel,66500
+Nyarugenge,Townhouse,4,4,120,1997,0,0,0,1,0,0.5,Tarmac,279100
+Gasabo,Townhouse,5,5,168,1998,1,0,1,1,1,27.4,Gravel,277700
+Gasabo,Apartment,2,2,74,1996,1,1,0,1,1,2.2,Tarmac,238600
+Nyarugenge,Standalone Villa,4,4,98,2003,1,0,1,0,0,9.4,Dirt,307800
+Gasabo,Standalone Villa,2,2,68,2017,0,0,0,0,1,2.8,Tarmac,311900
+Gasabo,Apartment,5,5,146,1991,0,0,0,0,0,5.9,Gravel,227300
+Kicukiro,Standalone Villa,4,4,121,1997,0,1,0,1,0,5.7,Dirt,267100
+Nyarugenge,Apartment,4,4,109,2002,0,1,0,1,1,3.6,Tarmac,270200
+Nyarugenge,Townhouse,1,1,56,2010,1,1,1,0,0,10.1,Gravel,265500
+Gasabo,Standalone Villa,5,5,165,2017,0,0,0,0,0,7.3,Dirt,308000
+Nyarugenge,Standalone Villa,4,3,108,2012,0,1,0,0,0,5.7,Tarmac,347500
+Gasabo,Bungalow,3,2,69,2004,1,0,0,1,1,32.5,Dirt,176800
+Kicukiro,Standalone Villa,4,4,114,1991,1,0,1,1,0,22.5,Gravel,286700
+Nyarugenge,Standalone Villa,2,2,66,2001,0,1,1,0,0,24.9,Tarmac,322100
+Nyarugenge,Apartment,4,3,123,1992,0,0,0,1,1,17.1,Tarmac,255400
+Musanze,Bungalow,2,2,78,1994,0,0,0,1,1,2.4,Gravel,136400
+Nyarugenge,Standalone Villa,4,4,131,1992,1,1,0,0,1,3.4,Dirt,331800
+Nyarugenge,Townhouse,3,2,104,2008,1,1,0,1,0,2.1,Tarmac,305700
+Gasabo,Apartment,2,1,64,1991,1,0,0,1,0,34.3,Gravel,156300
+Kicukiro,Standalone Villa,2,1,40,2006,1,0,0,0,0,1.3,Tarmac,265000
+Gasabo,Apartment,1,1,40,2003,0,1,0,1,1,3.7,Gravel,195100
+Gasabo,Townhouse,3,2,105,2017,0,0,0,0,1,1.8,Gravel,262400
+Huye,Townhouse,3,3,89,2016,0,0,0,1,1,2.0,Tarmac,169600
+Kicukiro,Townhouse,3,2,97,1999,1,0,0,1,0,2.3,Gravel,239000
+Rubavu,Townhouse,2,2,55,1992,1,1,0,1,0,8.2,Dirt,119100
+Nyarugenge,Standalone Villa,2,2,44,2014,0,0,0,0,0,0.6,Tarmac,314200
+Musanze,Townhouse,4,3,118,2011,0,0,0,0,0,6.8,Gravel,140900
+Kicukiro,Standalone Villa,1,1,40,2019,1,0,0,1,0,13.7,Tarmac,252800
+Nyarugenge,Townhouse,5,5,140,2010,0,0,0,0,1,11.6,Gravel,299500
+Kicukiro,Apartment,4,3,116,2019,1,0,0,1,0,1.3,Gravel,223900
+Gasabo,Apartment,3,3,75,2017,0,1,0,0,0,19.7,Tarmac,187100
+Nyarugenge,Standalone Villa,3,3,106,2020,0,1,0,1,1,11.8,Gravel,351100
+Gasabo,Standalone Villa,4,4,115,2015,0,0,0,1,0,0.5,Gravel,321400
+Gasabo,Apartment,2,1,81,2011,1,1,0,1,1,10.7,Dirt,183600
+Nyarugenge,Townhouse,2,1,82,2010,1,0,0,0,0,10.7,Tarmac,253700
+Gasabo,Apartment,2,2,58,1990,0,1,0,1,0,5.5,Tarmac,185400
+Huye,Apartment,4,3,104,2002,1,0,0,0,0,0.5,Gravel,144000
+Huye,Townhouse,1,1,40,2010,1,1,0,1,0,6.9,Gravel,119600
+Rubavu,Standalone Villa,3,2,67,1998,1,0,0,0,0,11.6,Tarmac,148800
+Kicukiro,Townhouse,5,5,129,2006,0,1,1,1,0,2.5,Dirt,263600
+Gasabo,Standalone Villa,4,4,140,2010,1,1,0,1,0,8.8,Gravel,325400
+Rubavu,Bungalow,3,2,91,2020,0,0,0,1,0,3.5,Dirt,118600
+Kicukiro,Standalone Villa,2,2,65,2011,0,0,0,1,0,6.8,Tarmac,254100
+Huye,Apartment,4,4,86,2001,0,0,0,0,0,3.9,Tarmac,138000
+Huye,Standalone Villa,3,3,72,1995,0,1,1,1,0,2.9,Tarmac,179700
+Rubavu,Apartment,2,1,73,2005,1,0,0,0,1,15.5,Dirt,98500
+Gasabo,Bungalow,2,2,64,2015,0,1,0,1,1,11.2,Tarmac,224700
+Kicukiro,Apartment,5,5,147,1994,0,1,0,1,1,3.4,Dirt,220000
+Rubavu,Standalone Villa,3,3,98,1998,1,0,0,1,0,4.6,Gravel,178500
+Kicukiro,Apartment,4,4,144,2003,1,0,0,0,1,9.4,Tarmac,259500
+Gasabo,Townhouse,4,4,116,2019,1,1,0,0,0,13.3,Tarmac,258200
+Nyarugenge,Apartment,3,2,91,2015,0,1,0,1,0,9.2,Gravel,230000
+Huye,Bungalow,3,2,92,2018,1,1,0,1,0,6.2,Gravel,142500
+Nyarugenge,Apartment,3,3,125,2008,0,0,0,0,1,24.7,Tarmac,244900
+Nyarugenge,Apartment,3,3,58,1997,1,0,0,0,1,11.9,Dirt,213400
+Gasabo,Apartment,3,3,100,2012,1,1,0,0,1,1.0,Gravel,272100
+Nyarugenge,Townhouse,4,4,118,2020,1,1,0,1,0,6.5,Dirt,275100
+Huye,Bungalow,3,2,98,2021,0,1,0,1,1,4.2,Gravel,152800
+Gasabo,Apartment,4,4,110,1994,0,0,0,0,0,12.7,Tarmac,218400
+Kicukiro,Apartment,3,3,89,2005,0,0,0,0,0,0.5,Gravel,182300
+Rubavu,Townhouse,3,2,100,2006,0,0,1,1,1,4.2,Gravel,180600
+Nyarugenge,Apartment,3,3,136,2021,0,1,0,0,0,3.1,Tarmac,273900
+Nyarugenge,Apartment,3,2,102,2021,1,0,0,1,0,1.2,Dirt,229600
+Nyarugenge,Apartment,4,4,107,2009,0,1,0,1,0,3.8,Tarmac,249800
+Kicukiro,Apartment,2,1,53,1991,1,1,0,1,1,8.9,Dirt,152500
+Gasabo,Apartment,3,2,83,2009,0,0,0,1,0,3.6,Dirt,192800
+Musanze,Apartment,2,1,40,2007,0,0,0,1,0,6.9,Gravel,92700
+Musanze,Standalone Villa,3,2,85,1990,1,1,0,0,0,7.2,Tarmac,183400
+Rubavu,Townhouse,3,3,100,2018,1,0,0,1,0,7.1,Gravel,154800
+Rubavu,Apartment,3,3,70,2018,0,0,0,0,1,6.0,Gravel,127500
+Kicukiro,Townhouse,5,4,165,2008,0,0,0,1,0,1.0,Tarmac,276000
+Kicukiro,Apartment,3,3,97,1995,1,1,0,0,0,2.0,Gravel,203200
+Musanze,Townhouse,4,4,108,1997,0,1,0,1,0,12.9,Gravel,157200
+Nyarugenge,Apartment,3,3,87,2013,0,1,0,0,0,5.6,Tarmac,247100
+Nyarugenge,Townhouse,3,3,113,2009,1,1,0,0,0,9.8,Tarmac,279200
+Musanze,Apartment,2,2,71,2003,0,1,0,0,0,6.8,Tarmac,116700
+Rubavu,Bungalow,2,2,60,1994,0,1,0,1,1,0.5,Tarmac,123800
+Kicukiro,Apartment,3,2,86,2023,1,1,1,1,0,12.7,Dirt,211200
+Kicukiro,Standalone Villa,3,3,91,2005,1,0,0,0,0,0.5,Gravel,270300
+Gasabo,Bungalow,1,1,40,1996,0,0,0,0,0,22.9,Tarmac,163800
+Nyarugenge,Standalone Villa,2,2,40,2005,0,1,0,0,0,1.9,Dirt,257900
+Gasabo,Standalone Villa,2,2,90,1996,0,1,0,0,0,5.7,Tarmac,306100
+Kicukiro,Bungalow,5,4,152,2016,1,0,0,1,0,0.5,Tarmac,286400
+Kicukiro,Apartment,3,3,95,2003,1,1,0,1,1,18.0,Tarmac,221100
+Gasabo,Apartment,3,3,89,2003,0,0,0,1,0,31.3,Dirt,143300
+Nyarugenge,Bungalow,2,1,48,2022,0,0,0,1,0,1.3,Dirt,185700
+Gasabo,Apartment,3,3,87,2022,0,1,1,1,0,2.8,Gravel,255700
+Gasabo,Bungalow,2,2,40,2009,0,0,0,1,0,0.5,Tarmac,211800
+Musanze,Apartment,2,2,94,1996,1,1,0,0,0,12.4,Tarmac,125000
+Kicukiro,Townhouse,3,2,71,2021,0,0,0,0,0,3.0,Gravel,203700
+Gasabo,Standalone Villa,1,1,40,1992,0,0,0,1,0,7.1,Tarmac,249100
+Kicukiro,Bungalow,1,1,40,2018,0,1,0,0,0,0.5,Tarmac,196000
+Musanze,Standalone Villa,2,2,79,2013,0,1,0,0,1,10.1,Gravel,165300
+Gasabo,Apartment,1,1,40,2011,0,0,0,1,0,6.0,Tarmac,164500
+Nyarugenge,Townhouse,2,2,41,1995,1,1,1,1,0,10.3,Tarmac,275900
+Gasabo,Apartment,3,3,108,2013,1,1,0,1,1,12.5,Tarmac,238000
+Gasabo,Townhouse,4,4,130,2012,1,0,0,1,0,0.7,Gravel,284100
+Kicukiro,Bungalow,3,2,98,1999,1,0,0,0,1,6.9,Dirt,199300
+Kicukiro,Standalone Villa,3,2,100,2005,1,1,0,1,0,8.4,Tarmac,308700
+Nyarugenge,Townhouse,2,2,95,2000,1,1,0,0,0,5.8,Tarmac,257400
+Nyarugenge,Apartment,5,4,182,2021,1,0,0,1,0,1.6,Tarmac,325400
+Huye,Standalone Villa,3,3,79,1995,0,0,0,1,0,12.7,Tarmac,139300
+Kicukiro,Standalone Villa,2,2,84,2013,0,0,0,1,0,40.0,Gravel,184100
+Kicukiro,Townhouse,3,2,95,2022,0,0,1,1,1,27.9,Tarmac,257100
+Musanze,Apartment,2,1,67,2001,1,1,0,1,1,12.0,Tarmac,133800
+Gasabo,Townhouse,3,2,64,2016,1,1,0,1,1,4.3,Gravel,247600
+Kicukiro,Apartment,3,3,87,2007,0,0,0,0,1,3.3,Tarmac,225300
+Gasabo,Townhouse,4,3,107,2002,0,1,0,1,1,0.6,Dirt,239900
+Gasabo,Apartment,3,3,102,2019,0,1,0,1,0,4.3,Tarmac,249000
+Huye,Townhouse,4,3,136,2002,0,1,0,1,1,1.4,Tarmac,175000
+Musanze,Apartment,5,4,118,2023,0,1,1,1,0,2.3,Tarmac,204200
+Nyarugenge,Standalone Villa,2,2,59,2019,0,1,1,1,1,17.8,Tarmac,337000
+Kicukiro,Apartment,2,1,76,2014,0,1,0,0,1,27.7,Dirt,127500
+Gasabo,Townhouse,3,3,87,1991,1,0,0,0,0,23.7,Gravel,207000
+Gasabo,Apartment,3,3,100,2007,1,0,0,1,0,1.7,Tarmac,225600
+Gasabo,Townhouse,3,3,95,1994,1,1,0,1,1,18.5,Gravel,249600
+Kicukiro,Apartment,5,5,155,2008,1,0,0,0,0,1.2,Dirt,224700
+Nyarugenge,Townhouse,4,3,115,2007,1,0,0,1,0,5.7,Tarmac,296200
+Nyarugenge,Apartment,3,2,71,2021,1,0,0,1,0,8.3,Tarmac,249500
+Gasabo,Apartment,3,3,73,2010,1,1,1,1,0,5.0,Tarmac,259100
+Huye,Standalone Villa,4,3,130,1999,1,1,0,0,0,24.3,Dirt,146900
+Nyarugenge,Apartment,5,4,150,2011,0,0,0,1,0,3.2,Tarmac,262500
+Nyarugenge,Apartment,4,4,117,2002,0,0,0,1,0,6.0,Tarmac,265300
+Nyarugenge,Bungalow,1,1,40,2006,1,1,0,1,1,0.6,Tarmac,252100
+Kicukiro,Bungalow,3,3,85,1998,0,0,0,0,0,15.3,Gravel,165600
+Gasabo,Townhouse,2,1,75,2013,0,1,0,0,0,4.3,Gravel,227100
+Kicukiro,Apartment,2,2,54,2003,0,0,0,0,0,9.6,Tarmac,172900
+Musanze,Apartment,2,2,40,1997,0,1,0,1,0,9.2,Tarmac,108800
+Gasabo,Townhouse,3,3,101,2008,1,1,0,0,1,9.0,Dirt,235300
+Gasabo,Apartment,3,2,86,2017,0,1,0,1,1,5.7,Tarmac,233700
+Gasabo,Bungalow,2,2,60,2019,0,1,0,0,0,2.6,Tarmac,209500
+Gasabo,Apartment,3,3,114,1996,0,0,0,0,0,7.8,Gravel,214000
+Rubavu,Bungalow,3,3,89,2015,1,0,0,0,0,26.1,Gravel,112200
+Nyarugenge,Standalone Villa,3,2,94,2000,1,1,0,1,0,14.4,Tarmac,343700
+Kicukiro,Townhouse,2,2,42,2003,1,1,0,1,0,0.9,Tarmac,221600
+Gasabo,Apartment,3,3,86,2010,1,0,0,1,0,0.5,Gravel,245800
+Kicukiro,Bungalow,4,4,129,1997,0,1,1,1,1,5.5,Gravel,255700
+Kicukiro,Apartment,2,2,40,1992,0,1,1,0,0,12.0,Dirt,152100
+Gasabo,Townhouse,2,1,63,2017,0,1,0,1,0,3.0,Gravel,240700
+Kicukiro,Townhouse,3,2,91,2018,1,1,0,1,0,9.7,Tarmac,240800
+Kicukiro,Apartment,5,5,150,2012,1,1,0,1,0,21.5,Gravel,244300
+Nyarugenge,Standalone Villa,3,3,105,2007,0,1,1,0,0,4.9,Tarmac,374100
+Nyarugenge,Standalone Villa,3,2,95,2002,0,1,0,1,0,2.2,Dirt,283100
+Gasabo,Apartment,3,3,112,2001,0,1,0,0,1,20.0,Gravel,202400
+Kicukiro,Standalone Villa,3,2,75,1994,1,1,0,0,0,5.1,Gravel,253700
+Nyarugenge,Apartment,1,1,40,2000,0,0,0,0,0,4.2,Gravel,185000
+Kicukiro,Standalone Villa,3,2,91,2000,0,0,0,0,0,3.5,Tarmac,285500
+Rubavu,Townhouse,5,5,133,2020,0,0,0,1,1,4.4,Tarmac,204400
+Nyarugenge,Townhouse,3,3,104,2020,1,1,0,1,0,9.0,Tarmac,297900
+Gasabo,Apartment,4,3,154,2002,1,1,0,1,0,4.5,Gravel,240300
+Gasabo,Bungalow,4,4,119,2003,0,1,0,0,1,3.1,Tarmac,280800
+Nyarugenge,Bungalow,2,1,67,2014,1,1,1,0,0,10.9,Tarmac,269100
+Gasabo,Standalone Villa,5,5,151,2022,0,0,0,0,1,1.8,Gravel,353600
+Nyarugenge,Standalone Villa,2,1,49,2022,1,0,0,1,0,1.8,Tarmac,331200
+Huye,Standalone Villa,3,3,62,2004,0,1,0,0,0,9.5,Gravel,129800
+Nyarugenge,Townhouse,2,2,49,2005,1,0,0,1,0,16.1,Tarmac,234900
+Kicukiro,Townhouse,1,1,40,1995,0,0,0,0,0,2.2,Tarmac,170400
+Nyarugenge,Apartment,3,2,115,2014,0,1,0,1,1,1.7,Tarmac,270000
+Kicukiro,Townhouse,2,1,58,2004,1,0,0,0,0,8.9,Dirt,160200
+Kicukiro,Apartment,3,3,84,1993,0,1,0,0,0,7.8,Tarmac,187600
+Huye,Apartment,3,3,103,1993,0,0,0,0,1,4.7,Tarmac,123000
+Kicukiro,Townhouse,1,1,40,2019,0,1,0,0,1,0.8,Gravel,201000
+Huye,Townhouse,2,2,48,2023,0,0,0,0,0,0.8,Dirt,97000
+Rubavu,Standalone Villa,3,3,91,2016,0,0,0,1,0,12.0,Tarmac,131000
+Gasabo,Standalone Villa,3,3,105,2020,0,1,0,0,0,4.8,Gravel,302200
+Gasabo,Bungalow,4,4,127,2021,1,1,0,0,1,15.6,Gravel,257800
+Gasabo,Standalone Villa,3,3,93,1998,1,1,0,0,1,6.8,Gravel,319900
+Gasabo,Townhouse,4,4,121,1997,0,0,0,1,0,7.7,Tarmac,262800
+Gasabo,Apartment,3,3,96,2003,1,0,0,1,0,21.8,Tarmac,219800
+Nyarugenge,Apartment,3,3,93,2022,1,1,0,1,0,1.4,Tarmac,269500
+Gasabo,Apartment,3,3,74,2012,0,0,0,0,0,6.3,Gravel,200400
+Kicukiro,Standalone Villa,2,2,60,2010,0,0,0,0,1,0.5,Tarmac,270300
+Musanze,Townhouse,3,3,73,2001,1,1,1,0,0,3.6,Gravel,187700
+Gasabo,Apartment,4,3,121,1991,1,0,0,1,0,1.3,Tarmac,263400
+Musanze,Standalone Villa,3,3,82,2002,0,0,0,1,0,1.7,Tarmac,201800
+Gasabo,Apartment,4,4,158,1993,0,0,0,1,0,21.8,Gravel,202900
+Gasabo,Apartment,4,4,119,2009,0,1,0,1,0,7.5,Dirt,217400
+Nyarugenge,Bungalow,4,4,98,2003,1,0,0,1,1,17.8,Gravel,239900
+Nyarugenge,Townhouse,5,5,147,2019,0,1,0,1,1,4.7,Tarmac,322200
+Rubavu,Apartment,3,3,97,2018,1,0,0,0,0,7.3,Tarmac,144200
+Nyarugenge,Townhouse,3,2,115,1997,0,1,0,0,1,0.5,Gravel,274800
+Musanze,Townhouse,3,3,81,2001,0,0,0,1,1,5.1,Tarmac,149600
+Gasabo,Townhouse,3,2,66,2015,0,0,0,0,0,6.6,Gravel,220100
+Gasabo,Apartment,3,3,102,1991,1,1,0,1,0,0.5,Tarmac,253300
+Musanze,Standalone Villa,4,4,99,2003,0,1,0,1,0,12.5,Gravel,179200
+Musanze,Apartment,3,3,83,1995,0,1,0,1,0,2.8,Dirt,135700
+Huye,Townhouse,3,3,86,2020,1,1,1,0,1,4.8,Tarmac,181400
+Kicukiro,Townhouse,2,2,58,2006,1,0,0,1,0,6.1,Gravel,212900
+Kicukiro,Standalone Villa,3,2,100,2014,0,0,0,1,1,38.8,Tarmac,244800
+Musanze,Apartment,2,2,49,2021,0,0,0,0,1,0.8,Tarmac,147800
+Kicukiro,Apartment,4,3,115,2001,1,1,0,0,0,6.5,Tarmac,214400
+Huye,Apartment,3,2,89,2002,1,0,0,0,1,6.1,Gravel,129600
+Rubavu,Bungalow,2,2,62,2008,0,1,1,1,0,0.6,Tarmac,152800
+Kicukiro,Apartment,1,1,40,2014,1,0,0,0,0,8.0,Gravel,160800
+Musanze,Apartment,3,3,96,2020,0,1,1,1,0,2.7,Tarmac,175800
+Musanze,Bungalow,3,3,102,2014,1,0,0,1,0,0.9,Tarmac,171700
+Gasabo,Standalone Villa,3,3,95,2005,0,0,1,0,0,1.6,Tarmac,334900
+Rubavu,Townhouse,2,2,66,2012,1,1,0,1,1,13.9,Gravel,130900
+Kicukiro,Apartment,3,3,66,2003,0,1,0,0,1,0.9,Tarmac,230800
+Musanze,Standalone Villa,3,3,90,1995,1,1,0,1,0,5.0,Tarmac,196400
+Kicukiro,Standalone Villa,3,2,97,2014,1,1,0,0,0,1.7,Tarmac,286200
+Rubavu,Townhouse,3,2,100,2012,0,1,0,0,0,1.4,Tarmac,142400
+Kicukiro,Apartment,3,2,79,2001,0,1,0,0,1,1.8,Tarmac,228900
+Gasabo,Standalone Villa,2,2,50,2002,0,1,0,1,0,5.4,Tarmac,281400
+Rubavu,Townhouse,5,5,141,2023,1,1,1,0,1,2.2,Tarmac,250000
+Gasabo,Standalone Villa,3,3,98,1995,1,0,0,0,1,0.8,Tarmac,330100
+Kicukiro,Standalone Villa,3,3,105,1997,1,0,0,0,0,12.9,Tarmac,263800
+Huye,Apartment,2,2,53,1997,0,1,0,0,1,6.2,Gravel,105100
+Huye,Apartment,3,2,103,2022,1,1,0,1,1,1.4,Tarmac,160200
+Nyarugenge,Townhouse,1,1,40,2023,0,0,0,1,0,5.1,Tarmac,256800
+Nyarugenge,Townhouse,3,3,88,2004,0,0,1,1,0,0.6,Gravel,294800
+Kicukiro,Bungalow,5,5,146,2011,0,1,0,0,1,6.9,Gravel,265900
+Gasabo,Townhouse,3,3,101,2012,0,0,1,0,1,3.3,Dirt,265600
+Kicukiro,Standalone Villa,1,1,40,2011,1,1,0,1,1,0.9,Tarmac,291100
+Nyarugenge,Bungalow,1,1,64,1994,1,1,0,1,0,1.6,Gravel,206100
+Musanze,Apartment,3,3,77,2020,0,0,0,0,1,3.4,Gravel,141600
+Musanze,Standalone Villa,2,2,67,2002,0,1,0,1,0,13.1,Dirt,136300
+Musanze,Apartment,1,1,40,2017,0,1,0,1,1,1.5,Dirt,109400
+Gasabo,Apartment,4,4,106,2009,1,1,1,0,0,0.9,Tarmac,283500
+Kicukiro,Townhouse,3,2,89,2022,0,0,0,1,1,5.8,Tarmac,252400
+Gasabo,Standalone Villa,2,2,62,2005,0,0,0,0,0,6.5,Gravel,269800
+Kicukiro,Standalone Villa,5,5,193,2018,1,1,0,1,1,0.8,Tarmac,371900
+Kicukiro,Standalone Villa,2,2,57,2012,1,0,0,1,0,2.7,Gravel,264000
+Rubavu,Standalone Villa,5,5,133,2013,1,0,0,0,1,2.4,Tarmac,238900
+Kicukiro,Apartment,3,3,94,2023,1,0,1,1,1,1.6,Gravel,244500
+Gasabo,Townhouse,4,3,88,1996,1,0,1,1,0,3.0,Tarmac,290600
+Gasabo,Standalone Villa,3,2,88,1993,0,0,0,1,1,0.5,Tarmac,324100
+Musanze,Townhouse,4,4,120,2023,1,0,1,0,0,8.4,Dirt,201100
+Nyarugenge,Apartment,5,5,161,2011,0,1,0,1,0,35.7,Tarmac,243400
+Gasabo,Apartment,2,1,74,1994,1,1,0,1,1,8.0,Tarmac,228700
+Gasabo,Townhouse,5,5,142,2012,0,0,0,0,0,3.6,Tarmac,302100
+Nyarugenge,Townhouse,3,3,87,2004,1,1,0,0,1,8.8,Dirt,268400
+Gasabo,Standalone Villa,3,3,78,2020,0,0,0,1,1,6.8,Gravel,303900
+Musanze,Townhouse,3,2,73,1998,0,1,0,1,0,15.0,Gravel,100800
+Nyarugenge,Bungalow,3,2,94,2014,1,0,0,0,0,7.8,Tarmac,263700
+Gasabo,Bungalow,2,2,40,2014,0,0,0,1,0,8.0,Tarmac,205300
+Gasabo,Townhouse,3,2,83,2010,1,1,0,1,0,2.0,Tarmac,260900
+Huye,Townhouse,3,2,75,1998,0,0,1,0,1,4.3,Tarmac,161800
+Kicukiro,Apartment,4,4,128,2011,1,1,0,0,1,3.4,Tarmac,277400
+Kicukiro,Townhouse,4,4,147,2012,1,0,0,1,0,0.5,Gravel,265600
+Musanze,Standalone Villa,3,3,70,1993,1,0,0,1,0,3.0,Tarmac,169600
+Huye,Bungalow,3,2,62,2018,0,1,0,1,1,5.3,Tarmac,150000
+Huye,Apartment,2,2,58,2004,0,1,1,0,0,7.3,Tarmac,119100
+Musanze,Standalone Villa,2,1,60,1990,0,0,1,1,0,21.8,Tarmac,157500
+Kicukiro,Standalone Villa,2,2,63,2019,1,0,0,1,0,2.2,Tarmac,284000
+Gasabo,Standalone Villa,3,2,83,2018,1,0,0,0,1,1.3,Tarmac,341500
+Musanze,Apartment,2,2,56,2009,1,1,0,0,0,16.3,Tarmac,119200
+Nyarugenge,Standalone Villa,5,5,155,2022,0,0,0,1,0,22.8,Dirt,313400
+Kicukiro,Townhouse,3,2,105,2011,0,0,0,0,1,5.4,Tarmac,242700
+Rubavu,Townhouse,3,2,60,2002,0,1,0,0,0,1.0,Gravel,118100
+Gasabo,Apartment,3,2,84,1996,1,0,1,0,1,5.3,Tarmac,260300
+Kicukiro,Townhouse,2,2,63,1997,0,0,1,0,0,0.9,Gravel,223600
+Gasabo,Apartment,3,2,76,2017,0,0,0,1,0,17.2,Tarmac,192000
+Kicukiro,Apartment,3,3,115,1998,1,1,0,0,0,9.9,Gravel,188200
+Gasabo,Townhouse,3,3,80,2014,0,0,1,1,0,2.2,Tarmac,294000
+Gasabo,Townhouse,3,3,89,2005,1,0,0,1,0,17.4,Tarmac,260900
+Gasabo,Standalone Villa,5,5,158,1999,0,1,0,1,0,8.1,Dirt,302600
+Nyarugenge,Standalone Villa,4,4,111,2000,0,0,0,0,0,24.5,Gravel,301000
+Nyarugenge,Apartment,3,2,62,2020,0,0,0,1,0,31.5,Tarmac,197500
+Nyarugenge,Standalone Villa,3,3,83,2001,1,0,0,1,1,0.5,Tarmac,347200
+Huye,Apartment,3,2,105,2020,0,1,0,1,1,1.0,Tarmac,153900
+Kicukiro,Bungalow,2,2,54,2003,0,1,0,1,1,6.3,Gravel,207000
+Gasabo,Townhouse,3,3,77,2021,0,0,0,1,0,25.0,Gravel,193700
+Rubavu,Townhouse,1,1,43,2006,0,0,0,1,1,40.0,Tarmac,53000
+Gasabo,Standalone Villa,3,2,85,1990,1,0,0,1,0,6.7,Tarmac,300900
+Huye,Townhouse,3,2,82,2018,0,0,0,1,0,1.5,Tarmac,129200
+Gasabo,Standalone Villa,2,1,62,1993,1,1,1,0,0,1.4,Tarmac,331200
+Huye,Apartment,5,4,161,2012,0,0,0,0,1,11.5,Tarmac,175900
+Gasabo,Apartment,5,5,185,2017,1,0,0,1,1,7.2,Gravel,299900
+Rubavu,Townhouse,4,4,132,2005,1,1,1,0,0,6.4,Gravel,199900
+Kicukiro,Bungalow,3,2,107,2001,1,0,0,1,0,5.0,Tarmac,206900
+Huye,Apartment,4,4,112,2010,1,1,0,0,1,10.3,Dirt,130000
+Gasabo,Apartment,2,2,44,2006,0,0,0,1,0,15.6,Tarmac,187200
+Nyarugenge,Standalone Villa,4,4,120,2002,1,1,0,1,0,2.9,Gravel,338000
+Huye,Townhouse,2,2,61,2021,0,0,1,0,0,2.0,Dirt,130300
+Kicukiro,Apartment,4,4,103,2004,0,1,0,1,0,8.9,Tarmac,220900
+Nyarugenge,Apartment,2,2,57,2001,1,0,0,1,0,19.7,Tarmac,201700
+Nyarugenge,Townhouse,4,4,125,2004,0,1,0,1,1,3.4,Tarmac,292900
+Kicukiro,Standalone Villa,5,5,155,2023,1,0,0,1,0,2.5,Gravel,329400
+Nyarugenge,Apartment,2,2,67,1995,0,1,1,0,0,2.1,Tarmac,252500
+Nyarugenge,Apartment,3,3,94,2006,0,0,0,1,0,2.3,Gravel,223000
+Rubavu,Townhouse,5,4,142,2009,1,1,0,0,1,1.2,Tarmac,200900
+Gasabo,Standalone Villa,3,3,82,1998,1,1,0,0,0,7.3,Tarmac,317600
+Gasabo,Bungalow,4,4,102,1994,1,1,0,1,0,2.6,Tarmac,249400
+Huye,Townhouse,3,2,116,2012,1,1,1,1,0,7.6,Tarmac,181800
+Rubavu,Apartment,3,3,90,2022,1,0,0,1,0,0.7,Dirt,148500
+Kicukiro,Standalone Villa,2,2,56,2003,0,0,1,1,0,1.0,Dirt,224300
+Nyarugenge,Standalone Villa,2,1,46,2006,1,1,0,0,0,6.1,Tarmac,316200
+Gasabo,Apartment,4,4,164,2008,0,0,0,1,0,5.7,Tarmac,255100
+Gasabo,Bungalow,3,2,73,2022,0,0,1,1,0,2.5,Tarmac,257400
+Kicukiro,Townhouse,3,2,83,1990,0,0,0,0,0,14.0,Gravel,173500
+Kicukiro,Apartment,3,2,96,2002,0,0,0,1,1,1.7,Tarmac,205700
+Nyarugenge,Apartment,3,3,99,2016,1,1,0,1,1,3.6,Gravel,260500
+Gasabo,Apartment,4,4,134,1995,1,1,0,0,1,6.5,Tarmac,274600
+Huye,Apartment,5,5,177,1995,1,1,0,1,1,16.2,Gravel,180400
+Huye,Standalone Villa,3,3,97,2022,1,0,0,0,0,4.3,Gravel,166700
+Nyarugenge,Standalone Villa,4,4,104,2019,0,1,0,0,1,4.1,Tarmac,390600
+Kicukiro,Bungalow,4,4,116,2012,0,1,0,1,1,6.9,Gravel,227200
+Kicukiro,Apartment,3,3,94,1999,0,1,0,1,1,3.0,Gravel,207900
+Musanze,Standalone Villa,5,5,181,2008,1,1,0,1,0,9.9,Gravel,231200
+Nyarugenge,Bungalow,2,2,40,2017,0,1,0,1,0,2.3,Tarmac,209900
+Gasabo,Standalone Villa,2,2,78,2012,0,0,0,1,1,13.9,Tarmac,301400
+Rubavu,Apartment,4,3,122,1993,1,0,0,1,1,2.5,Dirt,156000
+Musanze,Apartment,3,3,102,2009,1,0,1,0,0,39.4,Gravel,103600
+Huye,Apartment,4,4,118,2008,1,1,0,1,1,3.0,Gravel,178700
+Nyarugenge,Bungalow,4,3,107,2016,1,1,1,0,1,16.9,Gravel,293600
+Nyarugenge,Bungalow,2,2,71,2023,0,1,0,1,0,4.1,Tarmac,251700
+Kicukiro,Bungalow,4,4,129,1993,0,1,0,1,0,2.3,Dirt,191500
+Huye,Townhouse,3,3,104,1996,1,1,0,0,0,2.1,Tarmac,138100
+Rubavu,Standalone Villa,3,2,89,1996,1,1,0,1,0,15.2,Dirt,142300
+Gasabo,Bungalow,3,3,81,2015,1,1,0,1,1,3.0,Tarmac,263000
+Gasabo,Bungalow,5,5,126,2015,0,0,1,0,0,3.3,Tarmac,290100
+Kicukiro,Standalone Villa,1,1,42,2008,1,0,0,0,1,1.8,Tarmac,260300
+Musanze,Apartment,3,2,96,1998,0,0,0,1,1,26.0,Dirt,100600
+Huye,Standalone Villa,3,3,75,2009,0,0,1,0,0,2.2,Dirt,169300
+Gasabo,Apartment,4,4,111,2005,0,1,0,1,0,2.3,Gravel,237500
+Nyarugenge,Apartment,3,2,82,2006,0,0,0,1,1,23.0,Tarmac,231600
+Kicukiro,Bungalow,2,2,40,2011,0,1,0,1,0,18.5,Tarmac,181200
+Huye,Bungalow,2,1,47,2002,0,0,1,0,1,2.3,Gravel,121300
+Musanze,Apartment,3,3,72,2001,1,0,0,1,0,16.0,Tarmac,123700
+Musanze,Standalone Villa,4,3,113,1999,1,1,0,0,0,2.3,Gravel,214200
+Kicukiro,Townhouse,2,2,48,1990,0,1,0,1,0,0.7,Gravel,202100
+Kicukiro,Townhouse,2,1,40,2021,0,0,0,0,0,13.7,Tarmac,195900
+Gasabo,Standalone Villa,5,4,180,2019,1,1,0,1,0,11.8,Gravel,349000
+Gasabo,Townhouse,1,1,48,1997,0,0,0,1,1,2.8,Gravel,207500
+Rubavu,Bungalow,5,5,138,2010,0,1,0,1,0,0.8,Dirt,166300
+Musanze,Bungalow,3,3,94,2011,1,1,0,0,1,1.8,Gravel,184100
+Huye,Standalone Villa,4,4,126,2007,0,0,0,0,1,11.8,Gravel,167300
+Huye,Apartment,2,2,77,1991,1,1,0,1,1,26.8,Tarmac,109600
+Nyarugenge,Bungalow,1,1,40,1998,1,1,0,0,0,2.4,Tarmac,240100
+Musanze,Apartment,4,4,136,1992,1,1,0,1,1,13.6,Tarmac,187000
+Huye,Townhouse,4,4,111,2015,1,1,0,0,0,2.1,Tarmac,177600
+Musanze,Apartment,4,4,99,2010,1,0,1,1,0,9.1,Tarmac,201600
+Gasabo,Standalone Villa,2,1,70,2019,0,1,0,1,1,0.7,Tarmac,312900
+Kicukiro,Standalone Villa,4,4,139,2017,1,1,0,0,0,7.0,Dirt,273300
+Gasabo,Apartment,4,4,158,2015,0,1,0,1,1,2.5,Gravel,254500
+Huye,Bungalow,3,3,72,2023,1,0,0,0,1,20.8,Tarmac,107300
+Nyarugenge,Apartment,4,4,130,1997,1,1,0,0,0,2.7,Tarmac,276700
+Gasabo,Bungalow,4,4,113,1999,0,1,0,0,0,4.1,Tarmac,252600
+Nyarugenge,Bungalow,3,3,101,2003,1,1,0,1,1,14.7,Tarmac,276900
+Nyarugenge,Apartment,2,2,40,2004,0,0,0,1,0,4.6,Tarmac,206100
+Kicukiro,Townhouse,3,2,71,2006,0,0,0,1,1,2.2,Dirt,199500
+Gasabo,Apartment,2,2,48,2007,1,0,1,0,0,6.3,Gravel,220600
+Nyarugenge,Townhouse,3,2,91,2021,0,0,0,1,0,14.7,Gravel,226400
+Kicukiro,Standalone Villa,3,2,80,2012,0,1,0,0,0,4.5,Tarmac,279400
+Musanze,Apartment,2,1,69,2012,0,1,0,0,0,1.1,Tarmac,137500
+Kicukiro,Standalone Villa,3,2,105,2004,1,1,0,0,0,3.9,Tarmac,293800
+Rubavu,Townhouse,2,2,68,2013,0,1,0,1,0,24.7,Gravel,89700
+Nyarugenge,Bungalow,4,4,144,2017,0,0,0,1,0,0.6,Gravel,284900
+Nyarugenge,Apartment,5,4,156,2005,1,0,0,0,1,4.2,Tarmac,288800
+Rubavu,Standalone Villa,2,2,41,2005,0,1,0,1,0,8.4,Gravel,123100
+Kicukiro,Apartment,5,5,170,1995,0,1,0,0,0,0.7,Tarmac,246300
+Gasabo,Townhouse,3,2,80,1991,1,1,0,1,0,3.4,Tarmac,265600
+Gasabo,Apartment,2,1,73,2002,0,0,1,0,0,22.6,Gravel,161200
+Musanze,Townhouse,2,1,83,1998,1,1,0,0,0,0.5,Tarmac,163100
+Nyarugenge,Apartment,3,2,96,2023,0,0,0,1,0,11.1,Gravel,218500
+Nyarugenge,Standalone Villa,4,3,97,2006,1,1,0,1,0,14.7,Tarmac,363300
+Gasabo,Townhouse,4,4,106,2016,1,1,0,1,0,2.6,Tarmac,306100
+Gasabo,Townhouse,2,1,79,2018,0,1,0,1,0,1.9,Tarmac,239600
+Gasabo,Townhouse,2,2,57,2011,0,0,1,1,0,19.7,Tarmac,234500
+Kicukiro,Standalone Villa,3,3,91,2013,1,1,0,1,0,11.6,Tarmac,291000
+Nyarugenge,Bungalow,2,1,71,1996,0,0,0,1,1,1.0,Gravel,227900
+Kicukiro,Standalone Villa,2,2,70,2023,1,0,0,0,0,1.9,Tarmac,276900
+Kicukiro,Bungalow,2,2,64,2001,1,1,0,1,1,7.8,Tarmac,229800
+Rubavu,Standalone Villa,4,4,116,2012,1,0,0,1,1,4.3,Gravel,205700
+Kicukiro,Standalone Villa,5,4,145,2004,1,1,0,0,0,5.6,Dirt,280800
+Kicukiro,Apartment,3,3,102,2022,0,0,0,1,1,24.2,Gravel,196700
+Musanze,Standalone Villa,5,4,158,2002,0,1,0,0,0,4.4,Dirt,205300
+Kicukiro,Apartment,3,3,86,2012,1,1,0,1,1,17.1,Gravel,208200
+Nyarugenge,Bungalow,3,2,106,2021,1,0,0,0,0,8.6,Tarmac,255800
+Rubavu,Townhouse,2,1,58,1990,1,1,0,0,0,1.0,Gravel,134900
+Huye,Bungalow,3,3,77,1994,1,1,0,0,0,10.9,Tarmac,107500
+Gasabo,Apartment,5,5,138,2002,1,1,0,1,1,5.9,Tarmac,300800
+Rubavu,Apartment,3,3,75,1994,0,1,0,0,0,2.0,Tarmac,130600
+Kicukiro,Bungalow,3,2,85,2021,1,1,0,1,1,2.7,Tarmac,236000
+Gasabo,Standalone Villa,3,2,108,2010,0,0,1,1,1,6.5,Gravel,328800
+Kicukiro,Standalone Villa,2,1,47,2013,0,0,0,0,0,7.4,Gravel,213400
+Huye,Bungalow,4,4,122,2007,0,0,0,1,0,27.6,Tarmac,107200
+Kicukiro,Standalone Villa,3,2,80,2010,1,1,0,0,0,15.4,Dirt,231100
+Kicukiro,Apartment,3,2,86,1999,1,1,0,1,0,1.8,Gravel,194000
+Nyarugenge,Bungalow,3,2,67,2013,0,1,0,1,1,11.9,Tarmac,230400
+Gasabo,Apartment,3,2,86,2010,0,1,1,0,1,0.5,Dirt,230800
+Gasabo,Bungalow,2,2,57,2014,1,1,0,0,1,1.1,Tarmac,248800
+Gasabo,Apartment,3,3,98,2012,1,0,0,1,1,1.8,Gravel,239100
+Gasabo,Townhouse,2,1,63,2011,1,0,0,1,0,7.3,Tarmac,237600
+Gasabo,Apartment,4,3,102,1993,1,1,0,0,0,1.7,Gravel,228900
+Gasabo,Townhouse,4,4,136,2023,1,0,0,0,1,3.6,Dirt,258200
+Nyarugenge,Apartment,4,4,123,1995,0,1,0,1,1,2.2,Tarmac,302500
+Gasabo,Townhouse,3,3,92,2017,0,0,0,0,0,3.3,Tarmac,257000
+Kicukiro,Standalone Villa,3,3,89,2020,0,0,0,1,0,22.8,Tarmac,256400
+Rubavu,Apartment,2,2,52,2012,1,1,0,1,1,40.0,Tarmac,79400
+Kicukiro,Townhouse,4,3,123,1995,0,0,0,0,0,9.3,Gravel,211400
+Nyarugenge,Standalone Villa,2,1,67,2005,1,1,0,1,0,6.8,Tarmac,327700
+Gasabo,Apartment,3,3,63,1991,0,0,0,1,1,9.9,Tarmac,215500
+Gasabo,Apartment,2,2,51,2013,0,1,0,1,1,11.8,Gravel,207700
+Gasabo,Standalone Villa,2,2,56,2006,0,1,0,1,1,10.7,Tarmac,292900
+Gasabo,Apartment,3,3,93,1990,0,1,0,1,1,0.7,Gravel,230000
+Gasabo,Apartment,2,1,77,1995,0,1,0,1,0,3.0,Tarmac,214300
+Gasabo,Apartment,4,3,108,1994,1,0,0,0,1,3.4,Tarmac,247900
+Gasabo,Townhouse,3,3,82,2018,0,0,0,1,0,3.7,Tarmac,248900
+Gasabo,Standalone Villa,1,1,40,2001,1,0,0,0,1,3.4,Dirt,227500
+Kicukiro,Apartment,3,2,77,1992,0,1,1,0,0,12.4,Tarmac,221100
+Gasabo,Bungalow,1,1,40,1990,0,1,0,1,0,11.0,Tarmac,188200
+Kicukiro,Bungalow,2,2,71,2016,0,0,0,1,1,0.5,Tarmac,214000
+Kicukiro,Apartment,4,3,104,2013,1,1,0,1,0,2.8,Gravel,219500
+Nyarugenge,Apartment,2,2,66,2008,0,0,0,0,1,7.8,Tarmac,217400
+Gasabo,Bungalow,4,4,94,1997,0,0,0,1,0,1.0,Gravel,232500
+Musanze,Standalone Villa,1,1,40,1991,1,1,0,1,0,0.6,Tarmac,158200
+Nyarugenge,Apartment,2,2,55,2019,0,0,0,1,0,14.1,Tarmac,200200
+Gasabo,Standalone Villa,4,4,145,2019,1,0,0,1,1,4.8,Tarmac,364000
+Rubavu,Townhouse,3,3,85,2021,0,1,0,1,1,15.5,Tarmac,158300
+Rubavu,Apartment,2,2,40,1990,1,1,0,1,0,13.9,Dirt,80600
+Gasabo,Townhouse,3,2,60,2002,0,0,0,0,0,17.9,Tarmac,200100
+Gasabo,Townhouse,2,1,60,2000,1,1,0,1,1,0.5,Gravel,246300
+Musanze,Standalone Villa,4,4,129,1999,1,1,1,0,0,1.6,Tarmac,239100
+Nyarugenge,Bungalow,3,2,95,2015,0,0,0,1,0,2.8,Gravel,244200
+Gasabo,Apartment,4,3,122,2009,0,1,0,1,0,1.2,Tarmac,267200
+Gasabo,Standalone Villa,4,3,137,2006,0,0,0,0,1,5.3,Dirt,271500
+Kicukiro,Standalone Villa,3,3,81,2006,1,0,0,1,0,12.8,Tarmac,272600
+Kicukiro,Standalone Villa,5,4,163,1993,0,0,0,1,0,24.2,Gravel,270600
+Nyarugenge,Apartment,3,2,65,1994,0,1,1,0,1,17.6,Tarmac,245300
+Kicukiro,Standalone Villa,5,4,136,2012,1,0,0,0,0,4.9,Tarmac,338000
+Kicukiro,Apartment,2,2,40,1999,0,0,0,0,0,8.1,Tarmac,163300
+Nyarugenge,Apartment,3,3,85,2017,0,0,0,0,0,2.1,Gravel,227600
+Gasabo,Apartment,3,2,89,2022,0,0,0,1,1,4.1,Tarmac,244400
+Gasabo,Townhouse,3,3,91,2015,1,1,0,1,1,16.4,Gravel,246300
+Nyarugenge,Apartment,3,3,90,2018,1,0,1,0,0,0.5,Tarmac,289000
+Rubavu,Townhouse,4,4,106,2016,0,1,0,1,1,6.1,Dirt,167900
+Kicukiro,Apartment,1,1,40,2007,1,1,0,1,0,16.5,Gravel,152500
+Kicukiro,Apartment,2,1,40,1999,0,1,1,1,1,1.0,Tarmac,201900
+Gasabo,Apartment,4,4,140,1994,0,0,0,0,0,32.4,Tarmac,190100
+Kicukiro,Apartment,3,2,85,1999,0,0,0,1,1,0.5,Tarmac,218200
+Kicukiro,Standalone Villa,5,5,142,2010,0,0,0,0,0,17.4,Tarmac,298700
+Gasabo,Standalone Villa,4,3,143,2013,0,1,0,1,0,3.5,Tarmac,353100
+Gasabo,Bungalow,5,4,131,1992,1,0,0,1,1,1.1,Dirt,263000
+Kicukiro,Bungalow,4,3,103,2020,1,1,0,0,0,1.4,Gravel,236600
+Gasabo,Standalone Villa,2,1,43,1991,0,0,0,1,1,9.7,Tarmac,290100
+Kicukiro,Townhouse,2,2,58,1991,0,0,0,1,1,16.4,Tarmac,204600
+Gasabo,Apartment,4,3,126,2023,1,0,0,0,0,8.2,Tarmac,244100
+Kicukiro,Standalone Villa,3,3,101,2009,0,0,0,1,0,21.1,Tarmac,262400
+Gasabo,Townhouse,1,1,68,2022,1,1,0,1,1,14.8,Tarmac,234400
+Rubavu,Apartment,3,2,56,1993,0,0,0,1,0,0.5,Gravel,123600
+Nyarugenge,Apartment,5,4,159,2000,0,1,0,1,0,8.9,Dirt,228800
+Nyarugenge,Apartment,3,3,81,1994,0,1,0,0,1,2.9,Tarmac,231100
+Musanze,Standalone Villa,3,2,81,2014,1,1,1,1,1,4.8,Tarmac,258000
+Kicukiro,Standalone Villa,3,3,80,2023,1,0,0,1,0,0.8,Tarmac,303300
+Gasabo,Standalone Villa,2,2,46,1998,0,1,0,0,0,2.7,Dirt,244200
+Kicukiro,Standalone Villa,3,2,115,1995,1,0,0,1,1,8.0,Tarmac,311000
+Nyarugenge,Standalone Villa,3,3,102,2007,0,1,0,1,0,2.0,Gravel,338300
+Nyarugenge,Townhouse,2,1,60,2003,0,0,0,1,0,8.3,Dirt,204100
+Kicukiro,Apartment,4,4,140,2008,1,0,0,1,1,20.5,Tarmac,240400
+Gasabo,Townhouse,3,3,67,2003,1,1,0,0,0,0.5,Gravel,221500
+Gasabo,Townhouse,4,3,100,2006,0,1,0,0,0,12.3,Tarmac,242700
+Kicukiro,Townhouse,4,4,87,2018,0,0,1,0,0,8.2,Gravel,218100
+Nyarugenge,Townhouse,2,2,49,2006,1,0,0,1,0,0.5,Tarmac,259600
+Nyarugenge,Standalone Villa,3,2,92,1997,1,1,0,0,0,12.5,Dirt,271500
+Kicukiro,Apartment,3,3,91,1990,1,0,0,0,0,2.0,Dirt,177200
+Huye,Standalone Villa,4,3,122,1996,0,0,0,0,1,2.5,Gravel,162200
+Nyarugenge,Bungalow,2,2,40,1994,1,1,0,0,1,0.8,Tarmac,250300
+Gasabo,Standalone Villa,3,2,102,2013,0,1,0,1,0,6.1,Gravel,288900
+Gasabo,Apartment,3,2,93,2017,1,1,0,1,0,5.5,Tarmac,243600
+Gasabo,Apartment,2,1,70,2006,0,1,0,0,1,3.4,Tarmac,225600
+Gasabo,Bungalow,2,2,40,2009,0,0,0,1,0,1.5,Tarmac,213100
+Gasabo,Apartment,3,2,94,1992,0,1,0,1,0,14.6,Gravel,195800
+Gasabo,Apartment,4,3,102,2015,1,0,0,1,1,16.7,Gravel,232900
+Gasabo,Standalone Villa,3,2,84,2004,1,0,0,1,0,6.2,Dirt,274700
+Gasabo,Bungalow,3,3,98,1997,0,1,0,1,0,2.2,Gravel,242900
+Rubavu,Apartment,3,2,91,2002,1,0,0,0,1,0.8,Gravel,119800
+Gasabo,Standalone Villa,4,3,107,1992,1,1,0,1,0,16.2,Dirt,279300
+Kicukiro,Townhouse,2,2,60,1990,0,0,0,1,0,0.8,Dirt,160100
+Kicukiro,Apartment,4,4,97,1998,1,0,0,0,0,0.5,Tarmac,229400
+Huye,Bungalow,2,1,77,2020,1,1,0,0,0,5.1,Tarmac,123800
+Gasabo,Standalone Villa,3,3,86,2015,0,0,0,1,1,10.5,Tarmac,325900
+Kicukiro,Standalone Villa,2,1,76,2006,0,0,0,1,1,4.9,Gravel,255700
+Huye,Bungalow,2,1,52,2023,0,0,0,1,0,0.5,Gravel,102400
+Rubavu,Bungalow,3,2,82,1998,0,0,0,1,0,9.4,Dirt,103900
+Musanze,Standalone Villa,2,2,48,2002,0,0,0,1,1,8.2,Dirt,136800
+Gasabo,Apartment,4,4,133,1994,1,1,0,0,0,9.2,Tarmac,229400
+Gasabo,Townhouse,1,1,40,2002,1,0,0,1,0,1.9,Tarmac,227300
+Nyarugenge,Standalone Villa,3,3,99,1990,0,1,0,1,0,12.7,Tarmac,322600
+Rubavu,Bungalow,3,2,84,2014,1,0,0,1,0,5.2,Tarmac,133300
+Nyarugenge,Bungalow,1,1,40,1993,1,0,0,0,0,6.1,Tarmac,203100
+Nyarugenge,Apartment,2,2,51,1999,1,0,0,0,0,6.3,Dirt,161700
+Gasabo,Bungalow,3,3,72,2017,0,0,0,1,1,2.7,Tarmac,245000
+Musanze,Standalone Villa,3,3,90,1995,1,0,0,1,1,2.3,Gravel,197000
+Gasabo,Townhouse,3,2,72,2016,1,0,1,1,0,0.5,Tarmac,297300
+Kicukiro,Apartment,3,3,103,2001,0,0,0,1,0,4.0,Tarmac,200400
+Kicukiro,Bungalow,3,3,88,1992,0,0,0,1,0,5.3,Dirt,189100
+Kicukiro,Townhouse,1,1,40,2022,0,1,0,1,0,10.9,Gravel,183700
+Gasabo,Townhouse,3,3,99,1999,1,1,0,0,0,0.6,Tarmac,259600
+Gasabo,Bungalow,5,5,164,2020,0,0,0,0,0,20.6,Dirt,214400
+Nyarugenge,Standalone Villa,3,2,89,2004,1,1,0,1,0,2.5,Tarmac,376200
+Gasabo,Standalone Villa,3,3,78,1996,1,1,1,0,0,3.7,Gravel,327200
+Nyarugenge,Bungalow,3,3,63,2003,0,0,0,1,1,0.5,Tarmac,258500
+Gasabo,Townhouse,4,4,109,2003,1,1,0,1,0,8.5,Gravel,271500
+Kicukiro,Bungalow,4,3,110,1992,0,1,0,1,0,9.9,Tarmac,206100
+Kicukiro,Bungalow,3,3,91,1992,0,0,0,1,0,21.1,Gravel,162300
+Gasabo,Standalone Villa,5,5,144,2011,1,1,1,1,0,3.3,Gravel,351800
+Kicukiro,Standalone Villa,2,1,70,2008,1,1,0,1,1,2.4,Tarmac,303800
+Gasabo,Apartment,1,1,40,2001,0,0,0,1,0,10.4,Dirt,127200
+Gasabo,Townhouse,4,4,119,1994,1,0,0,0,1,9.8,Tarmac,281200
+Huye,Standalone Villa,4,4,137,1999,0,1,0,0,0,22.1,Dirt,116600
+Kicukiro,Townhouse,2,1,65,2022,0,1,0,1,1,1.8,Tarmac,240000
+Musanze,Apartment,2,2,59,2002,0,0,1,1,0,9.8,Gravel,124000
+Gasabo,Apartment,1,1,40,2021,0,0,0,1,0,0.6,Gravel,165200
+Nyarugenge,Apartment,2,1,50,2000,1,1,0,0,0,5.2,Tarmac,217800
+Musanze,Apartment,4,4,107,2013,1,0,1,0,0,1.0,Tarmac,196700
+Nyarugenge,Townhouse,3,3,81,2008,0,1,0,1,0,8.5,Tarmac,276600
+Kicukiro,Apartment,3,3,101,1995,0,0,0,1,0,7.4,Gravel,200400
+Kicukiro,Apartment,3,2,86,1993,0,0,0,1,1,0.5,Dirt,196500
+Kicukiro,Apartment,1,1,40,2022,0,0,0,1,0,3.1,Tarmac,166200
+Rubavu,Townhouse,2,2,86,2002,1,0,0,1,0,4.0,Tarmac,132900
+Musanze,Townhouse,3,3,94,2008,1,0,1,1,0,2.3,Gravel,172000
+Huye,Apartment,5,4,128,2001,1,1,0,0,0,0.5,Tarmac,157800
+Gasabo,Townhouse,4,4,113,2000,0,1,0,1,0,3.1,Dirt,245700
+Nyarugenge,Standalone Villa,1,1,40,1995,0,0,0,1,0,12.6,Tarmac,268600
+Huye,Apartment,4,4,145,2001,0,1,0,1,0,3.6,Tarmac,151800
+Gasabo,Townhouse,4,4,103,2016,0,0,0,1,1,3.1,Gravel,268000
+Gasabo,Apartment,4,4,134,2014,0,0,0,0,1,22.7,Tarmac,225900
+Nyarugenge,Townhouse,3,3,110,1992,0,0,0,1,0,0.5,Gravel,247400
+Nyarugenge,Apartment,3,3,80,1992,0,0,0,0,0,11.7,Tarmac,197700
+Musanze,Bungalow,3,3,85,2009,1,1,0,0,0,5.3,Tarmac,141700
+Gasabo,Apartment,2,1,44,2017,1,1,0,1,0,23.1,Gravel,170900
+Musanze,Standalone Villa,2,1,56,2012,0,0,0,0,0,4.0,Tarmac,160700
+Gasabo,Bungalow,2,1,59,1992,1,1,0,1,0,9.8,Tarmac,227500
+Gasabo,Apartment,3,3,99,2013,0,0,1,0,0,0.6,Dirt,223400
+Gasabo,Standalone Villa,4,4,136,1995,0,0,0,0,0,21.1,Dirt,257400
+Musanze,Standalone Villa,3,3,78,2009,1,0,0,0,0,3.4,Dirt,179300
+Nyarugenge,Standalone Villa,2,1,40,2000,0,1,0,0,0,5.9,Dirt,251700
+Kicukiro,Apartment,5,4,149,2021,1,0,0,1,0,1.2,Tarmac,274100
+Kicukiro,Apartment,5,5,154,2016,0,1,0,1,0,23.3,Tarmac,224900
+Rubavu,Townhouse,4,4,123,2010,1,0,0,1,1,8.9,Tarmac,193200
+Kicukiro,Standalone Villa,5,5,145,2002,1,0,0,0,1,0.5,Dirt,306100
+Musanze,Townhouse,3,3,91,2011,1,1,0,1,0,1.3,Gravel,166700
+Kicukiro,Apartment,5,5,172,2011,1,0,1,1,0,4.1,Gravel,293700
+Kicukiro,Apartment,2,1,65,2017,1,1,0,0,0,2.0,Dirt,159300
+Kicukiro,Standalone Villa,3,2,84,2010,1,1,0,1,0,2.9,Gravel,269700
+Kicukiro,Standalone Villa,2,2,52,2007,0,1,0,1,1,40.0,Tarmac,239400
+Nyarugenge,Standalone Villa,2,2,57,2020,0,0,0,1,0,8.6,Tarmac,327300
+Kicukiro,Apartment,2,1,84,2010,1,0,0,1,1,20.4,Tarmac,190700
+Gasabo,Apartment,3,3,87,2003,1,1,0,1,0,4.6,Tarmac,241500
+Rubavu,Apartment,4,4,119,2014,1,1,0,0,1,9.9,Tarmac,177800
+Kicukiro,Apartment,3,3,82,2016,0,1,0,1,1,4.9,Gravel,215700
+Kicukiro,Apartment,2,2,76,2012,0,0,0,1,1,3.2,Tarmac,209200
+Rubavu,Townhouse,4,4,149,2020,1,0,0,0,0,5.9,Gravel,165800
+Nyarugenge,Standalone Villa,3,2,96,2018,1,1,0,1,1,4.5,Tarmac,388000
+Gasabo,Standalone Villa,3,3,91,2019,1,0,0,1,0,31.5,Dirt,234900
+Huye,Apartment,3,3,90,2015,0,0,1,1,1,5.5,Gravel,145700
+Nyarugenge,Apartment,2,1,40,2009,0,0,0,1,0,13.3,Dirt,162000
+Kicukiro,Standalone Villa,3,3,101,2008,0,0,0,0,0,8.8,Tarmac,278900
+Gasabo,Bungalow,5,4,152,2016,0,1,0,1,1,5.2,Tarmac,298800
+Musanze,Townhouse,2,1,66,2014,1,1,0,1,1,5.1,Tarmac,174900
+Nyarugenge,Townhouse,3,3,79,2012,0,0,0,1,1,3.3,Tarmac,286200
+Kicukiro,Townhouse,4,3,114,2018,0,0,0,1,0,0.9,Tarmac,254800
+Rubavu,Standalone Villa,4,4,113,2004,0,1,0,1,1,11.5,Tarmac,188600
+Musanze,Apartment,2,1,75,1992,0,0,0,1,1,20.0,Tarmac,106200
+Gasabo,Townhouse,2,2,54,1999,1,1,0,1,0,2.0,Dirt,200000
+Kicukiro,Apartment,1,1,61,2004,0,1,0,1,1,20.8,Tarmac,160800
+Gasabo,Standalone Villa,3,2,96,2005,0,1,0,0,0,2.1,Dirt,271800
+Nyarugenge,Townhouse,3,3,70,2006,1,1,0,0,0,6.0,Tarmac,280200
+Gasabo,Townhouse,2,2,58,2008,0,0,0,1,0,3.4,Tarmac,247100
+Nyarugenge,Apartment,5,4,140,2000,1,1,1,1,0,1.0,Tarmac,333700
+Musanze,Standalone Villa,3,2,57,1994,0,0,1,1,1,0.5,Gravel,200500
+Rubavu,Townhouse,2,2,83,1994,1,0,0,1,0,3.6,Gravel,132000
+Kicukiro,Townhouse,3,2,100,2003,0,0,0,0,0,0.5,Gravel,210500
+Musanze,Townhouse,3,3,97,2015,0,0,0,1,0,0.9,Tarmac,174600
+Gasabo,Bungalow,2,2,62,1997,0,0,0,1,0,1.2,Tarmac,216800
+Musanze,Apartment,2,2,40,1994,0,0,1,1,0,0.5,Tarmac,146500
+Gasabo,Standalone Villa,4,4,112,1996,0,1,0,0,0,1.3,Tarmac,325400
+Kicukiro,Apartment,3,2,102,2005,0,1,0,1,0,6.9,Dirt,161700
+Musanze,Apartment,3,3,74,2003,1,0,1,0,1,13.7,Dirt,153600
+Gasabo,Bungalow,3,2,52,1993,1,1,0,1,1,1.7,Tarmac,255900
+Gasabo,Bungalow,1,1,40,2006,0,0,0,1,0,0.7,Gravel,183500
+Nyarugenge,Apartment,2,2,57,1995,0,1,0,0,0,10.5,Gravel,195500
+Nyarugenge,Apartment,3,3,92,2005,1,0,0,1,0,0.5,Tarmac,250700
+Nyarugenge,Apartment,2,2,70,2018,1,1,0,1,0,10.6,Tarmac,246100
+Nyarugenge,Townhouse,1,1,40,1999,0,0,0,1,1,1.1,Tarmac,264100
+Kicukiro,Apartment,4,4,123,2018,0,1,0,1,0,2.1,Gravel,236600
+Gasabo,Apartment,5,5,167,2003,0,0,0,0,0,1.0,Tarmac,269700
+Kicukiro,Apartment,4,4,97,1993,0,0,1,0,0,2.3,Dirt,217800
+Gasabo,Standalone Villa,4,4,127,2002,1,0,0,1,1,12.8,Tarmac,336100
+Rubavu,Bungalow,2,2,69,2007,1,0,0,1,0,1.1,Tarmac,138200
+Nyarugenge,Apartment,5,4,131,2022,1,1,0,1,0,40.0,Tarmac,251700
+Kicukiro,Standalone Villa,2,1,40,2010,0,1,0,0,0,3.2,Gravel,240600
+Kicukiro,Apartment,5,5,138,2005,0,0,0,0,0,20.4,Gravel,189800
+Huye,Standalone Villa,5,5,140,2004,1,1,0,1,1,1.7,Gravel,222700
+Gasabo,Townhouse,4,4,131,1994,0,0,0,1,0,1.7,Tarmac,273200
+Nyarugenge,Apartment,5,4,140,1995,0,1,0,0,1,6.7,Tarmac,264800
+Kicukiro,Apartment,3,3,77,1992,0,0,0,1,0,0.5,Tarmac,188400
+Nyarugenge,Townhouse,2,2,50,2001,1,1,1,0,0,12.9,Tarmac,285100
+Gasabo,Apartment,3,3,106,2022,0,0,0,1,0,4.6,Gravel,214100
+Rubavu,Townhouse,3,3,90,2022,0,1,1,1,1,9.6,Tarmac,197400
+Huye,Standalone Villa,2,2,57,2020,1,0,0,1,0,1.5,Tarmac,165800
+Nyarugenge,Apartment,3,2,88,2010,1,1,0,1,0,8.2,Tarmac,256000
+Nyarugenge,Townhouse,5,5,169,2016,0,1,1,1,0,7.2,Tarmac,346600
+Rubavu,Townhouse,2,1,48,2016,1,0,0,1,1,11.3,Gravel,135700
+Nyarugenge,Standalone Villa,4,4,139,1997,0,1,0,0,1,2.8,Gravel,357800
+Gasabo,Apartment,5,5,153,2021,0,1,0,1,1,21.6,Gravel,251700
+Nyarugenge,Standalone Villa,5,4,147,2015,1,1,0,1,0,26.0,Gravel,331400
+Nyarugenge,Standalone Villa,5,5,187,1991,0,1,0,0,0,16.2,Tarmac,365600
+Kicukiro,Standalone Villa,3,2,74,2001,0,1,0,1,0,6.8,Gravel,244800
+Nyarugenge,Townhouse,5,5,144,2011,1,1,0,1,0,4.4,Tarmac,344000
+Huye,Apartment,4,4,101,2006,1,1,0,1,1,0.5,Gravel,183200
+Rubavu,Standalone Villa,2,1,74,1996,0,0,0,0,1,23.5,Gravel,124000
+Kicukiro,Standalone Villa,3,3,115,1993,0,1,0,1,1,24.3,Gravel,257600
+Gasabo,Apartment,4,3,145,2021,0,1,0,0,0,0.5,Tarmac,256800
+Huye,Townhouse,2,2,78,2000,0,1,0,1,1,3.5,Dirt,124900
+Musanze,Apartment,3,2,87,1990,0,0,0,1,1,17.0,Gravel,111300
+Gasabo,Apartment,3,3,84,2014,0,0,0,1,0,0.7,Gravel,213800
+Rubavu,Bungalow,2,2,40,2013,1,1,0,1,0,1.8,Tarmac,122900
+Rubavu,Apartment,3,2,120,2006,0,1,0,1,0,30.8,Tarmac,106900
+Kicukiro,Apartment,4,3,127,1997,0,0,1,0,0,15.0,Tarmac,230400
+Nyarugenge,Standalone Villa,3,2,82,2016,0,0,0,1,1,19.4,Tarmac,339400
+Kicukiro,Bungalow,1,1,49,2007,0,0,0,1,0,1.2,Gravel,172700
+Gasabo,Bungalow,1,1,40,2016,1,1,0,0,0,1.9,Dirt,183400
+Kicukiro,Standalone Villa,3,3,96,2011,0,0,0,0,0,7.4,Tarmac,266900
+Musanze,Apartment,5,5,147,2005,1,1,0,1,0,5.6,Gravel,176700
+Gasabo,Bungalow,2,2,69,1991,1,1,0,1,0,2.8,Tarmac,231800
+Kicukiro,Standalone Villa,3,3,89,1994,1,1,0,1,1,17.2,Tarmac,302700
+Kicukiro,Standalone Villa,2,2,40,2007,0,0,0,0,0,18.5,Dirt,181800
+Kicukiro,Townhouse,3,3,91,1992,1,1,0,0,1,2.8,Gravel,239400
+Rubavu,Standalone Villa,4,4,135,2016,0,1,0,1,1,1.4,Tarmac,223800
+Kicukiro,Apartment,4,3,119,2006,0,0,0,1,0,1.3,Tarmac,206700
+Kicukiro,Townhouse,2,2,71,2005,0,0,0,1,1,5.3,Tarmac,228200
+Nyarugenge,Standalone Villa,3,3,74,1995,0,1,0,1,0,1.1,Tarmac,336500
+Kicukiro,Apartment,1,1,40,1996,0,1,0,1,0,5.1,Tarmac,171900
+Gasabo,Apartment,3,2,80,2003,0,1,0,1,0,5.0,Tarmac,219100
+Kicukiro,Standalone Villa,3,2,101,2004,0,0,0,0,0,17.2,Gravel,234700
+Gasabo,Apartment,2,1,60,2022,1,0,0,0,0,2.8,Tarmac,211700
+Gasabo,Apartment,2,2,70,2016,0,0,0,0,1,6.6,Tarmac,211900
+Kicukiro,Townhouse,3,3,106,2018,0,1,0,0,0,10.9,Gravel,201400
+Kicukiro,Bungalow,5,5,160,1994,1,1,1,0,0,7.2,Dirt,264500
+Rubavu,Standalone Villa,5,5,154,2018,0,0,0,0,1,24.6,Dirt,167100
+Kicukiro,Townhouse,1,1,40,2021,1,0,0,1,1,7.4,Gravel,199000
+Nyarugenge,Townhouse,4,4,119,1995,1,1,0,0,0,18.6,Tarmac,283000
+Nyarugenge,Townhouse,3,3,82,1991,0,1,0,0,0,2.2,Tarmac,258900
+Gasabo,Apartment,3,2,84,1995,0,0,0,1,0,6.6,Dirt,170300
+Nyarugenge,Bungalow,4,3,114,1993,1,1,0,1,0,6.3,Dirt,256900
+Gasabo,Standalone Villa,5,5,135,2018,1,1,0,1,0,36.4,Gravel,303900
+Huye,Apartment,5,5,120,2014,1,0,0,1,1,1.8,Tarmac,178200
+Gasabo,Apartment,3,3,79,1998,0,0,1,1,0,1.2,Tarmac,225000
+Kicukiro,Townhouse,3,3,92,1992,1,0,0,0,0,7.6,Dirt,202200
+Gasabo,Apartment,4,3,99,2015,0,0,0,0,1,2.0,Tarmac,240300
+Huye,Apartment,2,2,60,2016,0,1,0,1,0,8.2,Gravel,91600
+Kicukiro,Townhouse,3,2,118,2021,0,0,0,0,0,28.7,Dirt,159800
+Nyarugenge,Bungalow,3,3,105,1990,0,0,0,0,0,23.4,Gravel,189700
+Gasabo,Townhouse,3,2,114,2005,1,1,0,1,1,2.1,Tarmac,290700
+Nyarugenge,Apartment,2,2,65,2000,1,0,0,0,1,1.5,Tarmac,240100
+Gasabo,Apartment,2,1,77,2015,1,1,0,1,1,6.6,Tarmac,242000
+Rubavu,Townhouse,5,5,139,1990,0,0,0,1,0,7.1,Gravel,163900
+Gasabo,Apartment,2,1,50,2015,1,0,0,1,1,8.7,Tarmac,233000
+Gasabo,Townhouse,3,3,48,2017,1,1,1,1,0,10.8,Tarmac,291900
+Gasabo,Apartment,2,2,77,1998,0,0,0,0,0,7.3,Tarmac,184500
+Kicukiro,Bungalow,1,1,53,2011,1,1,0,1,0,0.9,Tarmac,199500
+Nyarugenge,Standalone Villa,1,1,40,1997,1,0,0,0,0,12.5,Dirt,256800
+Gasabo,Apartment,2,1,56,2016,1,1,0,0,0,0.7,Gravel,192000
+Musanze,Bungalow,4,3,108,2008,0,1,0,1,0,0.5,Tarmac,177300
+Kicukiro,Apartment,2,1,65,2014,1,0,0,1,0,11.7,Dirt,160100
+Kicukiro,Apartment,5,5,166,2010,1,1,0,0,0,6.4,Gravel,240100
+Kicukiro,Townhouse,3,3,63,2013,0,0,0,1,1,9.6,Gravel,208100
+Kicukiro,Apartment,3,3,96,2013,1,1,0,1,1,3.9,Gravel,247000
+Nyarugenge,Standalone Villa,3,2,85,2008,0,0,0,0,0,0.5,Gravel,328600
+Gasabo,Apartment,3,3,91,1991,1,1,0,1,0,3.2,Tarmac,240900
+Gasabo,Apartment,4,4,126,2003,1,0,0,0,0,7.5,Gravel,217300
+Rubavu,Apartment,2,2,57,2021,1,1,0,1,0,2.0,Gravel,140500
+Huye,Townhouse,3,2,88,2021,1,1,0,0,1,9.3,Tarmac,139300
+Kicukiro,Townhouse,4,4,116,2017,0,1,0,1,0,12.7,Tarmac,255100
+Gasabo,Apartment,5,5,164,2002,0,0,0,0,0,4.8,Tarmac,245300
+Nyarugenge,Apartment,4,4,126,2001,1,1,0,1,0,16.7,Tarmac,261600
+Kicukiro,Bungalow,3,3,93,1997,0,0,0,1,1,15.4,Tarmac,217200
+Gasabo,Bungalow,4,4,100,2004,0,0,0,1,0,16.8,Gravel,183500
+Gasabo,Standalone Villa,3,2,84,2015,0,0,1,0,1,8.7,Tarmac,332700
+Nyarugenge,Townhouse,3,2,103,2001,0,0,0,0,0,2.9,Tarmac,270900
+Nyarugenge,Townhouse,2,1,60,2016,1,1,0,1,1,5.3,Dirt,237400
+Gasabo,Apartment,3,3,99,2007,1,0,1,1,1,9.9,Gravel,247300
+Gasabo,Apartment,2,1,86,2016,0,1,0,1,0,1.9,Tarmac,217700
+Gasabo,Apartment,3,3,105,1998,0,0,0,1,1,10.7,Tarmac,239700
+Nyarugenge,Townhouse,4,4,121,1990,0,0,0,1,1,6.4,Gravel,294800
+Gasabo,Townhouse,2,1,52,1996,0,1,0,0,1,0.8,Gravel,231300
+Gasabo,Townhouse,2,2,40,2015,0,0,0,1,1,6.5,Tarmac,256200
+Musanze,Apartment,2,2,57,1996,0,0,0,0,0,0.6,Dirt,91000
+Gasabo,Townhouse,5,4,145,1996,1,0,0,0,0,0.5,Gravel,285500
+Nyarugenge,Townhouse,3,3,95,1997,1,0,0,1,1,17.6,Dirt,225100
+Gasabo,Bungalow,3,2,87,2005,0,1,0,1,0,5.4,Tarmac,260900
+Gasabo,Apartment,4,4,115,1992,1,0,0,0,1,6.3,Tarmac,256600
+Gasabo,Townhouse,4,3,93,1999,1,0,0,0,0,2.6,Tarmac,276000
+Nyarugenge,Apartment,3,3,75,1996,0,1,0,0,0,6.3,Tarmac,213200
+Rubavu,Townhouse,3,3,97,2010,0,1,1,1,1,1.5,Tarmac,204100
+Musanze,Townhouse,4,3,145,2020,1,0,1,0,1,11.0,Tarmac,221500
+Kicukiro,Apartment,3,3,88,2012,0,1,0,1,0,13.9,Gravel,188400
+Nyarugenge,Townhouse,2,2,64,2016,1,0,0,0,0,15.5,Tarmac,248900
+Gasabo,Apartment,4,4,134,2011,1,0,0,1,1,0.9,Tarmac,280800
+Gasabo,Townhouse,3,3,77,2016,0,0,0,0,1,6.5,Dirt,216500
+Rubavu,Apartment,2,2,65,1993,1,1,0,0,0,13.2,Tarmac,103200
+Gasabo,Townhouse,3,3,78,2013,1,0,0,1,0,1.1,Tarmac,283000
+Gasabo,Bungalow,1,1,42,2012,0,1,0,1,0,0.8,Gravel,187900
+Gasabo,Apartment,2,2,62,2008,0,0,0,0,1,13.6,Dirt,188000
+Gasabo,Standalone Villa,4,4,124,1992,1,0,0,1,0,12.7,Dirt,276900
+Gasabo,Standalone Villa,1,1,40,2016,1,1,0,1,0,4.8,Tarmac,308000
+Nyarugenge,Apartment,3,3,100,1992,1,0,0,0,0,0.9,Dirt,224900
+Kicukiro,Standalone Villa,3,2,121,2017,1,0,0,0,0,5.8,Tarmac,282000
+Rubavu,Townhouse,2,2,44,2006,0,0,0,1,0,4.0,Gravel,95500
+Musanze,Bungalow,5,4,144,2020,0,0,0,1,0,5.8,Tarmac,176200
+Kicukiro,Bungalow,2,2,63,1999,0,0,0,0,1,4.6,Gravel,169600
+Gasabo,Standalone Villa,3,2,101,2011,0,0,0,0,0,6.7,Tarmac,300300
+Kicukiro,Townhouse,3,3,81,2019,1,0,0,1,0,10.4,Gravel,220000
+Nyarugenge,Townhouse,2,1,40,2010,1,0,0,1,0,11.9,Gravel,232000
+Gasabo,Standalone Villa,1,1,50,2012,1,1,0,1,1,8.4,Tarmac,306800
+Nyarugenge,Apartment,4,4,131,2001,1,0,0,0,1,1.8,Tarmac,289500
+Kicukiro,Standalone Villa,5,5,123,2014,0,0,0,1,0,4.0,Gravel,310100
+Nyarugenge,Townhouse,2,2,50,2009,0,1,0,0,0,0.6,Tarmac,267000
+Kicukiro,Standalone Villa,3,2,113,1996,0,1,0,0,0,4.8,Tarmac,301400
+Gasabo,Townhouse,4,4,141,2018,1,0,0,1,1,28.1,Gravel,259600
+Huye,Apartment,4,4,134,2018,0,0,0,1,0,8.2,Dirt,106800
+Musanze,Bungalow,3,2,87,2002,1,1,0,1,0,1.3,Tarmac,163700
+Gasabo,Standalone Villa,3,3,91,1992,1,0,0,0,1,2.5,Tarmac,353800
+Rubavu,Townhouse,3,2,88,1991,0,1,0,1,0,0.5,Tarmac,153700
+Kicukiro,Apartment,4,3,136,2005,0,1,0,0,0,1.6,Tarmac,243000
+Rubavu,Apartment,4,4,106,2019,1,1,1,0,0,5.4,Tarmac,188400
+Musanze,Townhouse,2,1,47,1995,0,0,0,1,0,3.4,Gravel,121500
+Kicukiro,Bungalow,3,3,105,1996,1,1,0,1,0,1.8,Gravel,233700
+Gasabo,Apartment,5,5,149,1994,1,1,0,0,0,1.3,Tarmac,273700
+Gasabo,Apartment,4,4,140,1996,0,1,0,0,1,8.5,Gravel,235000
+Kicukiro,Standalone Villa,5,5,139,2023,0,0,0,0,0,6.5,Tarmac,324900
+Nyarugenge,Apartment,4,3,119,2021,0,1,0,1,0,14.8,Tarmac,264000
+Gasabo,Apartment,3,2,76,2002,1,1,0,1,0,1.6,Tarmac,207300
+Gasabo,Townhouse,3,3,90,2019,0,1,0,0,0,15.1,Tarmac,240400
+Musanze,Bungalow,3,3,67,2014,1,1,0,1,1,6.9,Tarmac,149300
+Huye,Apartment,2,1,52,2010,1,0,0,0,1,2.5,Gravel,111500
+Kicukiro,Standalone Villa,3,3,68,2010,1,1,0,0,1,2.6,Gravel,304800
+Gasabo,Apartment,4,4,130,2017,0,0,0,1,0,4.0,Gravel,230000
+Gasabo,Apartment,2,2,70,2009,1,1,0,1,0,4.9,Tarmac,220100
+Gasabo,Apartment,4,3,94,2023,1,0,0,0,0,0.7,Tarmac,257700
+Rubavu,Standalone Villa,3,3,110,1994,0,0,0,0,0,14.8,Gravel,148700
+Gasabo,Apartment,5,4,187,2007,1,1,0,0,0,1.0,Tarmac,299700
+Nyarugenge,Standalone Villa,1,1,40,2000,1,0,0,1,1,5.3,Gravel,298800
+Gasabo,Apartment,2,2,50,2006,1,1,0,0,0,3.9,Gravel,202700
+Nyarugenge,Apartment,3,3,132,2011,0,1,0,1,1,5.7,Gravel,263100
+Nyarugenge,Apartment,2,1,40,2009,1,0,0,0,0,17.5,Tarmac,191700
+Musanze,Bungalow,4,4,120,1995,0,0,0,0,0,36.1,Dirt,72000
+Gasabo,Townhouse,4,3,122,2023,1,1,0,1,0,0.5,Gravel,273500
+Gasabo,Bungalow,2,1,80,2003,1,0,0,0,0,4.0,Gravel,218000
+Gasabo,Standalone Villa,3,2,95,2012,0,1,0,1,1,13.6,Gravel,317400
+Rubavu,Apartment,3,2,82,2009,0,1,0,1,0,3.2,Tarmac,130700
+Rubavu,Standalone Villa,3,2,75,2002,1,1,0,1,1,8.4,Tarmac,199500
+Nyarugenge,Apartment,5,4,144,2021,0,1,0,0,0,38.9,Dirt,192300
+Nyarugenge,Townhouse,4,4,104,2015,0,1,0,1,1,8.3,Tarmac,312600
+Nyarugenge,Apartment,3,3,90,2003,0,1,0,0,1,0.9,Tarmac,255100
+Gasabo,Apartment,4,4,111,1997,1,1,0,1,0,14.8,Tarmac,249700
+Rubavu,Standalone Villa,3,2,67,2011,1,1,0,1,0,27.2,Tarmac,137100
+Kicukiro,Standalone Villa,5,5,168,2011,1,0,0,0,0,10.0,Gravel,301300
+Kicukiro,Bungalow,3,2,82,2005,1,0,0,0,0,4.3,Dirt,181700
+Kicukiro,Standalone Villa,4,4,100,2016,1,1,0,1,0,23.7,Tarmac,299200
+Gasabo,Townhouse,4,3,117,1999,0,1,0,1,0,27.7,Gravel,220200
+Gasabo,Apartment,2,2,61,2014,0,0,0,1,0,21.9,Gravel,158800
+Nyarugenge,Bungalow,4,3,93,2020,1,0,0,1,1,4.2,Gravel,267000
+Gasabo,Standalone Villa,2,2,64,2010,1,1,0,1,0,12.5,Tarmac,282400
+Nyarugenge,Townhouse,3,3,74,2016,1,0,0,1,1,8.5,Gravel,269700
+Gasabo,Apartment,3,3,115,2006,1,0,0,0,0,1.6,Dirt,206000
+Kicukiro,Townhouse,5,4,157,2022,1,0,0,0,0,6.1,Tarmac,286700
+Gasabo,Apartment,4,4,114,2020,0,1,0,1,0,11.0,Gravel,216400
+Kicukiro,Standalone Villa,4,4,108,2015,1,0,0,1,0,18.1,Dirt,256400
+Nyarugenge,Bungalow,4,3,118,2010,0,0,0,1,1,15.9,Gravel,244000
+Gasabo,Bungalow,3,2,99,1990,0,0,1,0,1,1.3,Gravel,243000
+Nyarugenge,Standalone Villa,5,4,149,1993,1,0,0,1,0,5.4,Dirt,338500
+Kicukiro,Townhouse,3,3,86,1993,1,1,0,0,1,5.2,Tarmac,225800
+Nyarugenge,Apartment,3,3,90,2015,0,1,0,1,1,18.3,Gravel,215700
+Huye,Townhouse,2,1,50,1993,1,0,0,1,1,0.5,Tarmac,131300
+Nyarugenge,Townhouse,4,4,114,1998,1,0,0,0,0,10.7,Tarmac,287700
+Gasabo,Standalone Villa,4,3,88,2019,1,1,0,1,1,7.7,Tarmac,335200
+Gasabo,Bungalow,3,3,104,1993,1,0,1,1,1,20.4,Tarmac,254500
+Gasabo,Townhouse,1,1,40,1994,0,1,0,1,0,4.9,Tarmac,223200
+Nyarugenge,Apartment,4,4,108,2012,1,0,0,0,0,8.6,Tarmac,250100
+Gasabo,Townhouse,1,1,58,2005,1,0,0,0,0,28.8,Tarmac,199400
+Kicukiro,Apartment,4,4,121,2011,1,0,0,0,0,10.9,Tarmac,217200
+Nyarugenge,Townhouse,5,5,134,1997,1,1,0,0,1,0.6,Gravel,302800
+Kicukiro,Townhouse,3,2,102,2022,0,0,0,0,1,1.5,Tarmac,258700
+Musanze,Apartment,2,2,65,2005,0,0,0,0,1,13.8,Tarmac,116900
+Gasabo,Townhouse,4,3,125,1994,1,0,0,1,0,3.3,Gravel,246900
+Gasabo,Standalone Villa,4,3,113,2005,0,0,0,1,0,9.8,Tarmac,312600
+Nyarugenge,Standalone Villa,3,3,96,1996,1,0,1,1,0,9.6,Dirt,327200
+Kicukiro,Apartment,5,5,146,1990,0,0,0,1,1,40.0,Dirt,176500
+Nyarugenge,Apartment,2,1,68,1998,0,0,0,1,0,5.1,Tarmac,225500
+Kicukiro,Townhouse,3,2,61,2007,0,1,0,1,0,10.7,Dirt,167900
+Gasabo,Apartment,4,3,113,1992,1,1,0,0,0,0.5,Gravel,247600
+Musanze,Standalone Villa,4,3,145,2013,0,0,1,0,0,5.0,Tarmac,215100
+Musanze,Townhouse,2,1,48,2017,1,0,0,1,0,1.7,Gravel,122100
+Nyarugenge,Apartment,4,4,110,1999,0,1,0,1,0,14.7,Gravel,238300
+Gasabo,Standalone Villa,3,3,83,1998,1,0,0,1,1,14.7,Gravel,281100
+Nyarugenge,Standalone Villa,3,2,71,2002,0,0,0,1,0,2.2,Gravel,321400
+Kicukiro,Townhouse,2,2,40,2012,0,1,0,0,1,3.1,Tarmac,211000
+Gasabo,Standalone Villa,4,3,116,2006,1,1,0,1,0,9.7,Dirt,276200
+Rubavu,Standalone Villa,2,2,62,1996,1,0,0,1,1,10.7,Dirt,150400
+Gasabo,Apartment,3,3,89,2005,0,0,0,1,0,8.6,Gravel,194000
+Huye,Townhouse,2,1,57,2009,1,1,0,1,1,40.0,Tarmac,94100
+Kicukiro,Apartment,4,4,120,2013,0,0,1,1,1,16.2,Gravel,225200
+Gasabo,Bungalow,3,3,105,1994,0,1,1,0,0,4.3,Gravel,239300
+Kicukiro,Townhouse,4,4,117,1995,0,0,0,0,1,3.2,Dirt,229900
+Rubavu,Bungalow,2,1,51,2017,0,0,0,0,0,7.3,Dirt,76500
+Nyarugenge,Standalone Villa,3,3,85,1994,0,1,0,1,1,13.6,Dirt,294100
+Musanze,Apartment,3,2,98,1991,0,1,0,0,0,5.2,Tarmac,126900
+Nyarugenge,Bungalow,4,4,141,2010,1,1,1,0,1,10.7,Dirt,286300
+Nyarugenge,Apartment,5,4,140,2007,0,0,0,0,1,0.5,Tarmac,282400
+Musanze,Apartment,1,1,40,2001,1,1,0,1,0,20.8,Tarmac,83000
+Gasabo,Apartment,3,3,95,2006,0,1,0,1,0,11.9,Tarmac,210300
+Kicukiro,Bungalow,2,2,45,2004,0,1,0,1,1,4.0,Dirt,170100
+Gasabo,Townhouse,3,3,90,1996,0,1,0,0,1,3.9,Dirt,240800
+Huye,Standalone Villa,2,1,40,2003,1,0,0,0,1,0.9,Tarmac,160600
+Huye,Townhouse,3,3,63,1990,1,0,0,0,0,13.5,Tarmac,114600
+Gasabo,Standalone Villa,3,2,95,1992,1,1,0,1,0,11.7,Dirt,252500
+Nyarugenge,Townhouse,3,3,84,2020,0,1,0,1,0,8.0,Gravel,250200
+Rubavu,Standalone Villa,3,3,93,2002,1,0,0,1,0,0.9,Tarmac,175500
+Gasabo,Townhouse,4,4,119,2007,1,0,0,0,0,2.4,Tarmac,280300
+Nyarugenge,Apartment,3,3,75,2006,0,1,0,1,0,4.9,Gravel,227800
+Rubavu,Apartment,2,2,59,2006,0,0,0,1,0,2.5,Dirt,101700
+Gasabo,Standalone Villa,4,3,101,2000,0,1,0,0,0,4.6,Tarmac,321300
+Nyarugenge,Standalone Villa,2,1,80,2009,1,0,0,0,0,2.0,Tarmac,338700
+Gasabo,Townhouse,3,3,69,1999,0,1,0,1,1,3.4,Tarmac,275000
+Rubavu,Standalone Villa,3,2,87,2018,1,0,1,1,0,8.5,Tarmac,195600
+Huye,Apartment,3,2,74,2023,0,0,0,1,0,17.8,Gravel,102600
+Huye,Standalone Villa,2,1,68,2006,0,0,1,1,0,3.9,Dirt,127600
+Kicukiro,Standalone Villa,3,3,85,2002,0,1,0,0,0,9.4,Gravel,258500
+Rubavu,Apartment,5,5,142,2016,1,1,0,1,1,1.2,Dirt,195800
+Musanze,Standalone Villa,3,3,102,2015,0,1,0,0,0,6.2,Dirt,164400
+Kicukiro,Apartment,3,2,90,2017,0,0,0,1,1,20.4,Tarmac,191500
+Musanze,Standalone Villa,3,3,97,2002,1,1,0,1,0,0.5,Tarmac,219700
+Gasabo,Apartment,2,2,45,2001,0,1,0,1,1,2.5,Gravel,197500
+Nyarugenge,Bungalow,3,3,68,2017,0,1,0,1,0,1.1,Tarmac,274800
+Gasabo,Townhouse,4,4,121,1991,0,1,0,1,0,6.1,Gravel,266900
+Gasabo,Apartment,2,1,55,2023,0,0,1,1,1,9.1,Tarmac,240300
+Gasabo,Townhouse,2,2,69,2012,0,1,0,0,0,0.5,Gravel,222000
+Nyarugenge,Townhouse,2,2,58,2018,0,1,1,0,1,0.6,Gravel,275700
+Kicukiro,Standalone Villa,3,2,93,2000,0,1,0,1,0,16.3,Tarmac,245700
+Nyarugenge,Townhouse,5,4,125,2022,0,1,0,1,1,4.9,Gravel,316700
+Gasabo,Apartment,2,1,88,2000,1,0,0,0,1,5.0,Tarmac,213500
+Kicukiro,Townhouse,3,2,87,1998,0,1,1,0,1,23.1,Tarmac,225300
+Kicukiro,Standalone Villa,2,1,70,2003,0,1,0,1,0,3.1,Gravel,252500
+Musanze,Apartment,5,5,137,1998,0,0,0,1,0,18.2,Tarmac,148300
+Kicukiro,Standalone Villa,2,2,64,1992,0,1,0,1,1,29.3,Dirt,197700
+Nyarugenge,Bungalow,3,2,70,2018,1,0,0,1,1,2.2,Tarmac,281900
+Rubavu,Townhouse,4,3,126,2008,1,0,0,1,0,5.8,Gravel,179700
+Nyarugenge,Standalone Villa,4,3,114,2021,0,1,0,1,0,6.1,Gravel,340800
+Gasabo,Apartment,3,3,90,1996,1,0,0,0,0,16.1,Tarmac,202500
+Gasabo,Standalone Villa,3,3,100,2017,0,0,0,1,1,2.9,Tarmac,335500
+Rubavu,Apartment,3,3,71,2007,1,0,1,1,0,12.8,Gravel,135500
+Gasabo,Apartment,2,2,49,1994,1,0,0,1,0,28.3,Tarmac,188300
+Rubavu,Standalone Villa,2,2,66,2012,1,0,0,0,1,14.7,Tarmac,162100
+Kicukiro,Bungalow,3,2,121,2011,0,0,1,0,1,19.2,Gravel,224100
+Huye,Townhouse,2,2,57,2015,0,0,0,0,1,9.9,Tarmac,128200
+Musanze,Apartment,2,2,68,2001,0,0,0,1,0,18.7,Gravel,80200
+Huye,Standalone Villa,3,3,88,2008,0,1,0,0,0,1.4,Gravel,136600
+Kicukiro,Bungalow,5,4,179,1990,0,1,0,1,1,10.0,Tarmac,265300
+Musanze,Townhouse,3,3,63,1992,1,1,0,1,1,10.5,Tarmac,149100
+Kicukiro,Townhouse,2,2,61,2016,0,1,0,1,1,4.6,Tarmac,230100
+Kicukiro,Bungalow,2,2,40,2007,1,0,0,1,1,0.7,Gravel,182400
+Nyarugenge,Townhouse,5,5,112,2019,1,1,0,1,0,7.8,Tarmac,309400
+Rubavu,Apartment,2,1,64,1991,1,1,0,1,1,0.5,Tarmac,150300
+Huye,Apartment,2,1,62,1994,0,0,0,0,0,3.9,Tarmac,90200
+Musanze,Bungalow,3,3,85,2018,0,0,0,0,0,4.0,Tarmac,160200
+Kicukiro,Standalone Villa,3,3,88,2022,1,0,0,1,1,40.0,Gravel,241300
+Kicukiro,Apartment,3,2,136,2009,1,1,0,0,0,2.9,Tarmac,229400
+Nyarugenge,Standalone Villa,2,2,56,2019,1,0,0,1,0,13.7,Tarmac,323400
+Gasabo,Townhouse,1,1,40,1994,1,1,0,1,0,0.5,Tarmac,268100
+Gasabo,Bungalow,5,5,140,2010,0,0,1,1,0,6.0,Tarmac,306100
+Kicukiro,Apartment,2,1,64,2004,0,0,0,0,1,6.2,Tarmac,178100
+Gasabo,Standalone Villa,3,3,86,2009,0,1,0,0,1,7.9,Tarmac,326400
+Gasabo,Bungalow,4,4,113,1997,1,1,0,1,0,13.3,Tarmac,253900
+Gasabo,Standalone Villa,3,2,117,2020,1,0,0,1,0,11.5,Gravel,306500
+Gasabo,Apartment,3,3,107,2001,1,1,0,1,0,11.5,Tarmac,251700
+Gasabo,Bungalow,2,2,62,2010,1,0,0,0,0,4.5,Gravel,210100
+Huye,Standalone Villa,3,2,55,2019,1,1,0,1,1,10.4,Tarmac,165300
+Kicukiro,Standalone Villa,4,4,114,2016,0,1,0,0,0,5.4,Gravel,303500
+Kicukiro,Townhouse,5,4,190,2015,0,1,0,0,1,0.6,Tarmac,292400
+Nyarugenge,Apartment,2,2,56,2022,1,0,1,0,0,17.7,Dirt,197300
+Gasabo,Bungalow,2,2,76,2015,0,0,0,1,0,17.7,Gravel,192700
+Huye,Standalone Villa,5,5,171,2015,0,1,0,0,0,3.1,Tarmac,201200
+Musanze,Standalone Villa,4,4,123,1990,0,0,0,0,0,19.6,Tarmac,170100
+Gasabo,Apartment,4,4,107,2004,0,1,0,0,1,11.4,Gravel,222000
+Kicukiro,Standalone Villa,2,1,40,1990,0,1,0,1,0,4.1,Dirt,205900
+Rubavu,Townhouse,3,3,100,2000,1,0,0,1,0,3.2,Tarmac,149600
+Huye,Townhouse,4,4,107,1991,1,1,0,0,1,29.6,Tarmac,133300
+Kicukiro,Bungalow,3,3,92,1990,1,0,0,1,0,10.0,Tarmac,207100
+Nyarugenge,Standalone Villa,3,2,71,2020,0,1,0,1,0,3.8,Tarmac,356300
+Gasabo,Townhouse,1,1,40,2005,1,1,0,0,1,8.2,Tarmac,239000
+Huye,Standalone Villa,3,3,90,2011,1,1,0,0,0,6.8,Tarmac,173100
+Gasabo,Townhouse,2,2,64,2007,1,0,0,1,1,5.9,Tarmac,259000
+Huye,Townhouse,3,3,73,2006,1,1,0,0,0,8.3,Tarmac,128900
+Nyarugenge,Standalone Villa,5,5,167,2019,1,1,0,0,0,6.2,Gravel,380100
+Nyarugenge,Apartment,3,2,81,1999,0,0,0,1,0,8.5,Gravel,210600
+Kicukiro,Apartment,4,4,94,2010,1,0,0,1,0,19.1,Tarmac,184300
+Gasabo,Standalone Villa,2,2,58,2005,0,0,1,1,0,40.0,Dirt,210100
+Gasabo,Bungalow,3,3,90,1995,0,1,1,1,0,9.9,Tarmac,257500
+Gasabo,Apartment,5,4,152,1992,1,1,0,1,1,21.0,Tarmac,256400
+Gasabo,Apartment,2,2,80,2010,0,1,0,0,1,15.6,Gravel,201700
+Musanze,Apartment,1,1,40,2002,0,1,0,0,0,2.8,Gravel,97100
+Kicukiro,Townhouse,3,3,88,2007,1,0,0,1,0,21.6,Dirt,177000
+Gasabo,Standalone Villa,2,2,43,2013,1,0,0,1,0,0.6,Tarmac,311400
+Huye,Apartment,4,4,132,2016,0,0,0,1,1,3.2,Tarmac,161400
+Rubavu,Standalone Villa,5,5,152,1993,1,0,0,0,0,8.2,Gravel,199700
+Rubavu,Townhouse,3,3,83,2011,0,1,0,0,0,6.0,Tarmac,138100
+Huye,Standalone Villa,2,2,40,2013,0,1,1,0,0,6.3,Tarmac,158700
+Gasabo,Townhouse,3,3,111,1999,0,1,0,1,1,12.7,Gravel,259700
+Kicukiro,Apartment,4,4,101,1991,0,0,0,0,0,1.7,Tarmac,207800
+Musanze,Standalone Villa,1,1,40,1995,0,1,0,1,0,32.2,Tarmac,112800
+Nyarugenge,Apartment,3,2,95,2007,0,1,0,1,0,4.6,Tarmac,241800
+Gasabo,Apartment,3,2,72,2006,1,0,0,0,1,23.9,Tarmac,202900
+Musanze,Standalone Villa,3,2,67,2012,1,1,0,0,1,3.9,Tarmac,199200
+Gasabo,Apartment,2,1,40,2019,1,0,0,0,1,7.4,Tarmac,197300
+Gasabo,Townhouse,4,3,130,2010,1,1,0,0,1,4.8,Tarmac,306200
+Kicukiro,Apartment,2,1,51,1999,0,1,0,0,0,9.0,Dirt,140300
+Nyarugenge,Apartment,2,2,103,2002,1,1,0,0,0,1.6,Tarmac,250300
+Nyarugenge,Bungalow,4,3,105,2001,1,0,0,1,1,4.1,Dirt,266100
+Gasabo,Standalone Villa,4,4,106,1998,0,0,0,1,0,0.6,Tarmac,347500
+Rubavu,Townhouse,1,1,40,1993,0,0,0,0,0,7.3,Tarmac,101700
+Gasabo,Townhouse,2,1,63,2013,1,1,0,1,1,26.3,Tarmac,228700
+Gasabo,Standalone Villa,2,2,52,2023,1,1,0,1,1,0.5,Tarmac,331000
+Rubavu,Townhouse,2,2,69,1994,1,0,0,1,1,8.6,Tarmac,129600
+Huye,Standalone Villa,2,1,45,2004,0,1,0,0,1,11.9,Tarmac,129400
+Rubavu,Apartment,2,2,40,1993,0,0,0,1,0,1.9,Gravel,93800
+Musanze,Apartment,3,3,63,1997,1,0,0,1,1,2.6,Tarmac,161700
+Nyarugenge,Standalone Villa,4,3,86,2013,1,1,0,1,0,1.8,Gravel,335000
+Nyarugenge,Apartment,3,2,82,2017,0,1,0,1,1,2.8,Gravel,241900
+Gasabo,Apartment,3,3,85,2016,0,0,0,0,0,0.9,Tarmac,208300
+Kicukiro,Apartment,2,2,50,1990,1,0,0,1,0,3.7,Gravel,165700
+Kicukiro,Apartment,5,5,168,2023,1,0,1,1,1,3.7,Gravel,306400
+Gasabo,Apartment,4,3,138,2006,0,0,1,1,0,13.2,Dirt,212000
+Nyarugenge,Apartment,4,4,114,2015,0,1,0,1,1,12.9,Tarmac,289700
+Kicukiro,Apartment,4,4,93,2013,1,1,0,0,0,12.7,Gravel,216500
+Gasabo,Apartment,5,5,141,2010,1,0,1,0,0,6.7,Dirt,263300
+Gasabo,Standalone Villa,3,3,81,2019,0,0,0,1,0,3.2,Gravel,305800
+Nyarugenge,Apartment,2,1,50,2002,0,1,0,1,0,4.2,Tarmac,216700
+Gasabo,Bungalow,3,3,79,1992,1,1,0,1,0,3.1,Dirt,200400
+Rubavu,Townhouse,4,3,110,2021,0,1,1,1,0,7.0,Dirt,170700
+Kicukiro,Standalone Villa,4,4,114,2008,1,0,1,0,1,22.2,Gravel,285300
+Kicukiro,Townhouse,3,2,80,2003,1,1,0,1,0,2.7,Tarmac,254500
+Nyarugenge,Standalone Villa,2,1,63,2011,0,0,0,0,0,4.9,Gravel,282900
+Musanze,Apartment,3,3,95,2006,1,1,0,1,1,8.5,Tarmac,159100
+Kicukiro,Bungalow,5,5,136,1993,1,1,0,1,0,14.9,Tarmac,241100
+Nyarugenge,Apartment,3,3,109,2008,1,0,0,0,0,2.3,Dirt,220600
+Nyarugenge,Bungalow,3,2,75,1991,0,0,0,0,1,2.6,Gravel,233600
+Gasabo,Standalone Villa,2,2,40,2004,1,0,0,0,1,17.3,Dirt,233500
+Rubavu,Apartment,3,2,95,1991,0,0,1,0,1,0.7,Gravel,152700
+Musanze,Standalone Villa,4,3,107,2000,1,0,0,1,1,7.4,Tarmac,221600
+Nyarugenge,Standalone Villa,3,2,94,2012,1,1,0,0,0,15.8,Dirt,267500
+Rubavu,Apartment,4,3,83,1999,0,0,0,0,1,20.4,Tarmac,120400
+Rubavu,Standalone Villa,3,3,110,1992,1,1,1,0,1,0.5,Gravel,214300
+Nyarugenge,Townhouse,3,3,100,1994,1,1,0,1,1,3.7,Gravel,266500
+Musanze,Standalone Villa,2,2,40,1992,0,1,0,0,0,2.4,Tarmac,143500
+Nyarugenge,Apartment,4,3,97,2002,0,1,1,0,1,6.7,Tarmac,279300
+Nyarugenge,Apartment,3,2,115,2008,1,0,0,1,0,8.0,Tarmac,268800
+Nyarugenge,Bungalow,3,2,78,2013,0,0,1,0,1,40.0,Tarmac,233500
+Musanze,Standalone Villa,3,3,77,2013,0,0,1,0,0,5.8,Tarmac,202400
+Gasabo,Standalone Villa,5,5,116,2006,1,1,1,1,1,6.4,Tarmac,393500
+Rubavu,Bungalow,2,1,54,1999,1,0,0,0,0,4.3,Gravel,98600
+Rubavu,Apartment,4,4,116,1991,1,0,1,1,0,1.3,Gravel,165800
+Gasabo,Standalone Villa,2,2,70,2012,0,0,0,1,1,2.9,Tarmac,310000
+Musanze,Townhouse,3,2,69,1995,0,1,0,1,0,2.3,Gravel,152400
+Gasabo,Townhouse,1,1,40,1991,0,0,0,0,1,12.9,Tarmac,191300
+Kicukiro,Apartment,3,3,96,2010,1,0,0,1,0,6.3,Tarmac,210500
+Nyarugenge,Apartment,3,3,105,2018,1,0,0,1,1,2.8,Tarmac,289200
+Gasabo,Townhouse,2,2,40,1996,0,1,0,0,0,5.4,Gravel,211900
+Musanze,Apartment,3,2,106,2018,0,1,0,0,0,2.0,Tarmac,141300
+Musanze,Bungalow,5,5,150,2012,1,0,0,1,0,1.6,Tarmac,215500
+Kicukiro,Apartment,2,2,76,2022,1,1,0,1,1,15.7,Tarmac,205700
+Gasabo,Apartment,4,4,118,1997,0,0,0,1,1,23.2,Dirt,180900
+Gasabo,Apartment,3,2,52,2001,1,0,0,1,0,0.7,Dirt,204000
+Nyarugenge,Townhouse,3,3,87,1999,0,0,0,1,0,11.6,Tarmac,260600
+Huye,Bungalow,2,2,75,2004,1,1,0,0,0,4.8,Tarmac,116900
+Nyarugenge,Townhouse,2,2,46,2013,1,1,0,1,1,3.9,Dirt,243300
+Gasabo,Bungalow,2,2,54,2015,1,0,0,1,1,9.4,Tarmac,223000
+Nyarugenge,Apartment,2,2,57,1992,0,1,1,1,0,2.5,Tarmac,241900
+Kicukiro,Apartment,2,1,40,1991,0,0,0,0,0,0.5,Tarmac,182000
+Musanze,Townhouse,3,2,115,1995,1,1,0,0,0,1.9,Dirt,167800
+Gasabo,Bungalow,4,4,106,2010,0,1,0,0,1,1.6,Gravel,243700
+Musanze,Townhouse,4,4,127,1998,1,1,0,1,0,0.5,Tarmac,193100
+Kicukiro,Townhouse,3,2,88,1999,1,1,0,1,1,3.1,Tarmac,257800
+Huye,Standalone Villa,2,2,78,1992,1,1,0,0,0,5.1,Dirt,127000
+Kicukiro,Apartment,2,1,66,2013,0,1,0,0,0,10.6,Tarmac,165600
+Nyarugenge,Bungalow,3,3,86,2011,1,1,0,1,0,3.2,Gravel,261300
+Huye,Apartment,2,1,46,2003,1,0,0,1,1,1.7,Tarmac,127600
+Gasabo,Standalone Villa,3,2,101,2016,0,0,0,1,1,2.1,Gravel,318500
+Huye,Townhouse,3,2,61,2022,0,0,0,0,0,17.7,Tarmac,107500
+Nyarugenge,Apartment,3,2,99,2011,0,1,0,0,0,1.8,Gravel,230600
+Gasabo,Townhouse,3,3,73,2018,0,0,0,1,0,16.9,Tarmac,243100
+Kicukiro,Apartment,4,3,138,2008,1,1,1,1,1,4.7,Tarmac,290000
+Nyarugenge,Townhouse,4,4,122,2008,1,0,1,0,1,21.8,Tarmac,302700
+Gasabo,Townhouse,3,3,99,1995,1,1,0,1,0,4.2,Gravel,236000
+Nyarugenge,Standalone Villa,5,4,151,2008,1,0,0,1,0,1.6,Tarmac,398600
+Kicukiro,Standalone Villa,5,4,123,2002,1,1,0,1,1,6.4,Tarmac,354200
+Nyarugenge,Apartment,3,2,77,2015,1,0,1,0,1,7.1,Gravel,267300
+Gasabo,Standalone Villa,3,3,100,2011,0,1,0,1,0,8.1,Gravel,299500
+Rubavu,Standalone Villa,3,2,92,2010,1,0,0,1,0,4.2,Gravel,158100
+Huye,Standalone Villa,5,4,167,1991,0,0,0,1,1,0.5,Tarmac,212900
+Huye,Apartment,4,4,126,2019,1,1,0,1,0,7.9,Tarmac,171800
+Nyarugenge,Apartment,2,2,45,2016,0,0,0,1,0,21.6,Gravel,181400
+Gasabo,Apartment,3,3,78,1996,1,0,0,1,0,25.3,Tarmac,196600
+Musanze,Townhouse,3,3,91,2009,1,0,0,1,0,7.3,Dirt,148500
+Gasabo,Apartment,3,2,55,2020,0,1,0,0,0,0.5,Tarmac,222700
+Gasabo,Bungalow,2,1,85,2012,1,0,0,0,1,0.9,Tarmac,256300
+Kicukiro,Townhouse,4,3,126,2002,1,1,0,0,0,14.4,Tarmac,247700
+Kicukiro,Townhouse,3,2,108,2006,0,0,0,1,0,14.2,Tarmac,216600
+Musanze,Townhouse,4,4,96,1993,0,0,1,1,0,23.4,Tarmac,147800
+Nyarugenge,Apartment,4,3,138,2003,1,1,0,0,0,6.6,Tarmac,284200
+Kicukiro,Townhouse,4,4,153,2009,0,0,0,0,1,16.0,Dirt,210300
+Gasabo,Standalone Villa,3,2,70,2002,0,1,0,0,1,13.9,Tarmac,304100
+Huye,Bungalow,3,3,101,1992,0,0,0,1,0,7.1,Tarmac,125200
+Kicukiro,Bungalow,2,1,60,2015,0,0,0,0,1,12.2,Tarmac,207400
+Kicukiro,Apartment,3,3,66,2015,0,1,0,1,0,1.1,Gravel,199800
+Gasabo,Standalone Villa,2,2,67,2007,0,1,0,1,0,8.2,Tarmac,307300
+Musanze,Standalone Villa,3,2,102,2021,0,1,1,1,0,24.5,Tarmac,189600
+Nyarugenge,Townhouse,2,2,50,2003,0,1,0,1,0,1.4,Gravel,233900
+Gasabo,Apartment,2,1,77,1992,1,0,0,1,0,10.9,Tarmac,226900
+Gasabo,Apartment,2,2,40,1990,1,0,0,1,0,3.1,Gravel,175600
+Nyarugenge,Standalone Villa,1,1,40,2015,0,0,0,1,0,13.6,Gravel,294200
+Nyarugenge,Standalone Villa,4,4,122,2013,1,1,0,0,0,9.6,Dirt,328900
+Gasabo,Bungalow,4,4,120,2003,0,1,0,1,0,20.8,Tarmac,227900
+Huye,Townhouse,3,3,79,1992,1,0,0,1,0,10.0,Tarmac,132400
+Gasabo,Standalone Villa,2,2,72,2002,0,0,0,0,1,4.2,Tarmac,288900
+Kicukiro,Apartment,2,2,67,2003,1,0,1,0,1,0.5,Tarmac,242500
+Huye,Apartment,1,1,42,2010,1,1,0,0,0,12.6,Tarmac,86800
+Kicukiro,Standalone Villa,2,2,58,2015,0,1,0,1,0,4.2,Gravel,259200
+Nyarugenge,Townhouse,4,4,129,1992,0,0,0,0,1,8.9,Tarmac,291500
+Kicukiro,Standalone Villa,2,2,53,1993,1,0,0,1,0,0.9,Tarmac,273500
+Gasabo,Standalone Villa,3,2,120,1990,0,0,1,0,1,17.7,Tarmac,330000
+Huye,Bungalow,2,2,47,2022,0,1,0,0,0,4.6,Gravel,94500
+Kicukiro,Bungalow,2,2,91,1996,0,1,1,1,0,20.2,Tarmac,218300
+Rubavu,Apartment,3,2,90,2000,0,0,0,1,0,9.8,Tarmac,115800
+Gasabo,Apartment,3,3,69,2016,0,1,1,1,1,1.0,Dirt,241100
+Gasabo,Apartment,2,1,80,2003,0,1,0,1,1,6.9,Gravel,195900
+Gasabo,Townhouse,2,2,61,2011,0,0,1,0,1,19.3,Tarmac,229600
+Nyarugenge,Bungalow,3,3,102,2005,0,1,0,1,0,12.9,Tarmac,235200
+Kicukiro,Apartment,2,2,78,2001,1,0,0,0,1,4.3,Tarmac,214300
+Rubavu,Apartment,2,1,65,1999,1,1,0,0,0,24.8,Gravel,70400
+Kicukiro,Bungalow,5,4,141,2013,1,0,0,0,1,2.5,Gravel,268400
+Huye,Townhouse,3,3,104,2007,1,0,0,1,0,3.8,Tarmac,165200
+Gasabo,Bungalow,3,3,90,2011,1,1,0,0,1,11.1,Gravel,243900
+Rubavu,Standalone Villa,3,2,100,1998,1,1,1,0,1,2.1,Tarmac,225100
+Musanze,Standalone Villa,3,3,57,2006,1,0,0,0,0,5.8,Gravel,172800
+Musanze,Apartment,3,3,96,2002,0,1,0,0,0,10.4,Tarmac,141600
+Musanze,Apartment,3,2,80,1995,1,0,1,0,0,8.3,Tarmac,156200
+Musanze,Standalone Villa,4,3,144,2010,0,0,0,0,0,1.4,Dirt,189100
+Nyarugenge,Standalone Villa,2,2,69,1996,1,1,0,0,0,7.9,Tarmac,320000
+Gasabo,Apartment,3,2,93,2014,0,0,1,0,1,6.8,Dirt,210600
+Gasabo,Bungalow,3,2,97,2000,1,0,0,0,0,6.5,Tarmac,226900
+Rubavu,Apartment,4,4,105,2003,0,1,0,1,0,14.0,Tarmac,132600
+Nyarugenge,Townhouse,3,3,114,2018,0,0,0,1,0,1.6,Gravel,266700
+Musanze,Apartment,3,3,119,1999,0,1,1,1,0,11.1,Tarmac,176700
+Kicukiro,Townhouse,2,1,65,1994,0,0,1,1,0,11.4,Tarmac,189200
+Gasabo,Apartment,3,2,113,1997,0,1,1,0,0,10.3,Tarmac,236800
+Gasabo,Townhouse,2,2,51,1994,0,0,0,0,0,5.6,Dirt,184700
+Nyarugenge,Apartment,3,2,78,2013,0,0,0,1,0,4.0,Gravel,227100
+Kicukiro,Standalone Villa,2,2,60,2015,0,1,0,1,1,4.0,Tarmac,279000
+Gasabo,Townhouse,3,3,96,1995,1,1,0,1,0,10.6,Tarmac,275700
+Kicukiro,Apartment,2,2,54,2005,0,1,0,1,1,5.5,Tarmac,186100
+Gasabo,Apartment,3,3,98,2001,0,0,0,0,1,3.3,Tarmac,231100
+Nyarugenge,Bungalow,4,3,124,2000,1,1,1,1,0,7.9,Dirt,263100
+Gasabo,Bungalow,2,2,45,1992,1,0,0,1,0,14.5,Gravel,178800
+Musanze,Apartment,3,2,97,1995,0,1,0,0,0,0.5,Tarmac,152500
+Kicukiro,Apartment,3,3,102,2008,0,1,1,1,1,28.6,Tarmac,218100
+Kicukiro,Apartment,1,1,40,2007,1,0,1,0,0,0.8,Dirt,175900
+Gasabo,Apartment,4,3,137,2005,0,1,0,1,1,5.7,Tarmac,272000
+Gasabo,Bungalow,2,2,41,2012,0,0,0,0,0,6.6,Dirt,157800
+Kicukiro,Standalone Villa,3,3,97,1998,1,1,0,0,0,1.2,Tarmac,298200
+Kicukiro,Standalone Villa,3,3,72,1992,0,1,0,1,0,19.8,Gravel,250900
+Nyarugenge,Bungalow,3,2,73,1997,1,0,0,0,0,5.1,Gravel,231200
+Gasabo,Standalone Villa,3,3,80,1993,0,1,0,1,0,1.2,Gravel,279900
+Nyarugenge,Townhouse,2,2,45,2001,1,0,1,1,0,9.9,Gravel,246900
+Rubavu,Apartment,1,1,40,2020,1,1,0,0,1,8.7,Tarmac,126100
+Musanze,Standalone Villa,4,4,116,2014,0,0,0,0,1,26.3,Tarmac,171800
+Gasabo,Standalone Villa,3,2,102,2005,1,1,0,1,0,4.7,Dirt,272100
+Kicukiro,Apartment,4,4,115,2003,1,0,0,1,0,2.5,Tarmac,239000
+Gasabo,Apartment,4,4,96,2002,0,0,0,1,0,0.5,Dirt,207000
+Gasabo,Apartment,4,4,137,1996,1,1,0,1,1,10.6,Gravel,267800
+Huye,Apartment,3,3,77,2001,0,0,1,1,0,7.7,Tarmac,109300
+Gasabo,Standalone Villa,3,2,89,1993,1,0,0,0,0,28.8,Dirt,225800
+Kicukiro,Standalone Villa,4,4,126,1991,0,1,0,1,0,10.0,Gravel,273800
+Nyarugenge,Standalone Villa,3,2,92,1992,0,1,0,1,0,21.6,Tarmac,324600
+Nyarugenge,Apartment,2,2,76,1993,0,1,0,1,1,38.2,Tarmac,187700
+Nyarugenge,Townhouse,4,4,127,2001,0,0,0,1,1,4.5,Dirt,264100
+Gasabo,Apartment,4,3,107,2008,0,1,0,1,0,1.3,Gravel,231700
+Kicukiro,Standalone Villa,3,3,122,1999,1,0,1,1,1,1.7,Gravel,318400
+Kicukiro,Townhouse,2,1,62,1990,1,1,0,1,1,3.1,Gravel,212400
+Gasabo,Apartment,3,2,87,2006,0,1,0,1,0,5.7,Tarmac,220200
+Kicukiro,Townhouse,4,4,134,2005,0,1,0,1,1,1.0,Dirt,262300
+Gasabo,Townhouse,5,5,153,1998,1,0,0,0,0,2.9,Tarmac,296200
+Gasabo,Apartment,2,1,65,1998,0,1,0,1,1,2.9,Tarmac,212200
+Kicukiro,Apartment,2,2,97,1998,0,1,0,1,0,0.5,Tarmac,198500
+Gasabo,Bungalow,4,4,115,2001,0,1,0,0,1,3.5,Tarmac,267300
+Nyarugenge,Apartment,3,3,85,2004,0,0,0,1,0,1.0,Tarmac,261900
+Nyarugenge,Townhouse,3,3,91,1991,0,1,1,0,1,4.5,Tarmac,301700
+Musanze,Standalone Villa,5,4,166,2000,1,1,0,0,0,1.8,Tarmac,265200
+Gasabo,Apartment,2,2,40,2000,1,0,0,1,0,13.8,Tarmac,195500
+Gasabo,Apartment,3,3,60,1997,0,0,0,1,1,0.7,Gravel,205100
+Gasabo,Standalone Villa,2,1,51,2021,1,0,0,1,1,16.1,Tarmac,293900
+Nyarugenge,Standalone Villa,3,3,65,1995,1,0,0,0,0,7.0,Tarmac,312000
+Nyarugenge,Townhouse,4,4,113,2009,0,0,0,0,0,4.9,Gravel,269600
+Gasabo,Bungalow,3,2,97,1997,0,0,0,1,0,6.4,Tarmac,234400
+Huye,Townhouse,5,5,136,2023,0,1,0,0,0,3.8,Tarmac,178000
+Gasabo,Apartment,3,2,68,2008,0,1,0,1,1,1.1,Dirt,213000
+Kicukiro,Bungalow,3,2,91,1996,0,0,0,1,0,11.6,Tarmac,198400
+Nyarugenge,Townhouse,2,2,72,2020,0,1,0,1,0,21.0,Tarmac,255600
+Rubavu,Bungalow,3,3,64,2007,0,1,0,0,1,24.0,Gravel,95600
+Nyarugenge,Standalone Villa,3,3,102,2003,1,0,0,0,0,8.9,Gravel,325700
+Musanze,Townhouse,2,2,72,2006,1,0,0,0,0,4.2,Gravel,153000
+Kicukiro,Standalone Villa,3,2,104,1998,0,1,0,0,0,5.2,Tarmac,305500
+Musanze,Apartment,3,2,108,2009,1,1,0,1,1,8.6,Gravel,174200
+Gasabo,Bungalow,4,4,153,2017,1,1,0,1,1,13.9,Gravel,272000
+Rubavu,Apartment,3,2,84,2009,1,1,1,0,0,3.8,Tarmac,153600
+Kicukiro,Apartment,4,3,121,2016,0,0,1,0,0,19.9,Tarmac,213700
+Musanze,Bungalow,1,1,40,1997,0,1,0,0,0,3.1,Gravel,93800
+Kicukiro,Apartment,2,2,60,2021,1,0,0,1,1,6.1,Tarmac,231800
+Nyarugenge,Bungalow,3,3,112,1990,0,0,0,0,0,26.0,Tarmac,209700
+Kicukiro,Townhouse,3,3,69,2006,0,0,0,1,0,22.3,Tarmac,198800
+Nyarugenge,Apartment,1,1,40,1998,1,0,1,0,1,9.5,Tarmac,247800
+Gasabo,Standalone Villa,4,4,140,2009,1,1,1,0,0,3.1,Tarmac,346900
+Gasabo,Townhouse,4,4,135,2021,1,1,0,0,0,2.0,Tarmac,289700
+Gasabo,Standalone Villa,3,3,84,1991,0,1,0,1,0,0.7,Tarmac,334900
+Gasabo,Bungalow,2,2,72,2021,0,0,0,1,0,9.9,Dirt,187500
+Rubavu,Bungalow,4,4,125,1998,1,1,0,1,0,5.6,Tarmac,179400
+Gasabo,Apartment,3,2,112,2019,0,1,0,0,1,6.8,Tarmac,233300
+Huye,Apartment,4,4,121,2009,0,0,0,0,0,5.1,Dirt,137500
+Kicukiro,Bungalow,4,4,135,1990,0,1,0,0,0,5.3,Dirt,191500
+Gasabo,Standalone Villa,4,4,159,1994,1,1,0,1,0,6.8,Tarmac,354800
+Musanze,Apartment,3,3,98,1990,1,0,0,0,1,19.7,Tarmac,140300
+Nyarugenge,Townhouse,2,2,60,2003,1,1,0,1,1,0.5,Gravel,279200
+Kicukiro,Bungalow,3,3,100,1998,0,1,0,0,0,12.9,Dirt,173900
+Nyarugenge,Townhouse,3,3,84,2019,0,1,0,0,1,4.0,Tarmac,292200
+Nyarugenge,Standalone Villa,4,4,155,2013,0,1,0,1,0,10.9,Tarmac,352300
+Gasabo,Townhouse,2,2,62,1993,1,0,0,0,0,23.7,Gravel,187500
+Huye,Townhouse,2,2,55,2003,0,1,1,1,1,2.9,Tarmac,134100
+Huye,Bungalow,4,3,107,2014,0,1,0,0,0,0.8,Gravel,145600
+Nyarugenge,Bungalow,4,3,136,1993,1,0,1,0,1,2.1,Gravel,291500
+Gasabo,Standalone Villa,5,5,163,2014,0,0,0,1,0,2.0,Tarmac,362700
+Nyarugenge,Townhouse,4,4,112,1999,0,1,0,0,0,10.8,Tarmac,276300
+Gasabo,Bungalow,3,2,98,1996,1,0,0,1,0,0.5,Gravel,234100
+Gasabo,Apartment,3,3,67,2002,0,1,0,1,0,0.5,Gravel,202600
+Gasabo,Apartment,4,3,122,1993,0,1,0,0,0,9.5,Gravel,215500
+Kicukiro,Bungalow,3,2,96,2003,0,0,0,1,0,6.5,Gravel,193500
+Rubavu,Apartment,3,3,115,2007,0,0,0,0,0,4.3,Tarmac,132700
+Nyarugenge,Apartment,2,2,48,1997,0,0,0,1,1,6.9,Gravel,211200
+Nyarugenge,Apartment,3,2,70,2021,1,1,0,1,1,10.6,Tarmac,248900
+Kicukiro,Standalone Villa,4,4,106,2016,0,1,0,1,0,0.9,Gravel,282600
+Kicukiro,Apartment,2,2,40,2012,1,1,0,1,0,6.4,Tarmac,208500
+Kicukiro,Apartment,2,2,80,1996,0,0,0,1,0,13.9,Gravel,141600
+Huye,Bungalow,3,3,113,2001,0,1,0,1,0,3.6,Gravel,151000
+Gasabo,Townhouse,2,1,64,2014,0,1,1,0,0,11.5,Gravel,227600
+Rubavu,Townhouse,2,1,78,1992,1,0,0,1,1,14.9,Dirt,102100
+Nyarugenge,Apartment,3,2,92,2015,0,1,0,0,0,13.8,Tarmac,236900
+Kicukiro,Townhouse,5,5,148,1993,1,0,0,1,1,8.4,Tarmac,281800
+Nyarugenge,Townhouse,3,3,85,2004,1,1,1,1,0,10.1,Tarmac,309700
+Kicukiro,Townhouse,2,2,55,2021,1,0,0,1,1,12.4,Dirt,205900
+Rubavu,Apartment,2,2,40,2018,1,0,0,1,0,10.6,Tarmac,116600
+Rubavu,Standalone Villa,3,3,93,1999,0,1,0,1,1,4.8,Tarmac,191400
+Kicukiro,Townhouse,3,2,89,2010,1,1,1,0,0,1.4,Dirt,241300
+Gasabo,Townhouse,4,3,131,2005,1,0,0,0,1,3.0,Dirt,257000
+Nyarugenge,Townhouse,3,3,91,2008,1,1,1,1,0,1.9,Dirt,286200
+Rubavu,Standalone Villa,4,3,117,2018,0,1,0,1,0,3.6,Tarmac,186000
+Gasabo,Standalone Villa,2,2,46,2007,1,0,0,1,0,5.4,Gravel,288500
+Nyarugenge,Townhouse,3,3,91,2005,0,1,0,1,0,25.6,Tarmac,246700
+Nyarugenge,Apartment,2,1,71,1990,0,1,0,0,1,25.6,Gravel,182100
+Nyarugenge,Townhouse,5,5,132,1991,1,1,1,1,0,11.7,Tarmac,333700
+Gasabo,Bungalow,3,2,91,2004,1,0,0,0,0,31.4,Gravel,184300
+Nyarugenge,Townhouse,3,2,93,2017,1,1,0,0,0,40.0,Tarmac,245600
+Rubavu,Apartment,2,2,49,1990,1,1,0,0,0,17.3,Tarmac,82000
+Gasabo,Apartment,2,1,51,1994,0,1,0,1,1,0.7,Gravel,200600
+Gasabo,Townhouse,3,3,93,2011,0,0,0,1,1,4.4,Tarmac,271800
+Huye,Bungalow,2,2,42,2002,1,1,0,0,0,6.1,Tarmac,110300
+Gasabo,Standalone Villa,3,3,95,1990,0,0,0,1,0,1.1,Tarmac,308700
+Rubavu,Standalone Villa,2,2,46,2005,1,1,0,0,1,13.2,Gravel,143100
+Kicukiro,Apartment,3,2,105,2011,0,1,0,1,1,1.3,Tarmac,240800
+Gasabo,Townhouse,4,4,155,2021,0,0,0,1,0,3.9,Gravel,277500
+Rubavu,Townhouse,4,3,107,2005,0,0,0,0,1,0.6,Gravel,164800
+Kicukiro,Bungalow,4,4,128,2004,0,1,0,1,0,5.9,Gravel,237000
+Kicukiro,Apartment,2,2,49,2001,1,1,1,0,1,7.3,Tarmac,212800
+Kicukiro,Townhouse,2,1,75,1990,0,0,0,1,0,10.6,Gravel,186000
+Nyarugenge,Standalone Villa,3,3,71,2006,0,1,1,1,0,3.3,Tarmac,370900
+Gasabo,Standalone Villa,3,3,97,2017,1,1,0,0,0,7.1,Tarmac,312500
+Kicukiro,Townhouse,3,3,76,1996,0,1,0,1,0,10.6,Gravel,214400
+Huye,Apartment,1,1,40,1998,1,1,0,0,0,11.5,Dirt,72600
+Gasabo,Apartment,2,2,44,2011,0,0,0,1,1,2.9,Tarmac,223200
+Nyarugenge,Townhouse,1,1,42,2015,0,1,0,0,0,0.6,Tarmac,243100
+Kicukiro,Standalone Villa,4,4,107,2001,1,0,0,0,0,0.5,Dirt,272800
+Musanze,Apartment,2,2,68,1996,1,0,0,1,0,11.7,Dirt,92700
+Gasabo,Standalone Villa,3,2,84,2004,0,0,0,0,1,3.9,Tarmac,302300
+Huye,Standalone Villa,1,1,40,2010,1,1,0,1,1,1.2,Tarmac,154600
+Kicukiro,Bungalow,3,2,92,2003,1,1,0,1,1,1.6,Tarmac,252000
+Gasabo,Apartment,3,3,78,1991,0,0,0,1,0,11.6,Gravel,196900
+Gasabo,Townhouse,4,4,123,1997,0,1,0,0,0,7.3,Tarmac,268700
+Gasabo,Apartment,4,3,142,1995,0,1,0,1,0,5.6,Gravel,231300
+Kicukiro,Apartment,3,3,78,2022,0,1,1,1,1,7.8,Dirt,227700
+Kicukiro,Apartment,5,4,167,1995,0,1,1,0,0,1.2,Dirt,240000
+Musanze,Bungalow,5,5,172,2015,1,0,0,1,0,3.1,Dirt,186000
+Kicukiro,Apartment,4,4,107,2003,0,0,0,0,1,3.7,Tarmac,246900
+Gasabo,Townhouse,4,4,98,1997,1,1,0,1,1,3.0,Tarmac,295300
+Nyarugenge,Standalone Villa,2,2,64,2002,0,0,0,1,0,16.0,Gravel,284600
+Nyarugenge,Bungalow,3,2,81,2002,1,0,0,1,0,7.0,Tarmac,265600
+Gasabo,Townhouse,2,2,88,2017,1,1,1,1,0,10.5,Tarmac,280000
+Gasabo,Townhouse,2,1,60,2007,0,1,0,0,0,2.2,Tarmac,234500
+Gasabo,Bungalow,5,4,137,2008,0,1,0,0,0,2.5,Dirt,253500
+Nyarugenge,Townhouse,3,3,72,2021,0,0,0,0,1,2.0,Dirt,231300
+Nyarugenge,Townhouse,4,4,136,2011,1,0,0,0,0,9.3,Tarmac,288400
+Kicukiro,Apartment,4,3,111,1991,0,1,0,1,1,3.4,Tarmac,242800
+Musanze,Apartment,4,3,120,2002,0,0,0,1,0,4.2,Gravel,142300
+Musanze,Townhouse,5,5,164,2012,1,0,0,0,0,9.9,Dirt,189400
+Nyarugenge,Standalone Villa,2,2,52,2014,1,0,0,1,1,28.5,Tarmac,310300
+Rubavu,Standalone Villa,1,1,40,2017,0,1,1,1,1,1.4,Dirt,169900
+Gasabo,Standalone Villa,3,2,89,2000,0,0,1,0,1,0.5,Gravel,313500
+Gasabo,Standalone Villa,2,2,70,2022,1,0,0,0,1,1.7,Dirt,280700
+Gasabo,Townhouse,1,1,40,2013,1,0,0,1,0,10.6,Gravel,195700
+Gasabo,Apartment,3,3,86,1991,0,0,0,1,0,1.7,Dirt,192900
+Kicukiro,Bungalow,4,4,120,2019,0,0,0,1,0,7.0,Gravel,244100
+Huye,Bungalow,3,3,84,2006,1,1,1,0,1,7.1,Tarmac,162600
+Gasabo,Bungalow,3,3,67,2023,1,1,0,1,0,2.8,Tarmac,249200
+Gasabo,Standalone Villa,3,3,93,2011,1,0,0,1,0,0.6,Dirt,279400
+Kicukiro,Standalone Villa,2,2,88,1994,0,0,0,0,0,4.1,Tarmac,264300
+Huye,Bungalow,1,1,40,2005,0,0,0,0,1,1.7,Tarmac,75200
+Kicukiro,Bungalow,4,4,108,2002,1,0,1,0,1,1.6,Gravel,265500
+Kicukiro,Townhouse,3,3,76,2015,0,0,0,0,1,5.9,Gravel,219200
+Gasabo,Standalone Villa,4,3,130,2020,0,0,0,0,0,8.9,Tarmac,323300
+Gasabo,Standalone Villa,1,1,40,2012,0,0,0,1,0,0.6,Tarmac,283600
+Huye,Townhouse,4,4,117,2001,0,1,0,1,0,6.9,Tarmac,155100
+Huye,Apartment,3,3,76,2003,0,0,0,1,0,2.3,Tarmac,120800
+Gasabo,Townhouse,3,2,91,2007,1,1,1,0,0,8.9,Dirt,229800
+Huye,Townhouse,3,3,66,2016,1,0,0,1,0,13.3,Gravel,117100
+Nyarugenge,Townhouse,4,3,122,2017,1,0,1,1,0,13.2,Dirt,273100
+Rubavu,Standalone Villa,3,2,103,2007,1,1,1,1,1,3.7,Tarmac,233200
+Kicukiro,Standalone Villa,3,2,71,2005,0,0,0,1,0,6.7,Tarmac,259800
+Kicukiro,Bungalow,5,5,127,2005,0,0,0,1,1,12.6,Gravel,237500
+Kicukiro,Townhouse,4,3,143,2002,0,1,1,1,0,0.5,Tarmac,305400
+Nyarugenge,Townhouse,3,3,80,2018,0,1,0,0,0,7.4,Tarmac,245900
+Gasabo,Townhouse,4,4,137,1998,1,0,0,0,0,14.5,Dirt,225700
+Gasabo,Townhouse,3,2,87,2015,0,0,0,1,0,3.7,Dirt,192500
+Kicukiro,Townhouse,2,2,57,2017,0,1,0,1,0,4.9,Tarmac,218000
+Nyarugenge,Standalone Villa,3,2,96,2002,1,1,0,1,1,9.6,Gravel,344000
+Gasabo,Standalone Villa,5,5,136,1998,0,0,0,1,1,0.6,Tarmac,361800
+Nyarugenge,Standalone Villa,5,4,151,2003,1,0,0,1,1,3.9,Dirt,357100
+Huye,Apartment,3,3,84,2001,0,1,0,0,0,2.8,Gravel,126900
+Gasabo,Apartment,3,3,70,2021,0,0,0,0,1,0.5,Tarmac,242400
+Nyarugenge,Apartment,2,2,65,1992,0,0,0,0,0,1.7,Tarmac,210000
+Kicukiro,Bungalow,5,4,146,2005,1,1,0,1,1,4.0,Gravel,273600
+Rubavu,Apartment,5,5,147,2009,0,0,0,1,0,1.8,Tarmac,192000
+Gasabo,Apartment,3,3,71,2021,0,1,0,1,1,7.4,Dirt,192300
+Nyarugenge,Apartment,4,4,143,2012,0,1,0,1,1,4.8,Dirt,265600
+Musanze,Townhouse,4,3,133,2006,0,1,0,0,1,0.5,Dirt,163300
+Huye,Apartment,3,3,104,2005,0,0,0,0,0,2.6,Gravel,100000
+Nyarugenge,Standalone Villa,2,2,55,1997,1,0,1,1,0,0.5,Tarmac,344600
+Kicukiro,Apartment,3,3,64,2008,1,0,0,1,0,3.5,Tarmac,209800
+Nyarugenge,Townhouse,3,3,119,2019,1,0,0,0,0,2.4,Gravel,290700
+Rubavu,Bungalow,3,3,89,2023,0,0,0,1,0,9.3,Tarmac,112400
+Nyarugenge,Bungalow,3,3,78,2003,0,0,1,0,1,2.9,Gravel,276500
+Gasabo,Standalone Villa,5,4,156,2011,0,0,0,0,0,3.8,Tarmac,347800
+Huye,Townhouse,2,2,77,2006,0,0,0,1,0,10.3,Tarmac,95400
+Nyarugenge,Standalone Villa,3,3,89,2004,0,0,0,0,0,5.2,Tarmac,338800
+Nyarugenge,Standalone Villa,3,3,109,2021,0,1,0,1,0,6.5,Gravel,324000
+Gasabo,Standalone Villa,3,2,106,2002,1,1,0,0,0,14.7,Tarmac,330900
+Nyarugenge,Apartment,3,2,73,2010,1,0,0,1,0,1.9,Tarmac,254400
+Kicukiro,Townhouse,2,1,49,2022,1,1,1,1,0,36.2,Tarmac,204200
+Nyarugenge,Apartment,2,2,74,2016,1,1,0,1,1,18.4,Tarmac,246900
+Gasabo,Standalone Villa,3,3,49,2005,0,0,1,0,0,2.7,Dirt,283400
+Nyarugenge,Standalone Villa,3,3,87,2017,0,0,0,0,1,17.9,Gravel,321900
+Huye,Standalone Villa,2,2,40,2023,0,1,0,1,1,11.2,Tarmac,154200
+Gasabo,Townhouse,4,4,112,1990,0,0,1,0,0,21.4,Tarmac,272700
+Huye,Townhouse,3,2,85,2020,0,0,0,1,1,9.4,Dirt,135400
+Kicukiro,Townhouse,3,2,84,2022,0,1,0,1,0,9.0,Gravel,223000
+Rubavu,Standalone Villa,4,3,111,2022,0,0,0,0,0,0.5,Tarmac,186200
+Musanze,Apartment,2,2,43,2007,1,1,1,1,0,5.1,Tarmac,167200
+Nyarugenge,Standalone Villa,1,1,64,2012,1,0,0,1,0,1.8,Tarmac,322400
+Nyarugenge,Bungalow,4,4,148,2012,0,0,0,1,1,3.1,Tarmac,303600
+Rubavu,Bungalow,3,3,72,2004,0,0,0,0,0,30.8,Gravel,71600
+Kicukiro,Townhouse,3,2,113,2015,0,1,1,0,0,0.7,Tarmac,275000
+Kicukiro,Apartment,4,4,114,2019,1,0,1,0,0,10.3,Gravel,250500
+Nyarugenge,Apartment,4,4,121,2014,0,0,0,0,0,1.5,Tarmac,261000
+Musanze,Standalone Villa,5,5,149,2005,1,1,0,0,1,0.5,Tarmac,243900
+Musanze,Bungalow,3,2,80,2003,1,0,1,1,0,5.6,Gravel,172300
+Musanze,Townhouse,3,2,104,2006,0,0,0,0,0,1.4,Tarmac,163300
+Kicukiro,Bungalow,3,3,91,2001,0,0,0,0,0,26.9,Gravel,173400
+Musanze,Townhouse,2,1,52,2018,0,1,0,0,0,1.8,Gravel,135400
+Gasabo,Apartment,3,3,70,2021,0,0,0,0,0,1.7,Dirt,197100
+Kicukiro,Apartment,2,2,46,2013,1,0,0,0,0,0.5,Tarmac,187100
+Gasabo,Apartment,5,4,125,2002,0,0,0,1,0,3.2,Tarmac,260600
+Kicukiro,Standalone Villa,3,2,90,2009,0,0,0,1,1,0.5,Tarmac,322500
+Kicukiro,Apartment,3,2,72,2004,1,1,1,0,0,5.5,Tarmac,224400
+Kicukiro,Townhouse,3,3,86,1993,0,1,0,0,1,5.6,Tarmac,225800
+Nyarugenge,Townhouse,2,1,80,2023,0,0,0,1,1,0.5,Tarmac,284300
+Kicukiro,Apartment,1,1,47,2017,0,0,1,0,1,2.2,Tarmac,219000
+Kicukiro,Apartment,3,2,89,1991,1,0,0,0,0,14.3,Tarmac,187800
+Gasabo,Apartment,2,2,58,2019,1,1,0,1,1,5.0,Gravel,240700
+Kicukiro,Townhouse,3,2,118,2015,0,0,0,1,1,4.6,Gravel,228300
+Gasabo,Standalone Villa,4,4,127,2015,1,0,0,1,1,9.6,Tarmac,342300
+Gasabo,Apartment,4,4,115,2009,1,1,0,1,0,10.0,Gravel,251800
+Nyarugenge,Bungalow,3,3,68,2017,0,0,0,1,0,11.5,Tarmac,225300
+Nyarugenge,Standalone Villa,2,2,65,2009,1,1,0,1,1,14.2,Tarmac,343400
+Nyarugenge,Standalone Villa,4,4,132,2000,0,0,0,1,0,2.1,Tarmac,379900
+Kicukiro,Townhouse,4,3,110,1999,1,0,0,0,0,0.5,Gravel,240400
+Kicukiro,Townhouse,2,2,64,2012,0,0,0,1,0,3.8,Tarmac,206700
+Rubavu,Townhouse,4,3,114,2008,1,0,0,0,1,15.5,Tarmac,176300
+Kicukiro,Standalone Villa,2,2,57,2007,0,0,0,0,0,0.6,Dirt,218100
+Kicukiro,Standalone Villa,4,4,82,2016,1,0,0,1,1,6.9,Tarmac,317600
+Gasabo,Townhouse,5,5,146,1995,0,1,0,1,0,9.7,Dirt,263500
+Kicukiro,Standalone Villa,1,1,44,1999,1,0,0,1,0,5.3,Tarmac,249300
+Kicukiro,Townhouse,4,4,110,1991,0,1,0,0,0,2.4,Gravel,224200
+Kicukiro,Bungalow,3,3,90,2013,1,1,0,1,0,3.2,Gravel,211800
+Nyarugenge,Bungalow,5,5,138,2017,1,1,0,1,0,0.6,Dirt,291300
+Kicukiro,Apartment,3,3,95,2017,0,1,0,0,0,2.8,Dirt,187500
+Nyarugenge,Apartment,4,4,116,1991,1,0,0,1,0,0.5,Dirt,230600
+Musanze,Apartment,2,2,45,1994,0,0,0,0,0,10.4,Tarmac,79700
+Musanze,Townhouse,3,3,109,2000,1,0,0,0,1,18.3,Gravel,162700
+Nyarugenge,Standalone Villa,2,1,73,1999,1,0,1,0,0,8.0,Gravel,312200
+Huye,Apartment,5,4,140,1991,0,0,0,0,0,8.6,Tarmac,119200
+Gasabo,Apartment,4,3,127,2004,1,0,0,1,0,5.1,Dirt,219000
+Gasabo,Apartment,4,4,128,1996,0,1,1,0,0,1.4,Tarmac,282700
+Gasabo,Apartment,5,4,159,2009,0,1,0,1,1,0.5,Tarmac,298500
+Nyarugenge,Apartment,2,1,40,2023,1,0,1,0,0,3.4,Tarmac,251300
+Rubavu,Townhouse,3,2,105,2023,1,0,0,1,0,11.1,Gravel,139000
+Gasabo,Apartment,2,2,51,2011,0,0,0,1,0,25.8,Gravel,147800
+Rubavu,Apartment,2,1,54,2020,0,0,0,0,1,4.5,Gravel,123600
+Gasabo,Townhouse,2,1,99,2012,1,0,0,1,0,3.6,Tarmac,235000
+Huye,Townhouse,3,3,94,2008,0,1,0,1,0,4.7,Gravel,122300
+Kicukiro,Apartment,2,1,54,1993,1,0,0,1,1,4.5,Dirt,167800
+Gasabo,Apartment,2,2,40,2013,1,0,1,1,0,7.9,Tarmac,210100
+Kicukiro,Townhouse,2,2,80,2009,0,0,0,1,0,10.6,Gravel,188900
+Gasabo,Standalone Villa,2,2,40,2017,0,1,0,1,0,12.3,Tarmac,270900
+Gasabo,Apartment,5,4,134,2006,0,1,0,0,0,8.4,Tarmac,255400
+Kicukiro,Apartment,4,4,115,2008,0,1,0,1,1,4.6,Gravel,225500
+Musanze,Apartment,5,5,171,2021,1,0,0,0,1,24.0,Tarmac,181300
+Kicukiro,Standalone Villa,3,3,101,2019,1,0,0,0,0,9.9,Gravel,263000
+Kicukiro,Bungalow,2,2,57,2006,1,0,0,0,1,4.5,Gravel,204900
+Nyarugenge,Townhouse,4,4,124,2018,0,0,0,1,0,4.7,Tarmac,300100
+Nyarugenge,Standalone Villa,3,2,80,1995,0,1,0,1,1,13.6,Tarmac,345500
+Gasabo,Standalone Villa,2,1,62,2006,1,0,0,0,0,4.6,Dirt,254500
+Kicukiro,Townhouse,2,2,61,2006,1,0,1,0,0,5.8,Tarmac,236500
+Gasabo,Standalone Villa,2,2,74,2003,1,1,0,1,0,2.8,Gravel,283600
+Gasabo,Apartment,2,2,74,2013,0,0,0,0,0,14.6,Dirt,150400
+Nyarugenge,Townhouse,3,2,97,2021,1,1,0,0,1,5.9,Dirt,286700
+Gasabo,Bungalow,3,3,84,2003,0,0,0,1,0,6.4,Gravel,204000
+Kicukiro,Standalone Villa,2,2,71,2016,1,0,0,1,0,17.0,Tarmac,260700
+Nyarugenge,Townhouse,2,2,58,2008,1,0,0,0,0,20.3,Tarmac,238700
+Gasabo,Standalone Villa,4,3,103,2020,1,1,0,1,0,13.9,Tarmac,338300
+Nyarugenge,Standalone Villa,2,1,53,1998,0,0,0,1,0,0.5,Gravel,290800
+Gasabo,Apartment,3,2,91,2006,1,0,0,1,0,4.7,Tarmac,248100
+Huye,Townhouse,4,3,133,2008,0,0,0,0,0,3.4,Dirt,136400
+Kicukiro,Townhouse,2,2,57,1993,1,1,0,0,0,1.9,Gravel,202400
+Musanze,Townhouse,2,2,41,2000,0,1,0,0,1,19.2,Tarmac,127500
+Nyarugenge,Apartment,3,3,90,2011,0,0,0,1,1,17.7,Tarmac,229400
+Gasabo,Apartment,3,3,91,1993,0,0,0,1,0,5.0,Gravel,206800
+Nyarugenge,Standalone Villa,3,3,92,2006,1,1,0,0,0,1.2,Tarmac,354900
+Huye,Standalone Villa,4,4,133,1997,1,1,0,1,0,0.5,Gravel,203200
+Nyarugenge,Standalone Villa,2,2,75,2023,1,1,0,1,0,4.6,Dirt,304600
+Musanze,Bungalow,3,2,81,2000,1,0,0,1,1,0.5,Dirt,147500
+Rubavu,Townhouse,3,2,80,2020,1,0,0,1,0,7.5,Gravel,131400
+Gasabo,Standalone Villa,2,1,44,2000,0,1,0,1,0,7.5,Dirt,210600
+Gasabo,Apartment,3,2,100,2010,1,1,0,0,0,18.3,Gravel,202200
+Nyarugenge,Apartment,2,2,81,2019,1,1,0,1,1,1.7,Tarmac,247400
+Kicukiro,Townhouse,3,2,85,1999,0,0,0,1,1,3.7,Gravel,221100
+Musanze,Townhouse,2,2,56,2015,0,1,0,0,1,15.7,Tarmac,128000
+Rubavu,Townhouse,3,2,112,2016,0,1,0,1,0,5.1,Tarmac,159300
+Kicukiro,Standalone Villa,3,3,97,1997,0,1,0,0,0,0.5,Gravel,267400
+Gasabo,Apartment,4,3,126,1997,0,0,0,0,1,0.9,Dirt,213600
+Musanze,Bungalow,2,2,42,1997,0,1,1,0,0,13.4,Gravel,126200
+Gasabo,Bungalow,3,3,100,2023,1,1,0,1,0,10.9,Tarmac,239500
+Musanze,Standalone Villa,3,2,76,2005,0,1,0,1,0,16.7,Tarmac,167500
+Kicukiro,Apartment,4,4,102,2002,0,1,0,0,0,1.0,Tarmac,244500
+Nyarugenge,Standalone Villa,3,2,84,2012,1,1,0,1,0,11.4,Tarmac,354000
+Gasabo,Bungalow,3,2,81,2001,0,1,0,1,1,8.5,Dirt,198900
+Nyarugenge,Townhouse,4,3,116,2016,0,0,0,1,0,2.1,Tarmac,287300
+Kicukiro,Townhouse,4,3,98,2011,1,1,0,0,1,29.2,Tarmac,242700
+Nyarugenge,Apartment,3,2,104,2021,0,1,1,0,1,6.8,Gravel,255600
+Gasabo,Apartment,3,3,106,2016,0,0,0,1,1,19.0,Tarmac,224500
+Nyarugenge,Apartment,4,3,90,1991,0,0,1,1,0,15.7,Gravel,241500
+Rubavu,Bungalow,5,4,164,2022,1,0,0,1,0,3.2,Gravel,178500
+Gasabo,Standalone Villa,4,3,107,2015,1,1,0,1,1,6.1,Gravel,324700
+Gasabo,Townhouse,3,3,102,2017,1,0,0,1,0,4.5,Tarmac,258900
+Gasabo,Apartment,2,1,58,2008,1,1,0,0,0,9.9,Tarmac,218400
+Nyarugenge,Bungalow,3,2,90,1994,1,1,0,1,0,7.1,Tarmac,274300
+Nyarugenge,Townhouse,4,3,117,2022,1,1,0,0,0,12.3,Gravel,294700
+Kicukiro,Apartment,3,3,108,2009,1,0,0,0,0,0.5,Tarmac,241400
+Gasabo,Bungalow,3,3,71,2019,0,0,0,0,1,9.3,Tarmac,228200
+Kicukiro,Apartment,4,4,129,1997,0,0,0,1,1,3.1,Dirt,192800
+Nyarugenge,Apartment,3,2,106,2006,1,0,0,1,0,2.0,Tarmac,274600
+Kicukiro,Apartment,4,3,130,1990,1,1,1,0,1,12.9,Gravel,253300
+Huye,Bungalow,3,3,124,1992,1,1,0,0,0,0.7,Gravel,148800
+Gasabo,Bungalow,3,3,82,2015,0,0,1,0,0,2.1,Dirt,211000
+Nyarugenge,Apartment,3,3,104,2020,1,1,0,1,1,1.8,Dirt,251500
+Kicukiro,Townhouse,4,4,118,1997,1,0,0,1,0,4.4,Tarmac,260600
+Kicukiro,Townhouse,2,1,78,1997,0,0,0,1,1,3.1,Gravel,207300
+Nyarugenge,Townhouse,2,1,59,2017,1,1,0,1,0,10.2,Gravel,234100
+Nyarugenge,Apartment,5,5,144,1993,0,0,1,0,1,9.6,Tarmac,284400
+Huye,Standalone Villa,2,2,79,2005,0,1,0,0,0,3.1,Tarmac,134000
+Gasabo,Townhouse,3,3,82,2002,0,1,1,1,0,4.6,Tarmac,250200
+Gasabo,Apartment,3,2,68,2009,0,1,0,0,0,1.9,Tarmac,213700
+Nyarugenge,Standalone Villa,3,3,82,1994,0,0,0,0,0,8.9,Gravel,289100
+Nyarugenge,Townhouse,3,3,99,2009,1,0,0,0,0,4.0,Dirt,230000
+Gasabo,Apartment,2,2,80,2013,0,0,0,1,1,1.1,Dirt,200600
+Gasabo,Bungalow,3,2,91,2023,0,1,0,1,0,1.1,Tarmac,243000
+Gasabo,Apartment,3,2,109,2023,0,0,0,0,1,3.1,Tarmac,240200
+Rubavu,Bungalow,3,2,69,2008,0,0,0,1,0,11.0,Gravel,120700
+Gasabo,Apartment,2,2,53,2006,0,1,0,0,0,0.5,Tarmac,203000
+Kicukiro,Apartment,3,3,85,1994,0,1,0,1,1,2.4,Gravel,212400
+Gasabo,Apartment,2,2,58,2014,1,1,0,1,1,1.4,Gravel,215500
+Kicukiro,Townhouse,2,1,61,2007,1,1,1,0,0,25.1,Gravel,199400
+Gasabo,Townhouse,2,2,70,1997,0,0,0,1,1,9.8,Tarmac,236500
+Kicukiro,Apartment,2,2,53,2016,0,0,0,1,0,2.1,Tarmac,189100
+Gasabo,Apartment,4,3,122,2004,0,0,0,0,0,1.9,Tarmac,225800
+Musanze,Townhouse,2,1,59,2002,0,0,0,0,0,15.6,Tarmac,93200
+Gasabo,Standalone Villa,5,5,136,2005,1,1,0,1,1,1.7,Dirt,331100
+Kicukiro,Townhouse,5,5,148,2011,1,0,1,0,1,40.0,Tarmac,280500
+Rubavu,Apartment,3,3,87,2009,1,1,1,1,0,2.7,Tarmac,160400
+Nyarugenge,Townhouse,2,1,57,2002,0,0,1,1,1,0.7,Gravel,289100
+Kicukiro,Townhouse,3,2,90,2009,1,0,0,0,1,9.4,Tarmac,234800
+Kicukiro,Bungalow,4,4,121,1991,0,1,0,0,0,7.5,Dirt,193400
+Kicukiro,Townhouse,3,3,83,2008,1,0,1,1,1,40.0,Tarmac,237500
+Nyarugenge,Apartment,2,1,79,1995,1,1,0,0,0,13.0,Dirt,176600
+Huye,Apartment,3,2,72,2003,1,1,1,1,0,4.5,Dirt,136400
+Nyarugenge,Townhouse,4,4,109,1993,0,1,0,1,1,9.0,Dirt,271300
+Nyarugenge,Standalone Villa,4,4,161,2011,0,0,0,1,0,13.6,Tarmac,372700
+Nyarugenge,Bungalow,2,2,44,2023,0,1,0,1,0,5.8,Tarmac,244100
+Kicukiro,Townhouse,3,3,69,2016,0,0,0,1,0,2.5,Gravel,213300
+Gasabo,Standalone Villa,2,1,71,1996,0,1,0,1,1,1.9,Gravel,286500
+Nyarugenge,Standalone Villa,2,1,40,1992,1,0,0,1,0,2.8,Gravel,281300
+Huye,Standalone Villa,4,3,116,2022,0,0,0,1,0,15.1,Tarmac,157600
+Gasabo,Apartment,2,2,92,1991,1,1,0,1,0,3.8,Tarmac,224700
+Nyarugenge,Apartment,2,1,40,2005,0,0,0,1,0,2.7,Dirt,174600
+Gasabo,Standalone Villa,1,1,40,2014,1,1,0,0,1,13.1,Tarmac,293700
+Kicukiro,Apartment,4,4,97,2004,0,0,0,1,0,0.5,Tarmac,234100
+Gasabo,Apartment,4,4,133,2013,1,1,0,0,0,7.2,Tarmac,243900
+Kicukiro,Apartment,3,3,106,2004,0,1,0,0,0,16.5,Gravel,170700
+Musanze,Apartment,4,3,112,2020,0,0,1,0,0,4.2,Tarmac,190300
+Kicukiro,Apartment,2,2,70,2003,1,1,0,1,1,2.5,Tarmac,245100
+Nyarugenge,Townhouse,3,3,110,2003,0,1,0,0,0,5.4,Tarmac,267800
+Musanze,Standalone Villa,3,3,116,1995,0,1,0,1,1,10.1,Tarmac,192500
+Rubavu,Standalone Villa,2,2,56,2003,0,0,0,1,0,5.8,Gravel,119600
+Gasabo,Townhouse,3,3,55,2006,0,1,0,0,0,0.5,Tarmac,228200
+Kicukiro,Bungalow,5,5,137,2007,0,0,1,1,1,0.7,Tarmac,299400
+Gasabo,Apartment,1,1,40,2009,0,0,0,1,0,10.2,Gravel,166600
+Huye,Standalone Villa,2,2,56,2006,1,0,0,1,0,4.1,Tarmac,141600
+Rubavu,Apartment,2,2,57,2005,1,1,0,0,1,12.3,Tarmac,119900
+Kicukiro,Standalone Villa,2,2,76,2021,0,1,1,0,1,8.4,Dirt,260900
+Musanze,Bungalow,5,4,169,1998,1,0,0,1,0,7.0,Dirt,168400
+Kicukiro,Townhouse,3,3,87,2016,0,1,0,0,0,18.5,Tarmac,212700
+Nyarugenge,Townhouse,3,3,106,2022,0,1,1,0,0,0.5,Tarmac,331100
+Gasabo,Standalone Villa,4,4,125,1999,0,0,1,0,1,1.3,Tarmac,362700
+Musanze,Townhouse,2,2,60,2006,1,1,0,1,0,7.8,Dirt,122500
+Gasabo,Apartment,3,3,103,2006,0,0,0,0,1,0.5,Gravel,225700
+Musanze,Standalone Villa,3,2,91,2007,1,0,0,1,0,8.3,Tarmac,180100
+Musanze,Standalone Villa,3,2,120,2012,0,0,0,1,0,33.1,Dirt,122200
+Nyarugenge,Apartment,5,5,128,2023,1,1,1,1,0,16.9,Tarmac,282700
+Gasabo,Apartment,4,3,112,1997,1,1,0,0,0,7.2,Tarmac,248000
+Kicukiro,Townhouse,3,2,88,2002,0,0,0,1,0,18.0,Tarmac,193900
+Gasabo,Apartment,4,4,126,2012,1,0,1,0,0,1.0,Tarmac,276400
+Kicukiro,Apartment,2,2,79,2009,1,0,0,0,1,4.9,Dirt,179400
+Gasabo,Standalone Villa,1,1,40,2011,0,1,0,0,0,4.5,Gravel,238200
+Huye,Apartment,2,2,40,2012,0,1,0,0,0,3.3,Tarmac,111000
+Nyarugenge,Townhouse,3,2,102,1992,0,1,0,1,1,0.5,Tarmac,286800
+Kicukiro,Townhouse,3,2,101,2023,1,1,1,1,1,17.7,Gravel,284700
+Kicukiro,Townhouse,3,2,60,2022,1,1,0,1,0,12.0,Tarmac,236500
+Kicukiro,Apartment,5,4,149,2006,0,1,0,0,1,8.5,Tarmac,245700
+Nyarugenge,Townhouse,3,3,66,2008,0,0,1,1,0,1.1,Gravel,274700
+Kicukiro,Bungalow,3,3,80,2019,0,1,1,0,0,3.8,Tarmac,243200
+Rubavu,Apartment,2,1,46,2012,0,0,0,1,1,20.7,Tarmac,109700
+Kicukiro,Apartment,1,1,42,2004,1,0,0,0,1,7.7,Tarmac,191200
+Huye,Bungalow,3,2,91,2003,1,0,0,1,1,7.4,Tarmac,149900
+Rubavu,Apartment,3,2,70,1991,0,1,0,1,1,19.5,Gravel,101500
+Gasabo,Standalone Villa,4,3,133,2007,0,1,0,0,0,6.6,Tarmac,324900
+Huye,Apartment,2,1,40,1995,0,1,0,1,0,7.3,Gravel,86300
+Gasabo,Apartment,1,1,40,2021,1,0,0,1,0,3.4,Tarmac,216300
+Musanze,Apartment,3,2,77,2010,0,1,0,1,0,3.7,Gravel,130100
+Kicukiro,Standalone Villa,2,1,54,2017,0,0,1,1,0,9.3,Tarmac,271400
+Rubavu,Townhouse,1,1,40,2016,1,1,0,1,0,3.1,Gravel,108800
+Rubavu,Apartment,4,3,127,1991,0,0,0,1,1,6.6,Gravel,130300
+Musanze,Townhouse,2,2,80,2022,0,1,0,1,1,2.6,Gravel,154800
+Musanze,Standalone Villa,3,2,88,2005,1,1,0,1,0,1.5,Gravel,186000
+Kicukiro,Bungalow,2,2,64,2011,0,1,0,1,0,4.8,Tarmac,200000
+Gasabo,Bungalow,2,2,53,2002,0,1,0,1,1,2.0,Dirt,202100
+Kicukiro,Townhouse,3,3,92,1991,0,1,1,0,0,18.3,Gravel,209300
+Gasabo,Bungalow,4,3,126,2003,0,0,0,0,1,2.9,Gravel,264000
+Nyarugenge,Townhouse,3,3,88,2017,0,1,1,1,0,7.3,Dirt,249300
+Kicukiro,Bungalow,4,4,92,1996,1,0,1,1,0,2.4,Tarmac,268000
+Huye,Apartment,2,2,64,2007,0,0,0,0,1,2.4,Tarmac,101100
+Nyarugenge,Apartment,4,3,125,1993,1,0,0,1,1,3.5,Gravel,257300
+Musanze,Townhouse,2,2,49,2019,0,1,0,0,0,19.8,Dirt,95000
+Gasabo,Standalone Villa,3,3,70,2013,0,0,1,1,0,4.0,Tarmac,344400
+Rubavu,Townhouse,3,2,112,2009,0,0,0,1,1,13.8,Gravel,136100
+Rubavu,Bungalow,5,5,157,2020,0,1,0,1,0,1.8,Gravel,186600
+Kicukiro,Apartment,3,2,86,2013,0,1,0,1,1,0.5,Dirt,211000
+Nyarugenge,Townhouse,2,2,42,1996,0,0,0,1,0,12.2,Tarmac,219900
+Musanze,Apartment,1,1,40,2015,0,1,0,0,0,6.2,Tarmac,108900
+Gasabo,Apartment,4,4,139,2002,0,0,1,1,0,5.6,Tarmac,263900
+Kicukiro,Standalone Villa,3,3,92,1997,1,1,0,0,0,2.5,Gravel,277500
+Kicukiro,Apartment,4,3,111,1994,0,1,0,1,0,0.6,Dirt,200500
+Gasabo,Standalone Villa,2,2,67,2002,0,1,0,1,0,5.3,Gravel,260600
+Kicukiro,Standalone Villa,3,2,77,2018,0,1,0,1,0,16.2,Dirt,215000
+Gasabo,Apartment,1,1,52,2009,0,0,0,1,0,1.0,Gravel,184800
+Gasabo,Townhouse,5,5,170,2003,1,0,0,1,0,21.2,Gravel,265200
+Gasabo,Townhouse,3,3,83,2021,0,1,0,1,0,2.6,Tarmac,257700
+Huye,Apartment,5,4,140,2016,0,0,0,0,1,6.1,Tarmac,168000
+Kicukiro,Apartment,2,2,40,2014,0,1,0,0,0,0.6,Tarmac,175900
+Huye,Bungalow,3,3,67,1993,1,0,0,1,0,4.4,Tarmac,111600
+Kicukiro,Townhouse,3,3,69,2010,0,0,0,1,0,1.1,Tarmac,206600
+Kicukiro,Apartment,3,3,92,2007,0,1,0,1,1,0.5,Tarmac,235200
+Kicukiro,Apartment,4,4,115,2004,0,0,0,1,0,27.2,Tarmac,188600
+Kicukiro,Townhouse,5,4,129,2013,0,0,1,1,0,10.5,Tarmac,286000
+Gasabo,Townhouse,4,4,115,1997,0,0,1,1,0,10.2,Tarmac,296600
+Nyarugenge,Apartment,4,3,127,2017,1,1,0,1,1,0.8,Gravel,283700
+Gasabo,Standalone Villa,2,2,67,2010,1,0,0,1,1,21.2,Gravel,272000
+Nyarugenge,Standalone Villa,2,1,40,2005,1,0,0,1,0,5.1,Gravel,297200
+Nyarugenge,Townhouse,5,4,148,2005,0,0,0,1,0,15.3,Gravel,269100
+Gasabo,Apartment,1,1,40,2006,0,0,0,1,0,0.5,Gravel,159500
+Gasabo,Standalone Villa,4,3,133,1998,0,0,0,0,0,2.8,Dirt,263700
+Musanze,Apartment,4,4,131,2018,1,1,0,1,1,40.0,Tarmac,146700
+Kicukiro,Bungalow,3,2,76,2007,0,1,0,0,0,4.5,Tarmac,215600
+Gasabo,Townhouse,5,4,138,2001,1,0,0,0,0,17.5,Tarmac,287600
+Huye,Townhouse,3,3,83,2008,0,1,0,1,0,3.2,Gravel,127900
+Gasabo,Townhouse,3,3,56,2011,1,1,0,1,0,6.0,Tarmac,261300
+Nyarugenge,Standalone Villa,2,2,65,2004,0,0,0,0,0,15.4,Tarmac,317100
+Huye,Bungalow,3,3,85,1990,0,0,1,0,1,7.4,Tarmac,151300
+Gasabo,Apartment,2,2,74,1991,0,1,0,1,0,10.3,Gravel,182900
+Gasabo,Townhouse,3,3,73,1997,1,1,0,1,0,2.1,Gravel,249100
+Gasabo,Apartment,4,4,110,2011,0,0,1,0,0,1.4,Tarmac,272800
+Kicukiro,Apartment,5,4,127,2014,1,0,0,1,0,2.1,Tarmac,241300
+Gasabo,Standalone Villa,2,2,44,1991,1,0,0,0,0,5.4,Dirt,241400
+Nyarugenge,Townhouse,3,3,72,1998,1,0,1,1,0,12.9,Gravel,274200
+Gasabo,Townhouse,5,4,164,1998,1,1,0,1,0,3.5,Tarmac,321400
+Kicukiro,Standalone Villa,2,2,49,2002,1,1,0,1,1,6.7,Dirt,245800
+Huye,Standalone Villa,2,2,61,1995,1,1,0,1,0,13.1,Tarmac,144400
+Musanze,Bungalow,2,2,54,2019,0,0,0,0,0,2.2,Tarmac,114800
+Nyarugenge,Apartment,3,2,70,2004,1,0,0,1,0,17.2,Tarmac,217200
+Kicukiro,Townhouse,2,1,57,2004,1,0,0,0,0,24.5,Dirt,146700
+Nyarugenge,Townhouse,5,5,158,1996,0,1,0,1,0,0.5,Tarmac,318900
+Kicukiro,Standalone Villa,3,2,71,2000,1,1,1,1,0,0.5,Tarmac,328300
+Kicukiro,Apartment,3,3,102,1991,0,0,1,0,0,0.8,Dirt,182700
+Gasabo,Standalone Villa,2,1,47,1999,0,0,0,1,1,12.0,Gravel,258500
+Rubavu,Apartment,3,2,82,2006,0,1,0,0,0,1.7,Gravel,115200
+Kicukiro,Apartment,3,2,97,1996,0,1,0,1,0,10.3,Tarmac,187600
+Gasabo,Apartment,4,4,110,1993,1,0,0,1,1,4.7,Tarmac,248100
+Kicukiro,Apartment,4,4,120,2020,1,0,0,1,0,14.5,Dirt,197700
+Kicukiro,Townhouse,3,3,85,2014,1,0,0,1,0,13.2,Gravel,213900
+Musanze,Townhouse,5,4,151,2002,1,1,0,0,0,25.7,Gravel,181000
+Nyarugenge,Apartment,4,4,84,2007,0,1,0,1,1,2.3,Dirt,263400
+Musanze,Standalone Villa,4,3,92,2010,0,1,0,1,0,2.1,Gravel,180200
+Gasabo,Standalone Villa,2,1,69,1990,0,1,0,0,0,0.5,Tarmac,270700
+Kicukiro,Standalone Villa,1,1,45,1997,1,1,0,0,1,4.2,Tarmac,258200
+Kicukiro,Townhouse,2,1,46,2010,0,0,0,1,0,4.9,Tarmac,201200
+Gasabo,Standalone Villa,3,2,86,2010,1,0,0,1,1,26.7,Tarmac,312800
+Gasabo,Townhouse,3,2,94,2016,1,0,1,1,1,14.2,Dirt,246300
+Musanze,Standalone Villa,3,2,100,2008,1,0,0,1,0,1.5,Tarmac,204800
+Gasabo,Townhouse,4,3,89,2012,0,1,0,1,1,12.8,Dirt,223100
+Kicukiro,Standalone Villa,4,4,106,1994,0,1,1,0,1,1.6,Gravel,314500
+Gasabo,Townhouse,5,4,145,1997,1,1,0,1,1,0.6,Dirt,285900
+Gasabo,Bungalow,3,3,100,2000,1,0,0,0,0,14.5,Dirt,189100
+Gasabo,Townhouse,3,2,127,2005,0,0,0,1,1,29.8,Gravel,217400
+Huye,Townhouse,2,1,56,2013,1,0,0,0,0,0.7,Dirt,94100
+Musanze,Apartment,2,2,40,2010,1,1,0,1,1,13.5,Gravel,136900
+Huye,Bungalow,2,1,66,2012,0,0,0,1,0,15.7,Gravel,91600
+Kicukiro,Apartment,3,3,109,1997,0,0,0,1,0,1.0,Gravel,209800
+Gasabo,Apartment,3,3,91,1996,0,0,0,0,0,2.7,Gravel,194300
+Kicukiro,Apartment,4,4,106,1991,0,1,0,1,0,10.6,Tarmac,212500
+Kicukiro,Bungalow,2,1,74,2019,1,1,1,0,0,13.2,Tarmac,216600
+Musanze,Bungalow,4,3,129,2002,0,1,0,1,0,3.5,Tarmac,159000
+Gasabo,Bungalow,3,2,74,2012,1,1,0,1,0,1.4,Tarmac,251300
+Kicukiro,Townhouse,2,2,65,2018,1,1,0,1,0,8.4,Tarmac,206300
+Gasabo,Standalone Villa,3,2,104,2009,0,0,0,0,0,9.7,Dirt,257000
+Kicukiro,Bungalow,2,1,77,2022,0,0,1,1,0,5.6,Gravel,196300
+Nyarugenge,Bungalow,3,3,89,2018,0,1,0,1,1,1.3,Tarmac,279200
+Kicukiro,Standalone Villa,3,3,84,2004,0,1,0,1,0,14.9,Gravel,227200
+Kicukiro,Apartment,2,2,78,2012,1,0,0,1,0,8.3,Dirt,184900
+Kicukiro,Townhouse,2,1,41,1992,1,0,0,1,0,16.3,Gravel,178600
+Kicukiro,Bungalow,3,2,96,2018,0,1,0,1,1,21.6,Gravel,196900
+Musanze,Bungalow,5,4,129,1997,0,0,0,1,0,13.1,Tarmac,151500
+Rubavu,Bungalow,3,3,105,2011,0,1,0,1,0,25.5,Tarmac,103600
+Huye,Bungalow,4,3,116,2018,0,0,0,0,0,24.7,Gravel,100300
+Musanze,Bungalow,3,3,109,1991,0,0,0,1,1,7.7,Tarmac,156100
+Kicukiro,Townhouse,5,5,157,1990,1,0,0,1,0,10.4,Tarmac,268600
+Nyarugenge,Townhouse,4,3,101,2009,0,1,0,1,1,9.6,Dirt,261200
+Kicukiro,Apartment,3,3,111,2010,1,1,0,0,0,7.8,Gravel,224600
+Gasabo,Townhouse,3,2,113,1997,0,0,0,0,1,0.5,Tarmac,256600
+Musanze,Standalone Villa,4,4,133,2016,1,1,0,1,0,3.5,Tarmac,233500
+Gasabo,Bungalow,3,2,78,1995,1,0,0,1,0,0.8,Tarmac,255200
+Rubavu,Standalone Villa,3,3,85,2008,0,0,0,1,0,2.9,Tarmac,167000
+Kicukiro,Apartment,1,1,40,2007,0,1,0,0,1,0.6,Gravel,171900
+Nyarugenge,Apartment,4,4,109,1990,1,0,0,0,0,20.2,Tarmac,240400
+Nyarugenge,Townhouse,4,4,145,2014,1,1,0,1,0,4.8,Gravel,310100
+Rubavu,Standalone Villa,2,1,62,2016,1,1,0,1,1,1.7,Gravel,185300
+Nyarugenge,Apartment,3,3,49,1996,1,1,0,0,0,7.0,Gravel,218100
+Nyarugenge,Apartment,3,2,95,2018,0,1,0,0,0,1.7,Gravel,223600
+Gasabo,Standalone Villa,2,1,54,2020,1,1,0,1,0,13.1,Tarmac,301000
+Kicukiro,Apartment,5,5,148,2008,1,0,0,0,0,2.9,Gravel,232000
+Gasabo,Apartment,2,2,54,1995,1,0,0,1,0,3.0,Gravel,197400
+Nyarugenge,Standalone Villa,2,1,72,2014,1,0,0,0,1,16.3,Gravel,300900
+Kicukiro,Standalone Villa,3,2,106,2020,1,1,0,1,0,6.6,Tarmac,304600
+Nyarugenge,Standalone Villa,4,3,124,1998,1,0,0,0,1,17.5,Tarmac,356700
+Gasabo,Apartment,1,1,40,2009,1,0,0,1,0,4.3,Tarmac,206900
+Gasabo,Bungalow,3,2,89,1999,1,1,0,0,0,3.4,Gravel,229800
+Nyarugenge,Standalone Villa,3,3,90,2016,0,1,0,0,0,5.6,Gravel,324300
+Gasabo,Apartment,2,1,47,2002,1,1,0,0,1,0.5,Gravel,205900
+Gasabo,Apartment,2,1,68,1991,1,1,1,1,0,1.3,Gravel,209800
+Gasabo,Apartment,3,3,96,2010,0,0,0,1,1,2.0,Tarmac,240500
+Huye,Apartment,2,2,83,2022,0,1,0,0,1,13.6,Dirt,105400
+Nyarugenge,Apartment,5,5,168,2013,1,0,0,0,0,10.6,Tarmac,289400
+Kicukiro,Townhouse,4,4,109,2023,1,0,0,1,0,1.7,Tarmac,266400
+Gasabo,Townhouse,5,4,162,1998,0,1,0,1,0,2.6,Gravel,283500
+Kicukiro,Standalone Villa,2,2,45,1991,1,1,1,1,1,23.1,Tarmac,278800
+Musanze,Townhouse,5,5,160,2019,1,1,0,1,0,0.7,Tarmac,227400
+Nyarugenge,Apartment,3,3,82,2011,0,1,1,0,1,6.3,Gravel,242100
+Gasabo,Bungalow,3,2,74,2000,0,1,0,0,0,5.9,Dirt,192000
+Gasabo,Apartment,2,1,64,2006,1,0,0,0,1,10.3,Tarmac,218000
+Gasabo,Townhouse,2,2,40,2002,1,1,0,1,0,2.4,Tarmac,265700
+Nyarugenge,Apartment,3,3,63,1996,0,1,1,1,0,21.8,Tarmac,226900
+Musanze,Bungalow,3,2,87,2005,0,1,0,0,1,4.2,Dirt,131400
+Gasabo,Standalone Villa,2,1,61,2022,0,0,0,0,1,2.7,Tarmac,307600
+Gasabo,Apartment,3,3,84,1990,1,0,0,1,0,3.3,Tarmac,227600
+Gasabo,Townhouse,2,2,40,2000,0,1,0,0,0,3.4,Tarmac,241100
+Huye,Apartment,3,3,77,1995,0,0,0,0,0,1.8,Tarmac,106200
+Gasabo,Townhouse,3,3,95,2009,0,1,0,1,0,21.1,Tarmac,234300
+Musanze,Townhouse,4,4,128,2015,1,0,1,0,0,1.5,Tarmac,210900
+Nyarugenge,Apartment,4,3,119,2001,0,0,0,0,0,17.2,Tarmac,246900
+Kicukiro,Standalone Villa,3,3,107,2019,0,1,0,1,1,4.2,Tarmac,319500
+Gasabo,Apartment,3,2,95,2017,1,0,0,1,0,2.5,Dirt,221300
+Gasabo,Townhouse,3,3,78,2016,0,1,0,1,0,1.8,Dirt,252100
+Nyarugenge,Apartment,4,3,115,2008,0,0,1,0,0,5.6,Tarmac,268100
+Musanze,Standalone Villa,3,2,68,1994,1,0,0,1,0,8.9,Gravel,171800
+Nyarugenge,Bungalow,2,2,58,1994,0,0,0,1,0,18.3,Gravel,184400
+Kicukiro,Apartment,2,2,76,2016,1,1,0,0,0,8.5,Tarmac,191600
+Gasabo,Bungalow,3,2,100,2017,0,0,0,1,0,5.3,Tarmac,219800
+Huye,Townhouse,3,3,111,2015,0,1,1,1,1,0.5,Gravel,207200
+Musanze,Apartment,4,4,115,2016,1,1,0,1,1,19.8,Tarmac,181800
+Gasabo,Standalone Villa,2,2,80,2010,0,1,0,1,0,18.6,Gravel,257200
+Huye,Townhouse,3,2,87,1990,1,1,0,1,0,3.8,Tarmac,145000
+Nyarugenge,Standalone Villa,4,4,142,2017,0,0,0,1,1,0.5,Tarmac,375000
+Nyarugenge,Apartment,4,3,119,2004,0,0,0,1,0,10.6,Gravel,229900
+Nyarugenge,Apartment,3,3,100,2006,1,1,0,0,1,12.5,Gravel,235400
+Musanze,Townhouse,3,2,112,2015,0,0,1,1,1,6.3,Dirt,191200
+Nyarugenge,Townhouse,3,3,87,2009,0,1,1,0,1,4.1,Gravel,311100
+Gasabo,Standalone Villa,5,4,153,2014,0,1,0,0,0,15.2,Tarmac,347400
+Kicukiro,Apartment,2,2,79,2002,0,0,0,1,1,1.7,Gravel,201800
+Rubavu,Townhouse,5,4,148,2022,1,1,0,1,1,4.6,Gravel,204200
+Gasabo,Bungalow,3,2,70,2014,1,1,0,0,1,0.5,Gravel,250400
+Kicukiro,Apartment,3,3,122,1997,1,0,0,1,0,1.4,Tarmac,212500
+Kicukiro,Apartment,1,1,40,1994,1,1,0,0,1,22.6,Tarmac,145600
+Kicukiro,Bungalow,3,3,92,1995,0,0,0,1,0,6.9,Dirt,172300
+Nyarugenge,Townhouse,3,3,107,2012,0,1,0,0,0,13.1,Dirt,231000
+Huye,Townhouse,2,1,50,2019,1,1,0,1,0,5.3,Tarmac,131000
+Gasabo,Bungalow,3,3,74,2003,0,1,0,1,1,14.4,Tarmac,219800
+Gasabo,Townhouse,5,5,153,2012,0,1,1,1,1,6.2,Gravel,307300
+Gasabo,Apartment,3,2,63,2000,1,1,0,0,1,0.5,Tarmac,237300
+Rubavu,Townhouse,4,4,115,2020,0,1,0,1,0,18.4,Tarmac,143500
+Nyarugenge,Townhouse,2,2,63,1995,0,1,0,1,0,1.3,Gravel,246500
+Gasabo,Bungalow,3,3,85,2000,1,1,0,1,1,4.8,Gravel,234600
+Musanze,Apartment,2,1,40,2002,1,1,0,1,0,5.2,Tarmac,142000
+Rubavu,Standalone Villa,3,2,113,2001,0,1,0,1,1,0.5,Gravel,189600
+Musanze,Townhouse,5,4,151,1991,0,1,0,0,0,0.5,Gravel,181900
+Rubavu,Apartment,3,3,111,2006,1,1,0,0,1,11.5,Gravel,134400
+Gasabo,Standalone Villa,2,1,56,2017,1,1,0,1,1,2.9,Tarmac,311800
+Musanze,Bungalow,3,3,76,2017,1,0,0,1,0,4.2,Tarmac,152600
+Kicukiro,Standalone Villa,3,3,94,2011,0,1,0,1,0,6.6,Tarmac,283100
+Musanze,Townhouse,3,3,86,1996,0,1,0,1,0,3.7,Tarmac,137700
+Nyarugenge,Bungalow,4,4,102,2004,0,1,0,0,1,11.9,Tarmac,285500
+Musanze,Apartment,4,4,142,2021,0,0,0,0,1,17.3,Tarmac,151500
+Nyarugenge,Bungalow,3,3,80,2000,0,1,1,1,1,0.5,Tarmac,302200
+Gasabo,Townhouse,3,3,62,2013,0,0,0,1,0,8.1,Tarmac,245500
+Kicukiro,Standalone Villa,2,2,79,1992,0,0,0,1,1,3.1,Tarmac,262900
+Huye,Standalone Villa,2,1,52,2019,1,1,0,0,0,7.0,Tarmac,137400
+Huye,Bungalow,3,3,80,1995,1,1,0,0,0,5.3,Gravel,107400
+Gasabo,Apartment,3,2,63,1991,0,0,0,0,1,3.2,Tarmac,220300
+Gasabo,Apartment,3,3,116,2003,0,1,0,1,0,0.8,Tarmac,241100
+Gasabo,Apartment,3,2,70,2007,0,0,0,1,0,6.6,Tarmac,208800
+Nyarugenge,Apartment,2,2,60,2020,0,0,0,1,0,1.0,Gravel,205700
+Musanze,Standalone Villa,3,3,103,2002,0,0,0,1,0,1.4,Tarmac,201500
+Gasabo,Bungalow,2,2,66,2015,0,1,0,1,0,32.2,Dirt,141700
+Kicukiro,Bungalow,2,1,59,2001,1,0,0,1,0,3.0,Gravel,170200
+Musanze,Apartment,4,3,94,2007,1,0,1,1,1,7.0,Tarmac,186600
+Nyarugenge,Standalone Villa,1,1,40,1998,1,1,0,1,0,2.5,Tarmac,298800
+Kicukiro,Townhouse,3,3,92,2010,1,0,0,1,0,16.1,Gravel,204300
+Nyarugenge,Apartment,2,1,48,2013,1,1,0,1,0,2.7,Tarmac,226900
+Kicukiro,Townhouse,4,3,123,2023,1,1,0,0,1,3.7,Tarmac,290900
+Gasabo,Bungalow,3,3,100,1997,1,1,0,1,0,7.5,Tarmac,250900
+Nyarugenge,Bungalow,2,2,74,2022,0,0,0,0,1,16.3,Dirt,196500
+Nyarugenge,Standalone Villa,3,3,71,2012,1,1,0,0,0,13.6,Tarmac,345600
+Rubavu,Standalone Villa,4,3,152,2002,0,1,0,0,0,2.5,Tarmac,185700
+Nyarugenge,Apartment,5,5,161,2003,1,0,0,1,0,14.2,Tarmac,285800
+Musanze,Standalone Villa,2,1,59,2003,1,0,0,1,0,9.7,Gravel,134400
+Gasabo,Standalone Villa,4,4,136,2005,1,0,0,0,1,36.7,Gravel,282400
+Kicukiro,Bungalow,5,5,185,2015,0,0,0,0,0,21.9,Tarmac,240900
+Gasabo,Bungalow,5,5,128,2015,0,1,0,1,0,6.1,Gravel,253300
+Gasabo,Bungalow,3,2,86,1990,1,1,0,1,0,11.1,Tarmac,245100
+Nyarugenge,Bungalow,3,2,54,2021,1,0,0,1,0,6.8,Gravel,230300
+Huye,Apartment,3,3,92,2004,0,0,0,1,1,7.2,Tarmac,138300
+Gasabo,Townhouse,4,3,125,2010,1,1,0,1,0,0.9,Gravel,274900
+Kicukiro,Apartment,3,3,89,2007,1,0,0,0,0,0.5,Gravel,204500
+Musanze,Apartment,3,3,80,2019,0,1,1,1,0,0.5,Gravel,166100
+Gasabo,Standalone Villa,3,3,59,2002,1,0,0,0,0,27.2,Tarmac,275300
+Nyarugenge,Townhouse,4,4,125,2013,0,1,0,0,1,1.1,Gravel,317700
+Nyarugenge,Townhouse,4,4,141,2019,1,1,0,0,1,0.5,Tarmac,356000
+Nyarugenge,Apartment,2,1,51,1991,0,0,0,1,0,3.0,Dirt,167300
+Gasabo,Apartment,4,4,126,2008,1,0,0,1,0,7.1,Tarmac,251800
+Kicukiro,Apartment,3,2,66,2014,1,1,0,1,0,23.7,Gravel,171800
+Musanze,Apartment,4,4,126,2003,0,1,0,1,1,9.6,Tarmac,179600
+Nyarugenge,Apartment,3,2,84,1995,1,0,0,1,0,2.6,Tarmac,264200
+Gasabo,Townhouse,3,3,78,2001,1,1,1,0,0,22.4,Tarmac,270500
+Musanze,Townhouse,5,5,138,2009,1,0,0,0,0,0.5,Tarmac,203000
+Gasabo,Standalone Villa,2,2,54,2012,0,1,1,1,0,30.9,Tarmac,286500
+Nyarugenge,Townhouse,4,4,125,2019,0,1,0,0,1,0.5,Tarmac,326000
+Gasabo,Apartment,3,2,70,2019,0,0,0,1,0,11.2,Tarmac,201400
+Huye,Bungalow,3,3,84,2019,1,0,0,0,0,0.5,Gravel,143600
+Kicukiro,Apartment,3,2,89,2019,0,0,0,1,0,21.5,Tarmac,153900
+Kicukiro,Townhouse,3,3,73,2023,1,1,0,1,0,0.9,Gravel,249200
+Gasabo,Bungalow,3,3,116,2005,1,0,0,0,0,0.5,Gravel,240600
+Kicukiro,Bungalow,1,1,40,2013,1,0,1,1,0,17.6,Gravel,161100
+Rubavu,Apartment,2,1,49,2003,1,1,0,0,1,0.8,Tarmac,122500
+Huye,Townhouse,1,1,40,2015,1,0,0,1,0,12.8,Tarmac,74500
+Kicukiro,Apartment,5,5,176,1997,1,1,0,0,1,11.0,Gravel,271500
+Kicukiro,Apartment,5,5,158,2003,0,0,0,0,0,7.3,Gravel,214100
+Nyarugenge,Apartment,3,3,75,2020,1,0,0,0,0,3.8,Gravel,242300
+Rubavu,Bungalow,4,3,136,1991,1,0,0,1,1,19.8,Gravel,155400
+Nyarugenge,Bungalow,3,2,93,1993,1,1,0,1,1,16.4,Gravel,239700
+Kicukiro,Apartment,3,3,93,1990,1,1,0,0,0,4.4,Tarmac,204700
+Kicukiro,Standalone Villa,4,4,114,2009,0,1,0,1,1,2.1,Gravel,312200
+Nyarugenge,Bungalow,5,5,138,2003,0,0,0,0,0,2.5,Gravel,271400
+Gasabo,Standalone Villa,3,2,95,2014,1,0,0,0,0,2.0,Tarmac,332300
+Nyarugenge,Standalone Villa,4,4,111,2014,0,1,0,1,0,6.2,Tarmac,353300
+Kicukiro,Standalone Villa,2,1,87,1992,1,0,1,0,0,16.2,Gravel,264200
+Musanze,Townhouse,5,5,130,1994,0,0,0,1,0,11.9,Gravel,177600
+Gasabo,Standalone Villa,1,1,53,2015,0,0,0,1,0,12.7,Dirt,213600
+Nyarugenge,Townhouse,3,2,88,1993,0,1,0,0,0,4.8,Tarmac,255200
+Kicukiro,Standalone Villa,3,2,94,1996,1,1,0,1,0,3.1,Gravel,270500
+Nyarugenge,Apartment,3,2,102,2019,1,0,0,1,1,11.3,Gravel,239200
+Gasabo,Apartment,2,1,50,2019,0,0,1,1,0,12.6,Gravel,195300
+Nyarugenge,Apartment,5,5,162,2008,1,1,0,0,0,9.5,Tarmac,285600
+Nyarugenge,Standalone Villa,2,2,40,2022,0,1,0,1,1,0.5,Tarmac,351000
+Nyarugenge,Apartment,3,3,79,2022,0,0,0,1,0,7.1,Gravel,229600
+Nyarugenge,Townhouse,2,1,46,2003,1,1,0,0,0,3.4,Tarmac,254700
+Nyarugenge,Standalone Villa,3,3,71,1999,1,0,0,0,0,1.7,Dirt,266000
+Musanze,Townhouse,3,2,86,2017,0,0,0,0,0,9.5,Tarmac,144200
+Gasabo,Bungalow,3,2,95,2003,1,0,0,0,1,2.5,Gravel,222600
+Musanze,Townhouse,2,2,70,2005,1,0,0,1,0,19.5,Tarmac,126600
+Kicukiro,Bungalow,2,2,63,2010,0,0,0,0,0,2.8,Tarmac,192200
+Gasabo,Standalone Villa,3,3,80,2017,0,1,0,0,0,6.5,Gravel,284200
+Gasabo,Apartment,4,4,125,2022,1,0,0,0,0,14.1,Tarmac,250300
+Kicukiro,Bungalow,4,4,121,1995,0,0,0,1,0,4.1,Gravel,219200
+Musanze,Bungalow,2,2,74,2004,0,0,1,1,1,14.1,Tarmac,155000
+Nyarugenge,Bungalow,3,2,101,1992,1,1,0,1,1,10.3,Gravel,260300
+Musanze,Townhouse,2,1,60,2003,0,1,0,0,1,20.3,Tarmac,115000
+Kicukiro,Townhouse,1,1,40,1991,0,0,0,1,0,3.2,Tarmac,182700
+Kicukiro,Apartment,3,3,80,2018,0,0,0,0,0,0.9,Tarmac,216600
+Gasabo,Townhouse,3,3,81,1993,1,0,0,1,1,4.5,Gravel,259600
+Kicukiro,Apartment,2,1,55,2015,1,0,0,0,0,12.3,Tarmac,171400
+Kicukiro,Apartment,2,1,64,2001,0,0,0,0,1,4.8,Tarmac,167400
+Gasabo,Standalone Villa,1,1,40,1991,0,1,0,0,1,2.4,Gravel,266100
+Gasabo,Standalone Villa,4,4,119,2006,1,1,0,0,1,0.5,Tarmac,371000
+Nyarugenge,Apartment,5,4,150,1999,1,1,0,0,0,3.0,Gravel,262400
+Nyarugenge,Townhouse,2,1,62,2011,1,0,0,1,0,10.0,Gravel,226900
+Huye,Bungalow,2,2,52,2010,0,0,0,1,0,1.3,Tarmac,102300
+Huye,Townhouse,4,3,106,2004,1,1,0,0,1,3.3,Tarmac,177400
+Nyarugenge,Standalone Villa,5,5,123,2010,1,1,0,1,0,0.5,Gravel,398400
+Kicukiro,Bungalow,3,3,79,2010,1,0,1,1,1,10.2,Tarmac,265400
+Nyarugenge,Apartment,2,1,67,2010,1,1,0,0,0,17.0,Tarmac,198900
+Musanze,Townhouse,1,1,40,2021,0,0,0,0,0,6.7,Gravel,98400
+Gasabo,Apartment,3,3,86,1994,1,0,0,0,1,0.5,Tarmac,243400
+Kicukiro,Standalone Villa,3,2,96,1998,0,0,0,1,0,2.0,Tarmac,286200
+Musanze,Standalone Villa,1,1,40,2007,0,1,0,1,0,4.6,Tarmac,141900
+Kicukiro,Townhouse,3,2,73,2010,1,0,0,0,0,7.1,Gravel,215500
+Nyarugenge,Apartment,1,1,44,1997,1,1,0,0,0,5.5,Gravel,189000
+Nyarugenge,Apartment,4,3,136,2023,0,0,0,1,0,19.8,Gravel,235500
+Gasabo,Standalone Villa,3,2,73,1999,1,0,0,1,0,22.3,Dirt,234100
+Kicukiro,Standalone Villa,1,1,40,2013,0,1,0,1,0,0.9,Tarmac,278500
+Kicukiro,Townhouse,3,2,107,2013,1,0,0,0,1,1.2,Tarmac,270700
+Gasabo,Apartment,3,2,87,2021,1,0,0,1,1,3.5,Tarmac,265100
+Gasabo,Standalone Villa,5,4,116,2022,0,0,1,1,0,4.4,Tarmac,360200
+Musanze,Apartment,3,3,69,2023,0,1,0,0,0,7.1,Tarmac,130500
+Gasabo,Apartment,2,1,56,2000,0,1,0,1,0,11.9,Tarmac,191900
+Kicukiro,Standalone Villa,4,3,102,2020,0,0,0,0,1,1.2,Gravel,281900
+Gasabo,Townhouse,2,2,53,2007,0,0,0,0,1,13.0,Tarmac,237100
+Huye,Apartment,5,4,150,2012,1,1,0,1,1,7.5,Gravel,183800
+Gasabo,Apartment,3,3,111,2011,0,0,1,0,0,31.7,Tarmac,220800
+Kicukiro,Standalone Villa,3,3,85,2007,1,0,0,1,1,8.4,Dirt,262000
+Rubavu,Apartment,2,2,76,2009,0,0,0,0,0,10.1,Gravel,94100
+Musanze,Standalone Villa,3,3,111,2002,1,1,0,1,1,1.7,Gravel,211700
+Gasabo,Standalone Villa,4,3,141,1990,0,0,0,0,0,11.7,Dirt,253400
+Musanze,Apartment,4,4,124,1993,0,1,0,1,0,0.7,Dirt,141800
+Kicukiro,Apartment,2,1,40,2013,0,1,0,0,1,8.5,Tarmac,194300
+Kicukiro,Bungalow,2,2,66,1991,0,1,0,0,1,0.5,Tarmac,215900
+Gasabo,Townhouse,4,4,135,2017,1,1,0,1,0,1.0,Gravel,299500
+Gasabo,Townhouse,5,5,148,2015,1,0,0,1,0,0.9,Tarmac,309000
+Nyarugenge,Standalone Villa,2,2,86,2012,1,1,0,1,0,0.5,Tarmac,364500
+Kicukiro,Townhouse,3,2,102,2004,0,1,0,1,0,3.1,Tarmac,235200
+Kicukiro,Bungalow,3,2,98,2016,0,0,0,1,0,40.0,Tarmac,167400
+Nyarugenge,Townhouse,4,3,136,1995,0,0,1,0,1,3.4,Tarmac,341000
+Musanze,Apartment,2,2,65,1999,1,0,0,1,0,11.4,Tarmac,138300
+Gasabo,Standalone Villa,2,2,40,2019,0,1,1,1,1,1.1,Tarmac,351500
+Nyarugenge,Standalone Villa,4,4,112,2018,0,0,1,1,1,4.8,Tarmac,405000
+Gasabo,Standalone Villa,2,2,77,1993,0,0,0,1,1,1.6,Tarmac,315300
+Musanze,Standalone Villa,3,3,77,1994,0,1,0,1,1,1.7,Gravel,200000
+Nyarugenge,Bungalow,3,2,86,1993,0,1,0,1,1,0.8,Tarmac,275300
+Huye,Townhouse,3,3,74,2005,0,0,0,1,0,4.5,Dirt,106500
+Gasabo,Apartment,3,2,116,2014,0,1,0,0,0,0.6,Tarmac,242300
+Gasabo,Apartment,3,3,115,2003,0,1,0,1,0,19.2,Dirt,192000
+Gasabo,Standalone Villa,2,2,46,2000,0,0,0,0,0,4.8,Tarmac,296500

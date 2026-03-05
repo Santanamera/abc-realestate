@@ -1,0 +1,24 @@
+{
+  "model_type": "RandomForestRegressor",
+  "features_categorical": [
+    "district",
+    "property_type",
+    "road_condition"
+  ],
+  "features_numeric": [
+    "bedrooms",
+    "bathrooms",
+    "size_sqm",
+    "year_built",
+    "has_garage",
+    "has_garden",
+    "has_swimming_pool",
+    "has_security",
+    "is_gated_community",
+    "distance_to_cbd_km"
+  ],
+  "target": "price_usd",
+  "r2_test": 0.9318,
+  "mae_test": 13378.89,
+  "rmse_test": 16907.32
+}
